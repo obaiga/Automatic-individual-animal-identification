@@ -44,7 +44,6 @@ clsmtd = 'origin'
 scfeed = True   ##### whether using adaptive k++ (True) or k++ (False)
 updateprob_bstSC = True  #### True: update weight factor only when best silhouette score updates
 
-# used_nonzero = True
 print('data format:%s'%data_mof[1:])   
 #### '_diag': the diagonal value is the sum of the simailrity scores for an image
 
@@ -70,7 +69,7 @@ scoreAry = copy.copy(hsres.scoreAry)
 if sq_flag:
     scoreAry = scoreAry**2
     
-# In[Load scorematrix]
+# In[calculate ground truth silhouette]
 if scoreAry is not None:
     Lis_SC_gt,SCavg_gt,Lis_SCcls_gt,SC_info_gt = \
         utils.SilhouetteScore(hsres,cluster_gt,sq_flag=sq_flag,scoreAry=scoreAry)
@@ -95,10 +94,14 @@ if scoreAry is not None:
 # warnings.filterwarnings("ignore")
 record = 1001
 
-ConvgTimes = 50
 learnsTimes = 200
 fixedTimes = 1
 totalTimes = int(learnsTimes*fixedTimes)
+
+if clsmtd == hsres.mtdori:
+    ConvgTimes = learnsTimes
+elif clsmtd == hsres.mtdplus:
+    convgTimes = 50
 
 hsres.data_dir = join(hsres.res_dir,'data')
 utils.CheckDir(hsres.data_dir)
@@ -185,7 +188,7 @@ while (1):
         #### & ConvgTimes:convergence times after find a clustering with best SC
         while((ilearn<learnsTimes) & (iSCbst_convg<ConvgTimes)):
             ilearn += 1
-            if not scfeed:
+            if clsmtd == hsres.mtdori:
                 if init_prob.all() == 1:
                     pass
                 else:
@@ -352,7 +355,7 @@ while (1):
         print('k_pred=%d,spend time:%.2f mins,range=%d '
               %(nclusterPot,(end-start)/60,rag))
         
-        if (scfeed) & (clsmtd == hsres.mtdplus):
+        if clsmtd == hsres.mtdplus:
             print('bstSC=%.3f,bstSCnon=%.3f;bst_MI=%.3f;iteration=%d'%(SC_bst,SCnon_bst,MI_bst,upditer[-1]))
         else:
             i = int(len(Lis_SC)/learnsTimes)

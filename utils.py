@@ -116,7 +116,7 @@ def merge_clusters(scoreAry,prev_cls,prev_pt,SClis,SC_info):
 '''
 modify on 03/07/2023
 '''
-def lowSC_solve(prev_cls,SC_pt,SC_info,thred,T2=None):  
+def lowSC_solve(prev_cls,SC_pt,SC_info,thred):  
     ## SC_info: containing clsidx,a,b1,b_clsidx,b2,b2_clsidx,bstScore,bstidx
     # SC_pt = prev_SClis
     # thred =  prev_SCavgnon
@@ -125,92 +125,22 @@ def lowSC_solve(prev_cls,SC_pt,SC_info,thred,T2=None):
     targ_cls = copy.deepcopy(prev_cls)
     lowSC_idx = list(np.where(SC_pt<0)[0])
     ##### include isolated images
-    res_check = np.empty([len(lowSC_idx),7],dtype='object')
+    res_check = []
     ##### res_check: sc_new,SC_old,info_label,iidx,aClsIdx,b1ClsIdx,b2ClsIdx
     lowSC_idxupd = copy.deepcopy(lowSC_idx)
     
     if len(lowSC_idx) > 0:
-        
+
         #####--------------------------
-        ######## modify on 05/08/2023
-        ######## if both an image with its nearest neighbor image are outlier images
-        ####### speical case: switch each other [yy,....] [xx] to [xx,....] [yy]
-        bsts = SC_info[lowSC_idx,7]
-        ii = 0
-        lowSC_idx = np.vstack((np.array(lowSC_idx),np.zeros(len(lowSC_idx)))).T
-        
-        for aa,(iidx,iflag) in  enumerate(lowSC_idx[:40]):
-            if iflag == 0:
-                flag_merge = False
-                iidx = int(iidx)
-                ibstidx =int(bsts[aa]) 
-                ibstidx_pos = np.where(np.array(lowSC_idx[:,0])==ibstidx)[0]
-                if len(ibstidx_pos)>0:
-                    
-                    
-                    for j,which in enumerate([iidx,ibstidx]):
-                        info = SC_info[which]
-                        a = info[1]
-                        b1 = info[2]
-                        b2 = info[4]
-                        aClsIdx = int(info[0])
-                        b1ClsIdx = int(info[3])
-                        b2ClsIdx = int(info[5])
-                        bstidx = int(info[7])
-                        bst_idxcls = SC_info[bstidx,0]
-                        
-                        snew = (b1-np.max([a,b2]))/(b1+1e-6)
-                        
-                        if j == 0:
-                            snew_iidx = snew
-                        elif j == 1:
-                            snew_ibstidx = snew
-                            
-                    if (snew_iidx >= thred) & (snew_iidx >= snew_ibstidx) \
-                        & (bst_idxcls == b1ClsIdx):
-                        try:
-                            
-                            targ_cls[int(SC_info[iidx,0])].remove(iidx)
-                            targ_cls[int(SC_info[iidx,3])].append(iidx)
-                            res_check[ii,:] = [snew,SC_pt[iidx],'mergetonn',\
-                                                iidx,aClsIdx,b1ClsIdx,b2ClsIdx]
-                            flag_merge = True
-                        except Exception:
-                            pass
-                        
-                    elif (snew_ibstidx >= thred) & (bst_idxcls == b1ClsIdx):
-                        try:
-                            targ_cls[int(SC_info[ibstidx,0])].remove(ibstidx)     #### aClsIdx
-                            targ_cls[int(SC_info[ibstidx,3])].append(ibstidx)    ###b1ClsIdx
-                            res_check[ii,:] = [snew,SC_pt[iidx],'nntomerge',\
-                                                iidx,aClsIdx,b1ClsIdx,b2ClsIdx]
-                            flag_merge = True
-                        except Exception:
-                            pass
-                            
-                        
-                    if flag_merge == True:
-                        
-                        print('speical case: %d,%d'%(iidx,ibstidx))
-                        lowSC_idx[ibstidx_pos[0],1] = 1
-                        ii += 1
-                        lowSC_idxupd.remove(iidx)
-                        try:
-                            lowSC_idxupd.remove(ibstidx)
-                        except Exception:
-                            pass
-                            
-        #####--------------------------
-                # 
+        ######## modify on 11/09/2023
+        while (1):
+            if len(lowSC_idxupd) == 0:
+                break
             
-                # bst_idxcls = SC_info[bstidx,0]
-                # bst_score = info[6]
-    #####--------------------------            
-    if  len(lowSC_idxupd) > 0:       
-        for ii,iidx in enumerate(lowSC_idxupd):
-            
-            flag = False
-            
+            flag = False   
+            ##### determine whether the outlier statfies the requirment (in default: false)
+            iidx = int(lowSC_idxupd[0])
+            # print(iidx)
             info = SC_info[iidx]
             a = info[1]
             b1 = info[2]
@@ -223,34 +153,40 @@ def lowSC_solve(prev_cls,SC_pt,SC_info,thred,T2=None):
             snew = (b1-np.max([a,b2]))/(b1+1e-6)
         
             bst_idxcls = SC_info[bstidx,0]
-            bst_score = info[6]
-            if T2 == None:
-                #        
-                if (snew >= thred) & (bst_idxcls == b1ClsIdx):
-                # if (snew >= thred) & (b2 != 0) & (bst_idxcls == b1ClsIdx):
-                    flag = True
-                        
-            else:
-                # if (snew >= thred) & (bst_score>=T2): 
-                if (snew >= thred) & (bst_idxcls == b1ClsIdx) & (bst_score>=T2): 
-                    flag = True
+            bst_score = info[6]     
+            
+            ans  = np.where(lowSC_idx == bstidx)[0]
+            if len(ans) > 0:
+                print('check: its nearest neighbor is outlier too, %d %d'
+                      %(iidx,bstidx))
+            
+            if (snew >= thred) & (bst_idxcls == b1ClsIdx):
+                flag = True
+                ans  = np.where(lowSC_idx == bstidx)[0]
+                if len(ans) > 0:
+                    print('its nearest neighbor is outlier too and is merged so removed from outlier list, %d %d'
+                          %(iidx,bstidx))
+                    lowSC_idxupd.remove(bstidx)
             if flag == True:
                 #### merge to the nearest neighbor cluster
                 targ_cls[b1ClsIdx].append(iidx)
                 targ_cls[aClsIdx].remove(iidx)
-                res_check[ii,:] = [snew,SC_pt[iidx],'nearest',\
-                                    iidx,aClsIdx,b1ClsIdx,b2ClsIdx]
+                res_check.append( [snew,SC_pt[iidx],'nearest',\
+                                    iidx,aClsIdx,b1ClsIdx,b2ClsIdx])
+                    
             elif a!=-1:      ##### non-isolated images
                 ### become isolated
                 targ_cls.append([iidx])
                 targ_cls[aClsIdx].remove(iidx)
-                res_check[ii,:] = [snew,SC_pt[iidx],'indepent',\
-                                    iidx,aClsIdx,b1ClsIdx,b2ClsIdx]
+                res_check.append([snew,SC_pt[iidx],'indepent',\
+                                    iidx,aClsIdx,b1ClsIdx,b2ClsIdx])
             else:   
                 #### maintain isolated for isolated images
-                res_check[ii,:] = [None,SC_pt[iidx],'none',\
-                                        iidx,aClsIdx,b1ClsIdx,b2ClsIdx]
+                res_check.append( [None,SC_pt[iidx],'none',\
+                                        iidx,aClsIdx,b1ClsIdx,b2ClsIdx])
 
+            lowSC_idxupd.remove(iidx)
+            
     return targ_cls,res_check
 
 
