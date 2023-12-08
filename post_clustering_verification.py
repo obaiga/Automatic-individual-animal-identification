@@ -13,19 +13,19 @@ import os
 import copy
 from sklearn import metrics
 
-# code_dir = '/Users/obaiga/github/Automatic-individual-animal-identification/'
-code_dir = 'C:/Users/95316/seal'
+code_dir = '/Users/obaiga/github/Automatic-individual-animal-identification/'
+# code_dir = 'C:/Users/95316/seal'
 os.chdir(code_dir)
 
 import utils
 
-# dpath = '/Users/obaiga/Jupyter/Python-Research/SealID/'
-dpath = 'C:/Users/95316/seal'
-new_db = 'seal_hotspotter'
+dpath = '/Users/obaiga/Jupyter/Python-Research/Africaleopard/'
+# dpath = 'C:/Users/95316/seal'
+new_db = 'snow leopard'
 
 query_flag = 'vsmany_'
-# fg_flag = 'fg'   #### only containing animal body without background
-fg_flag = ''
+fg_flag = 'fg'   #### only containing animal body without background
+# fg_flag = ''
 # data_mof = '_mean'    #### modify similarity score matrix '_mean' or '' or '_diag'
 # data_mof = ''
 data_mof = '_diag'
@@ -85,7 +85,7 @@ Run post-clustering verification step
 if 1:
 
     times = 200
-    record = 1002
+    record = 1001
     k = hsres.k_gt
 
     name = '%d_%d_%s_%s_k%d.npz'\
@@ -142,7 +142,7 @@ cache = copy.copy(Lis_bstidx)
 
 bstidx = np.argmax(Lis_bstSC)
 
-cache = Lis_bstidx[bstidx:bstidx+1]
+# cache = Lis_bstidx[bstidx:bstidx+1]
 
 Lis_cls = data['Lis_cls'][cache]
 
@@ -207,7 +207,7 @@ for i,idx in enumerate(cache):
             utils.SilhouetteScore(hsres,clsII,scoreAry=scoreAry)
             
         ans = np.mean(pred_SCs_clsII)
-        if  ans >= bst_SCmean:
+        if  ans > bst_SCmean:
             
             bst_SCmean = ans
             prev_pt = copy.deepcopy(clsII_pt)

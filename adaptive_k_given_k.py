@@ -30,12 +30,12 @@ os.chdir(code_dir)
 import utils
 
 # dpath = 'C:/Users/95316/seal'
-dpath = '/Users/obaiga/Jupyter/Python-Research/SealID/'
-new_db = 'seal_hotspotter'
+dpath = '/Users/obaiga/Jupyter/Python-Research/Africaleopard/'
+new_db = 'snow leopard'
 
 query_flag = 'vsmany_'
-# fg_flag = 'fg'   #### only containing animal body without background
-fg_flag = ''
+fg_flag = 'fg'   #### only containing animal body without background
+# fg_flag = ''
 # data_mof = '_mean'    #### modify similarity score matrix '_mean' or '' or '_diag'
 # data_mof = ''
 data_mof = '_diag'
@@ -99,10 +99,7 @@ repeatTimes = 10
 
 learnsTimes = 500
 
-if clsmtd == hsres.mtdori:
-    ConvgTimes = learnsTimes
-elif clsmtd == hsres.mtdplus:
-    ConvgTimes = 200
+ConvgTimes = 200
     
 totalTimes = int(learnsTimes*repeatTimes)
 
@@ -119,7 +116,7 @@ updateprob_bstSC = True  #### True: update weight factor only when best silhouet
 # ===============================  
 print('record:%d,%s,k_gt=%d,nsample=%d,repeat alg=%d'%\
       (record,query_flag[:-1],ncluster,nsample,repeatTimes))
-if scfeed & (clsmtd == hsres.mtdplus):
+if scfeed:
     others='Convergence times = %d, otherwise running iteration=%d; update cluster medoids '\
         % (ConvgTimes,learnsTimes)
 else:
@@ -158,6 +155,8 @@ Lis_upditer = []
 warnings.filterwarnings("ignore")
 
 itimes = 0
+iters = 500
+
 while(itimes<repeatTimes):
     warnings.filterwarnings("error")
     itimes += 1
@@ -234,11 +233,13 @@ while(itimes<repeatTimes):
         centrd_upd = list(copy.copy(seeds))
     
         iiter = 0
+        flag_not_convergence = False
         while(1):
         # while(iiter < iters):
             iiter += 1
-            # if iiter == iters-1:
-            #     print('Cannot convergence')
+            if iiter == iters-1:
+                print('Cannot convergence')
+                flag_not_convergence = True
             # ========================================
             #  Assignment
             # ========================================
@@ -278,7 +279,7 @@ while(itimes<repeatTimes):
             #  Convergence               
             # ==========================================
             diff = list(set(centrd_new) - set(centrd_upd))
-            if (len(diff)==0): 
+            if (len(diff)==0) or (flag_not_convergence == True): 
                 centrd_upd = np.array(centrd_upd)
                 # print('predicted_centroid:',new_centroid_)
                 
@@ -357,7 +358,7 @@ while(itimes<repeatTimes):
     print(localtime)
     print('itimes=%d,convergence time=%d, spend time:%.2f mins, k_pred=%d'
           %(itimes,ilearn,(end-start)/60,len(cls_upd)))
-    if clsmtd == hsres.mtdplus :
+    if scfeed :
         print('bstSC=%.3f,bstSCnon=%.3f;MI_bst=%.3f,iteration=%d'
               %(SC_bst,SCnon_bst,MI_bst,upditer[-1]))
     else:

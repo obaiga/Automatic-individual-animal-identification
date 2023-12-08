@@ -22,7 +22,7 @@ from xlwt import Workbook
 function: merge_clusters
 modified on 02/10/23
 '''
-def merge_clusters(scoreAry,prev_cls,prev_pt,SClis,SC_info):
+def merge_clusters(scoreAry,prev_cls,prev_pt,SClis,SC_info,mtd='similarity'):
     ## SC_info: store clsidx,a,b1,b_clsidx,b2,b2_clsidx,bstScore,bstidx
     
     bstMtIdx = np.array(SC_info[:,-1],dtype=np.int32)  
@@ -102,7 +102,10 @@ def merge_clusters(scoreAry,prev_cls,prev_pt,SClis,SC_info):
                         bi_new = np.zeros(num)
                         bi_new[b2_as_b1] = b2[b2_as_b1]
                         bi_new[b1_as_b1] = b1[b1_as_b1]
-                        SCaft = (ai_new - bi_new ) / (np.max([ai_new,bi_new],axis=0)+1e-6)
+                        if mtd == 'similarity':
+                            SCaft = (ai_new - bi_new ) / (np.max([ai_new,bi_new],axis=0)+1e-6)
+                        elif mtd == 'Euclidean':
+                            SCaft = (bi_new -  ai_new) / (np.max([ai_new,bi_new],axis=0)+1e-6)
                         if np.mean(SCaft) >= np.mean(SCbef):
                         # if (np.mean(SCaft) >= np.mean(SCbef1)) & (np.mean(SCaft) >= np.mean(SCbef2)):
                             cache_mergeClsIdx = np.vstack([cache_mergeClsIdx,[ii,merge_clsIdx]])
@@ -116,7 +119,7 @@ def merge_clusters(scoreAry,prev_cls,prev_pt,SClis,SC_info):
 '''
 modify on 03/07/2023
 '''
-def lowSC_solve(prev_cls,SC_pt,SC_info,thred):  
+def lowSC_solve(prev_cls,SC_pt,SC_info,thred,mtd='similarity'):  
     ## SC_info: containing clsidx,a,b1,b_clsidx,b2,b2_clsidx,bstScore,bstidx
     # SC_pt = prev_SClis
     # thred =  prev_SCavgnon
@@ -149,8 +152,12 @@ def lowSC_solve(prev_cls,SC_pt,SC_info,thred):
             b1ClsIdx = int(info[3])
             b2ClsIdx = int(info[5])
             bstidx = int(info[7])
-                
-            snew = (b1-np.max([a,b2]))/(b1+1e-6)
+            #####--------------------------
+            ######## modify on 12/05/2023    
+            if mtd=='similarity':
+                snew = (b1-np.max([a,b2]))/(b1+1e-6)
+            elif mtd == 'Euclidean':
+                snew = (np.max([a,b2])-b1)/np.max([a,b2])
         
             bst_idxcls = SC_info[bstidx,0]
             bst_score = info[6]     
@@ -573,6 +580,7 @@ def SilhouetteScore(hsres,clusters,sq_flag = True,\
         elif mtd == 'Euclidean':
             bstscore = np.sort(scorecls,axis=1)[:,1]
             bstidx = np.argsort(scorecls,axis=1)[:,1]
+            
         SC_info[icluster,6] = bstscore
         SC_info[icluster,7] = bstidx
         

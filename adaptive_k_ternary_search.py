@@ -21,29 +21,32 @@ import warnings
 warnings.filterwarnings("ignore")
 import random
 
-code_dir = 'C:/Users/95316/seal'
-# code_dir = '/Users/obaiga/github/Automatic-individual-animal-identification/'
+# code_dir = 'C:/Users/95316/seal'
+code_dir = '/Users/obaiga/github/Automatic-individual-animal-identification/'
 os.chdir(code_dir)
 
 import utils
 
-dpath = 'C:/Users/95316/seal'
-# dpath = '/Users/obaiga/Jupyter/Python-Research/SealID/'
-new_db = 'seal_hotspotter'
+# dpath = 'C:/Users/95316/seal'
+dpath = '/Users/obaiga/Jupyter/Python-Research/Africaleopard/'
+new_db = 'snow leopard'
+# new_db = 'non_iso'
+
 query_flag = 'vsmany_'
-# fg_flag = 'fg'   #### only containing animal body without background
-fg_flag = ''
+fg_flag = 'fg'   #### only containing animal body without background
+# fg_flag = ''
 # data_mof = '_mean'    #### modify similarity score matrix '_mean' or '' or '_diag'
 # data_mof = ''
 data_mof = '_diag'
 
 sq_flag = True    #### True: the square of a similarity score
-# clsmtd = '++'   #### adaptive k++
-clsmtd = 'origin'
+clsmtd = '++'   #### k-medoids++
+# clsmtd = 'origin'
 
-scfeed = True   ##### whether using adaptive k++ (True) or k++ (False)
-updateprob_bstSC = True  #### True: update weight factor only when best silhouette score updates
+scfeed = False   ##### whether using adaptive k++ (True) or k++ (False)
+# scfeed = True
 
+# used_nonzero = True
 print('data format:%s'%data_mof[1:])   
 #### '_diag': the diagonal value is the sum of the simailrity scores for an image
 
@@ -69,7 +72,7 @@ scoreAry = copy.copy(hsres.scoreAry)
 if sq_flag:
     scoreAry = scoreAry**2
     
-# In[calculate ground truth silhouette]
+# In[Load scorematrix]
 if scoreAry is not None:
     Lis_SC_gt,SCavg_gt,Lis_SCcls_gt,SC_info_gt = \
         utils.SilhouetteScore(hsres,cluster_gt,sq_flag=sq_flag,scoreAry=scoreAry)
@@ -86,22 +89,22 @@ if scoreAry is not None:
         print('indiv SC:%.4f,num:%d'%(np.mean(ans),len(ans))) 
     else:
         print('no isolated images')
+        
+
     
 # In[Kcentroid]:
 # =============================================================================
 #             Adaptive k-medoids++ clustering 
 # =============================================================================
 # warnings.filterwarnings("ignore")
-record = 1001
+updateprob_bstSC = True  #### True: update weight factor only when best silhouette score updates
 
-learnsTimes = 200
+record = 1003
+
+ConvgTimes = 50
+learnsTimes = 500
 fixedTimes = 1
 totalTimes = int(learnsTimes*fixedTimes)
-
-if clsmtd == hsres.mtdori:
-    ConvgTimes = learnsTimes
-elif clsmtd == hsres.mtdplus:
-    convgTimes = 50
 
 hsres.data_dir = join(hsres.res_dir,'data')
 utils.CheckDir(hsres.data_dir)
@@ -154,6 +157,7 @@ Lis_SCbst = []
 ##---------------
 leftp = 1
 rightp = nsample
+iters = 500
 
 start = time.perf_counter()
 
@@ -188,12 +192,12 @@ while (1):
         #### & ConvgTimes:convergence times after find a clustering with best SC
         while((ilearn<learnsTimes) & (iSCbst_convg<ConvgTimes)):
             ilearn += 1
-            if clsmtd == hsres.mtdori:
-                if init_prob.all() == 1:
-                    pass
-                else:
-                    print('init_prob WRONG!')
-                    break
+            
+            if not scfeed:
+                '''keep probability as equal'''
+                init_prob = np.ones(nsample)
+                
+                
             if clsmtd == hsres.mtdplus:
                 '''
                 k-means++ initialization
@@ -216,7 +220,9 @@ while (1):
                     prob_weight = 1/scores_max 
                     try:
                         if scfeed:
+                            '''adaptive k++ (update init_prob based on previous clustering performance)'''
                             prob_weight *= init_prob[centrd_pool]
+                            
                         icentrd = random.choices(centrd_pool,weights=prob_weight)[0]
                     except Exception as e:
                         print(e)
@@ -240,11 +246,14 @@ while (1):
             centrd_upd = list(copy.copy(seeds))
         
             iiter = 0
+            flag_not_convergence = False
             while(1):
             # while(iiter < iters):
                 iiter += 1
-                # if iiter == iters-1:
-                #     print('Cannot convergence')
+                if iiter == iters-1:
+                    print('Cannot convergence')
+                    flag_not_convergence = True
+                    
                 # ========================================
                 #  Assignment
                 # ========================================
@@ -277,7 +286,7 @@ while (1):
                 #  Convergence               
                 # ==========================================
                 diff = list(set(centrd_new) - set(centrd_upd))
-                if (len(diff)==0): 
+                if (len(diff)==0) or (flag_not_convergence == True): 
                     centrd_upd = np.array(centrd_upd)
                     # print('predicted_centroid:',new_centroid_)
 
@@ -316,8 +325,9 @@ while (1):
                     
                     # countseed[seeds] += 1
                     #-------------------------------------
-                    if (scfeed) & (clsmtd == hsres.mtdplus):
+                    if scfeed:
                         '''
+                        adaptive algorithm
                         calculate the probability for an image as seed medoid 
                         '''
                         pred_centrd = np.zeros(nsample)
@@ -333,6 +343,7 @@ while (1):
                             break
                         ###########---------addition--------
                         if updateprob_bstSC:
+                            '''update medoid probability only in the best clustering'''
                             if pred_SCavg > SC_bst:
                                 upditer.append(ilearn)
                                 iSCbst_convg = 0
@@ -355,7 +366,8 @@ while (1):
         print('k_pred=%d,spend time:%.2f mins,range=%d '
               %(nclusterPot,(end-start)/60,rag))
         
-        if clsmtd == hsres.mtdplus:
+        if scfeed:
+            '''adaptive algorithm'''
             print('bstSC=%.3f,bstSCnon=%.3f;bst_MI=%.3f;iteration=%d'%(SC_bst,SCnon_bst,MI_bst,upditer[-1]))
         else:
             i = int(len(Lis_SC)/learnsTimes)
@@ -401,3 +413,20 @@ while (1):
              Lis_spendt=Lis_spendt,Lis_predcls_pt=Lis_predcls_pt,
              Lis_numconvg=Lis_numconvg,Lis_upditer=Lis_upditer,note=note,nsample=nsample,
              Lis_SCbst=Lis_SCbst,Lis_ncluster=Lis_ncluster,) 
+
+#%%
+warnings.filterwarnings("ignore")
+# =============================================================================
+#         SAVE Outputs
+# =============================================================================
+warnings.filterwarnings("ignore")
+np.savez((join(hsres.data_dir,'%d_%d_%s_%s_k%d'
+               %(record,totalTimes,fg_flag,query_flag[2:-1],ncluster))),
+         Lis_TWCV=Lis_TWCV,Lis_RI=Lis_RI,Lis_MI=Lis_MI,Lis_FMS=Lis_FMS,
+         Lis_SC=Lis_SC,Lis_SCnon=Lis_SCnon,Lis_cls=Lis_cls,
+         Lis_centrd=Lis_centrd,Lis_seed=Lis_seed,
+         SC_gt=np.mean(Lis_SC_gt),SCnon_gt=SCavg_gt,TWCV_gt=TWCV_gt,
+         Lis_initprob=Lis_initprob,Lis_iters=Lis_iters, 
+         Lis_spendt=Lis_spendt,Lis_predcls_pt=Lis_predcls_pt,
+         Lis_numconvg=Lis_numconvg,Lis_upditer=Lis_upditer,note=note,nsample=nsample,
+         Lis_SCbst=Lis_SCbst,Lis_ncluster=Lis_ncluster,) 
