@@ -44,6 +44,8 @@ sq_flag = True    #### True: the square of a similarity score
 clsmtd = '++'   #### adaptive k++
 # clsmtd = 'origin'
 
+scfeed = True   ##### whether using adaptive k++ (True) or k++ (False)
+
 print('data format:%s'%data_mof[1:])   
 #### '_diag': the diagonal value is the sum of the simailrity scores for an image
 
@@ -94,12 +96,12 @@ if scoreAry is not None:
 #             K-medoids++ clustering 
 # =============================================================================
 # warnings.filterwarnings("ignore")
-record = 2002
+record = 2001
 repeatTimes = 10
 
-learnsTimes = 500
+learnsTimes = 200
 
-ConvgTimes = 200
+ConvgTimes = 50
     
 totalTimes = int(learnsTimes*repeatTimes)
 
@@ -107,7 +109,6 @@ hsres.data_dir = join(hsres.res_dir,'data')
 utils.CheckDir(hsres.data_dir)
 
 ##### for debug (please do not change)
-scfeed = True   ##### whether using adaptive k++ (True) or k++ (False)
 updateprob_bstSC = True  #### True: update weight factor only when best silhouette score updates
 #######
 
@@ -315,7 +316,7 @@ while(itimes<repeatTimes):
                 Lis_initprob.append(copy.copy(init_prob))
                 # countseed[seeds] += 1
                 #-------------------------------------
-                if clsmtd == hsres.mtdplus:
+                if scfeed:
                     '''
                     calculate weight factor for an image as seed medoid 
                     '''
