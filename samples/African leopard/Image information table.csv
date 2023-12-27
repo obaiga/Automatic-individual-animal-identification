@@ -1,0 +1,1556 @@
+#   ChipID,                                                        Image,                 Name,  roi[tl_x  tl_y  w  h],  theta
+1,    S1__Station3__Camera2__CAM43223__2016-03-06__00-28-56.JPG,      Male_1_26_Right,      [ 84 338 402 188],0.0
+2,    S1__Station3__Camera2__CAM41063__2017-02-03__00-55-13.JPG,      Male_1_26_Right,  [ 208  699 1087  428],0.0
+3,    S1__Station5__Camera1__CAM44195__2017-01-26__16-59-41.JPG,      Male_1_26_Right,  [  29  196 1549  901],0.0
+4,    S1__Station5__Camera1__CAM44195__2017-02-15__04-47-02.JPG,      Male_1_26_Right,  [  50  339 1316  757],0.0
+5,    S1__Station5__Camera1__CAM44195__2017-03-07__19-22-08.JPG,      Male_1_26_Right,  [ 179  279 1209  658],0.0
+6,    S1__Station5__Camera2__CAM41302__2017-03-12__23-59-48.JPG,      Male_1_26_Right,  [ 207  306 1115  460],0.0
+7,    S1__Station6__Camera1__CAM40268__2017-01-31__16-03-55.JPG,      Male_1_26_Right,      [884 589 717 336],0.0
+8,    S1__Station6__Camera1__CAM40268__2017-02-01__07-12-29.JPG,      Male_1_26_Right,      [256 620 915 395],0.0
+9,    S1__Station6__Camera1__CAM40268__2017-02-01__07-12-38.JPG,      Male_1_26_Right,  [1001  602  964  373],0.0
+10,    S1__Station6__Camera2__CAM40069__2017-01-26__20-15-34.JPG,      Male_1_26_Right,  [  16  571 1451  835],0.0
+11,    S1__Station6__Camera2__CAM40069__2017-01-28__22-25-41.JPG,      Male_1_26_Right,  [  48  332 1454 1106],0.0
+12,    S1__Station6__Camera2__CAM40069__2017-02-15__17-32-50.JPG,      Male_1_26_Right,  [  53  608 1358  787],0.0
+13,    S1__Station6__Camera2__CAM40069__2017-03-07__21-07-34.JPG,      Male_1_26_Right,  [  52  644 1441  812],0.0
+14,    S1__Station6__Camera2__CAM40069__2017-03-09__17-42-53.JPG,      Male_1_26_Right,  [  51  650 1459  778],0.0
+15,    S1__Station7__Camera2__CAM41077__2017-03-16__17-12-31.JPG,      Male_1_26_Right,      [317 539 767 312],0.0
+16,   S1__Station14__Camera1__CAM40355__2015-02-08__19-01-15.JPG,       Male_1_1_Right,      [ 19 101 528 265],0.0
+17,   S1__Station13__Camera1__CAM40055__2016-02-27__20-08-43.JPG,       Male_1_1_Right,      [ 39 147 536 245],0.0
+18,   S1__Station10__Camera2__CAM44277__2017-03-04__03-15-25.JPG,       Male_1_1_Right,  [  56  412 1237  681],0.0
+19,   S1__Station13__Camera1__CAM44283__2017-02-23__14-30-58.JPG,       Male_1_1_Right,      [192 656 924 406],0.0
+20,   S1__Station13__Camera1__CAM44283__2017-02-23__14-31-07.JPG,       Male_1_1_Right,  [1542  647  504  367],0.0
+21,   S1__Station13__Camera2__CAM41036__2017-02-27__03-32-36.JPG,       Male_1_1_Right,      [270 524 999 408],0.0
+22,   S1__Station13__Camera2__CAM41036__2017-03-08__23-55-12.JPG,       Male_1_1_Right,  [ 210  362 1112  563],0.0
+23,   S1__Station14__Camera1__CAM43324__2017-01-31__23-19-58.JPG,       Male_1_1_Right,  [  52  382 1217  560],0.0
+24,   S1__Station15__Camera1__CAM44186__2017-02-28__03-51-55.JPG,       Male_1_1_Right,  [  70  674 1288  643],0.0
+25,   S1__Station17__Camera1__CAM43223__2017-03-10__06-30-16.JPG,       Male_1_1_Right,      [503 757 443 240],0.0
+26,   S1__Station24__Camera1__CAM40771__2017-01-26__19-04-13.JPG,       Male_1_1_Right,      [624 641 485 277],0.0
+27,    S1__Station5__Camera2__CAM41302__2017-03-08__02-58-41.JPG,       Male_1_1_Right,  [  46  223 1153  556],0.0
+28,    S1__Station6__Camera2__CAM40069__2017-02-05__04-03-36.JPG,       Male_1_1_Right,  [ 259  695 1033  495],0.0
+29,    S1__Station6__Camera2__CAM40069__2017-03-15__01-31-38.JPG,       Male_1_1_Right,  [  45  592 1358  742],0.0
+30,   S2__Station34__Camera1__CAM51653__2015-05-27__22-30-07.JPG,      Male_2_63_Right,      [ 23 263 433 203],0.0
+31,   S2__Station32__Camera1__CAM40275__2016-05-12__23-35-26.JPG,      Male_2_63_Right,      [ 17 326 454 254],0.0
+32,   S2__Station28__Camera1__CAM41620__2017-05-16__18-02-39.JPG,      Male_2_63_Right,  [ 300  604 1109  848],0.0
+33,   S2__Station28__Camera2__CAM40135__2017-04-05__03-16-04.JPG,      Male_2_63_Right,      [434 424 713 455],0.0
+34,   S2__Station28__Camera2__CAM40135__2017-04-14__01-51-18.JPG,      Male_2_63_Right,      [323 484 945 378],0.0
+35,   S2__Station29__Camera2__CAM43328__2017-05-09__21-00-34.JPG,      Male_2_63_Right,  [ 278  384 1021  487],0.0
+36,   S2__Station30__Camera2__CAM41033__2017-04-15__04-08-03.JPG,      Male_2_63_Right,      [544 513 754 387],0.0
+37,   S2__Station31__Camera1__CAM44280__2017-08-08__12-30-38.JPG,      Male_2_63_Right,  [  35  260 1368 1243],0.0
+38,   S2__Station31__Camera2__CAM43188__2017-04-25__02-23-09.JPG,      Male_2_63_Right,  [  79  626 1238  512],0.0
+39,   S2__Station33__Camera1__CAM40268__2017-05-07__02-06-58.JPG,      Male_2_63_Right,      [595 513 511 277],0.0
+40,   S2__Station37__Camera1__CAM41968__2017-05-18__03-59-22.JPG,      Male_2_63_Right,  [  59  336 1489  976],0.0
+41,   S2__Station37__Camera2__CAM42281__2017-04-11__19-27-47.JPG,      Male_2_63_Right,      [426 577 850 621],0.0
+42,   S2__Station37__Camera2__CAM42281__2017-04-12__02-28-30.JPG,      Male_2_63_Right,      [426 577 850 621],0.0
+43,   S2__Station38__Camera1__CAM44275__2017-04-27__23-58-06.JPG,      Male_2_63_Right,  [  55  535 1484  808],0.0
+44,   S9__Station13__Camera1__CAM63828__2017-02-26__03-18-55.JPG,       Male_9_4_Right,  [  26  268 1469  919],0.0
+45,   S9__Station13__Camera1__CAM63828__2017-04-07__02-57-15.JPG,       Male_9_4_Right,      [535 462 782 405],0.0
+46,   S9__Station14__Camera1__CAM51709__2017-04-06__02-50-20.JPG,       Male_9_4_Right,      [327 331 845 399],0.0
+47,   S9__Station14__Camera2__CAM52101__2017-03-21__23-34-37.JPG,       Male_9_4_Right,  [  65  605 1282  562],0.0
+48,   S9__Station15__Camera1__CAM52135__2017-03-20__02-39-24.JPG,       Male_9_4_Right,      [594 549 605 379],0.0
+49,    S9__Station1__Camera1__CAM51729__2017-03-26__18-50-51.JPG,       Male_9_4_Right,  [  50  462 1350  615],0.0
+50,    S9__Station1__Camera2__CAM50790__2017-04-05__18-49-48.JPG,       Male_9_4_Right,  [ 216  645 1054  482],0.0
+51,    S9__Station2__Camera1__CAM63790__2017-02-27__18-47-38.JPG,       Male_9_4_Right,      [471 679 893 409],0.0
+52,    S9__Station2__Camera2__CAM63753__2017-03-20__14-31-06.JPG,       Male_9_4_Right,  [ 103  675 1052  479],0.0
+53,    S9__Station3__Camera2__CAM63801__2017-02-18__18-02-05.JPG,       Male_9_4_Right,  [ 122  639 1138  548],0.0
+54,    S9__Station3__Camera2__CAM63801__2017-03-21__02-15-10.JPG,       Male_9_4_Right,      [379 662 911 413],0.0
+55,    S9__Station5__Camera1__CAM51670__2017-03-07__18-38-14.JPG,       Male_9_4_Right,  [ 319  652 1005  393],0.0
+56,    S9__Station5__Camera2__CAM51545__2017-03-17__03-47-01.JPG,       Male_9_4_Right,  [  47  722 1372  588],0.0
+57,   S3__Station20__Camera1__CAM41516__2017-07-03__00-55-53.JPG,      Male_3_15_Right,      [495 666 856 520],0.0
+58,   S3__Station20__Camera2__CAM40253__2017-06-07__18-04-58.JPG,      Male_3_15_Right,      [434 579 762 645],0.0
+59,   S3__Station20__Camera2__CAM40253__2017-06-20__17-07-31.JPG,      Male_3_15_Right,      [228 671 447 545],0.0
+60,   S3__Station20__Camera2__CAM40253__2017-06-20__17-07-34.JPG,      Male_3_15_Right,  [ 892  728 1053  716],0.0
+61,   S3__Station20__Camera2__CAM40253__2017-06-28__08-51-27.JPG,      Male_3_15_Right,      [372 730 931 663],0.0
+62,   S3__Station24__Camera4__CAM44289__2017-06-21__00-19-21.JPG,      Male_3_15_Right,  [ 310  522 1020  440],0.0
+63,   S3__Station24__Camera4__CAM44289__2017-06-29__04-28-28.JPG,      Male_3_15_Right,  [  45  569 1427  589],0.0
+64,   S3__Station28__Camera1__CAM40793__2017-07-10__05-35-30.JPG,      Male_3_15_Right,  [  60   21 1766 1078],0.0
+65,   S3__Station28__Camera2__CAM40658__2017-07-15__17-52-15.JPG,      Male_3_15_Right,  [ 143  489 1265  511],0.0
+66,   S3__Station31__Camera2__CAM44198__2014-04-20__18-50-39.JPG,      Male_3_15_Right,      [ 21 182 456 222],0.0
+67,   S3__Station38__Camera1__CAM41107__2015-06-09__21-23-48.JPG,      Male_3_15_Right,      [372 315 425 183],0.0
+68,   S3__Station28__Camera2__CAM44279__2016-07-08__23-18-58.JPG,      Male_3_15_Right,      [147 230 495 227],0.0
+69,   S2__Station17__Camera2__CAM41411__2014-05-03__18-40-49.JPG,      Male_2_17_Right,      [ 24 108 500 280],0.0
+70,    S2__Station7__Camera2__CAM52018__2015-05-24__00-51-54.JPG,      Male_2_17_Right,      [105 263 397 159],0.0
+71,   S2__Station16__Camera2__CAM40448__2016-04-20__18-15-11.JPG,      Male_2_17_Right,      [ 20 206 542 289],0.0
+72,   S2__Station11__Camera2__CAM40311__2017-05-17__03-28-05.JPG,      Male_2_17_Right,      [634 620 604 292],0.0
+73,   S2__Station15__Camera1__CAM44262__2017-04-22__21-18-51.JPG,      Male_2_17_Right,  [  51  388 1465 1091],0.0
+74,   S2__Station16__Camera2__CAM43197__2017-05-11__19-35-32.JPG,      Male_2_17_Right,      [457 503 655 266],0.0
+75,   S2__Station17__Camera1__CAM41516__2017-04-12__20-54-37.JPG,      Male_2_17_Right,      [424 604 841 370],0.0
+76,   S2__Station17__Camera3__CAM43217__2017-05-12__06-38-55.JPG,      Male_2_17_Right,      [258 688 901 385],0.0
+77,   S2__Station21__Camera1__CAM40055__2017-04-22__17-28-37.JPG,      Male_2_17_Right,  [ 867  542 1158  935],0.0
+78,    S2__Station7__Camera1__CAM44186__2017-04-17__13-59-12.JPG,      Male_2_17_Right,  [ 255  772 1160  458],0.0
+79,    S2__Station7__Camera1__CAM44186__2017-04-28__20-43-15.JPG,      Male_2_17_Right,  [  29  662 1643  859],0.0
+80,   S7__Station13__Camera1__CAM40175__2017-12-17__03-28-28.JPG,      Male_7_70_Right,      [383 605 808 335],0.0
+81,   S7__Station13__Camera2__CAM41828__2018-01-17__15-36-05.JPG,      Male_7_70_Right,      [560 703 505 184],0.0
+82,    S7__Station1__Camera1__CAM40793__2017-12-11__16-38-38.JPG,      Male_7_70_Right,  [  53  509 1315  773],0.0
+83,    S7__Station2__Camera2__CAM41666__2018-01-03__19-31-59.JPG,      Male_7_70_Right,      [  3 376 484 796],0.0
+84,   S7__Station37__Camera2__CAM40327__2017-12-26__20-16-39.JPG,      Male_7_70_Right,  [ 299  560 1156  378],0.0
+85,   S7__Station37__Camera2__CAM40327__2017-12-26__23-22-58.JPG,      Male_7_70_Right,      [382 520 976 362],0.0
+86,    S7__Station9__Camera1__CAM40336__2017-12-11__02-20-07.JPG,      Male_7_70_Right,      [568 502 307 223],0.0
+87,    S7__Station9__Camera2__CAM43217__2017-12-11__02-21-13.JPG,      Male_7_70_Right,  [  51  337 1565  925],0.0
+88,    S7__Station1__Camera2__CAM40304__2017-12-11__16-27-23.JPG,      Male_7_70_Right,  [  35   14 1035 1509],0.0
+89,    S7__Station1__Camera2__CAM40304__2017-12-11__16-27-30.JPG,      Male_7_70_Right,  [1024  599   92  193],0.0
+90,  S35__Station12__Camera1__CAM62811__2017-04-03__06-17-19.JPG,      Male_35_1_Right,      [562 582 572 370],0.0
+91,  S35__Station12__Camera2__CAM62801__2017-03-16__22-23-23.JPG,      Male_35_1_Right,  [1048  630  397  215],0.0
+92,  S35__Station13__Camera2__CAM62794__2017-03-23__06-12-03.JPG,      Male_35_1_Right,  [  27  406 1651  870],0.0
+93,  S35__Station17__Camera1__CAM51517__2017-03-04__01-06-27.JPG,      Male_35_1_Right,  [1831   87  216  424],0.0
+94,  S35__Station17__Camera1__CAM51517__2017-03-17__22-19-54.JPG,      Male_35_1_Right,  [1626  256  419  393],0.0
+95,  S35__Station17__Camera1__CAM51517__2017-03-25__18-29-08.JPG,      Male_35_1_Right,  [1851  319  195  303],0.0
+96,   S35__Station1__Camera1__CAM62783__2017-04-19__23-10-54.JPG,      Male_35_1_Right,  [1104   99  931  840],0.0
+97,  S35__Station33__Camera2__CAM51429__2017-04-22__08-01-10.JPG,      Male_35_1_Right,  [  53   39 1524 1070],0.0
+98,   S35__Station7__Camera2__CAM62821__2017-04-07__18-51-09.JPG,      Male_35_1_Right,  [  54   70 1590 1141],0.0
+99,   S7__Station20__Camera1__CAM44283__2014-07-18__05-25-54.JPG,    Female_7_16_Right,      [ 17  64 524 421],0.0
+100,   S7__Station34__Camera1__CAM41968__2017-12-04__09-37-14.JPG,    Female_7_16_Right,  [1084  910  954  493],0.0
+101,   S7__Station35__Camera1__CAM44211__2017-12-15__16-56-15.JPG,    Female_7_16_Right,  [  66  645 1295  554],0.0
+102,   S7__Station35__Camera1__CAM44211__2017-12-15__16-56-20.JPG,    Female_7_16_Right,  [1758  751  249  293],0.0
+103,   S7__Station35__Camera2__CAM41620__2017-12-06__09-09-59.JPG,    Female_7_16_Right,      [508 581 647 284],0.0
+104,   S7__Station35__Camera2__CAM41620__2017-12-15__05-03-41.JPG,    Female_7_16_Right,      [558 591 648 281],0.0
+105,   S7__Station35__Camera2__CAM41620__2017-12-19__04-14-25.JPG,    Female_7_16_Right,      [464 602 674 254],0.0
+106,   S7__Station40__Camera1__CAM44186__2017-12-31__05-10-55.JPG,    Female_7_16_Right,  [  77  591 1539  880],0.0
+107,   S7__Station40__Camera2__CAM41085__2017-12-10__13-53-39.JPG,    Female_7_16_Right,      [519 635 675 308],0.0
+108,   S7__Station30__Camera1__CAM44207__2017-12-26__22-06-48.JPG,    Female_7_38_Right,  [ 367  583 1074  551],0.0
+109,   S7__Station31__Camera1__CAM40135__2017-12-04__20-11-34.JPG,    Female_7_38_Right,      [187 641 981 387],0.0
+110,   S7__Station31__Camera1__CAM40135__2017-12-10__21-48-41.JPG,    Female_7_38_Right,  [  30  368 1750  872],0.0
+111,   S7__Station31__Camera1__CAM40135__2017-12-12__16-26-48.JPG,    Female_7_38_Right,      [358 647 746 326],0.0
+112,   S7__Station31__Camera1__CAM40135__2017-12-26__18-42-47.JPG,    Female_7_38_Right,      [584 573 652 283],0.0
+113,   S7__Station31__Camera1__CAM40135__2018-01-03__19-21-28.JPG,    Female_7_38_Right,      [636 647 554 180],0.0
+114,   S7__Station31__Camera3__CAM43298__2017-12-31__02-22-33.JPG,    Female_7_38_Right,      [389 515 881 408],0.0
+115,   S7__Station31__Camera3__CAM43298__2018-01-16__22-37-32.JPG,    Female_7_38_Right,  [1199  557  411  174],0.0
+116,   S7__Station41__Camera1__CAM41318__2017-12-27__01-31-25.JPG,    Female_7_38_Right,      [538 565 666 326],0.0
+117,   S9__Station39__Camera1__CAM51711__2017-02-17__15-22-31.JPG,    Female_9_12_Right,  [1265  626  237  480],0.0
+118,   S9__Station39__Camera4__CAM51943__2017-04-09__08-40-42.JPG,    Female_9_12_Right,  [  69  530 1185  499],0.0
+119,   S9__Station39__Camera5__CAM52118__2017-04-04__03-46-12.JPG,    Female_9_12_Right,  [  19  494 1266  651],0.0
+120,    S9__Station8__Camera1__CAM51707__2017-02-28__05-10-45.JPG,    Female_9_12_Right,  [ 465  414 1053  356],0.0
+121,    S9__Station8__Camera1__CAM51707__2017-03-16__06-11-19.JPG,    Female_9_12_Right,  [  77  707 1295  463],0.0
+122,    S9__Station8__Camera1__CAM51707__2017-03-18__03-53-40.JPG,    Female_9_12_Right,  [ 348  712 1323  434],0.0
+123,    S9__Station8__Camera2__CAM51841__2017-02-26__01-06-37.JPG,    Female_9_12_Right,  [  37  546 1408  595],0.0
+124,    S9__Station8__Camera2__CAM51841__2017-03-14__23-04-43.JPG,    Female_9_12_Right,      [672 688 952 290],0.0
+125,    S9__Station8__Camera2__CAM51841__2017-03-16__19-57-10.JPG,    Female_9_12_Right,      [711 716 884 287],0.0
+126,   S1__Station28__Camera1__CAM43314__2017-02-14__04-34-28.JPG,    Female_1_22_Right,      [171 661 948 386],0.0
+127,   S1__Station31__Camera1__CAM41318__2017-02-28__05-08-23.JPG,    Female_1_22_Right,  [1039  600  869  400],0.0
+128,   S1__Station31__Camera1__CAM41318__2017-03-15__05-59-17.JPG,    Female_1_22_Right,      [329 549 827 358],0.0
+129,   S1__Station31__Camera2__CAM41843__2017-03-12__19-09-38.JPG,    Female_1_22_Right,  [ 143  650 1213  589],0.0
+130,   S1__Station32__Camera2__CAM40480__2017-03-12__03-51-19.JPG,    Female_1_22_Right,      [218 745 925 311],0.0
+131,   S1__Station33__Camera3__CAM40491__2017-03-14__01-46-25.JPG,    Female_1_22_Right,      [304 851 976 372],0.0
+132,   S1__Station31__Camera1__CAM41318__2017-02-10__18-29-58.JPG,    Female_1_22_Right,      [461 511 739 327],0.0
+133,   S1__Station31__Camera1__CAM41318__2017-03-06__17-21-59.JPG,    Female_1_22_Right,      [388 553 822 378],0.0
+134,   S2__Station38__Camera1__CAM44275__2017-04-25__15-54-56.JPG,      Male_2_76_Right,  [  57  627 1314  679],0.0
+135,   S2__Station38__Camera1__CAM44275__2017-05-09__00-37-00.JPG,      Male_2_76_Right,  [  50  455 1454  748],0.0
+136,   S2__Station40__Camera1__CAM40793__2017-04-20__04-40-53.JPG,      Male_2_76_Right,      [504 507 695 282],0.0
+137,   S2__Station45__Camera1__CAM43223__2017-04-12__18-05-59.JPG,      Male_2_76_Right,      [503 561 684 328],0.0
+138,   S2__Station45__Camera1__CAM43223__2017-05-12__23-53-14.JPG,      Male_2_76_Right,  [ 205  530 1222  599],0.0
+139,   S2__Station45__Camera2__CAM43191__2014-06-07__03-28-40.JPG,      Male_2_76_Right,      [124 108 353 170],0.0
+140,   S2__Station36__Camera2__CAM51650__2015-06-02__21-32-37.JPG,      Male_2_76_Right,      [228 227 260 111],0.0
+141,   S2__Station46__Camera1__CAM41049__2016-04-19__05-40-28.JPG,      Male_2_76_Right,      [ 22 161 686 368],0.0
+142,    S2__Station1__Camera1__CAM30201__2013-02-23__03-50-01.JPG,    Female_2_14_Right,      [ 15 337 396 243],0.0
+143,    S2__Station8__Camera2__CAM40483__2014-06-10__03-34-35.JPG,    Female_2_14_Right,      [ 21 267 573 323],0.0
+144,    S2__Station2__Camera2__CAM51696__2015-06-09__22-48-52.JPG,    Female_2_14_Right,      [ 24 227 557 301],0.0
+145,    S2__Station8__Camera2__CAM41469__2017-05-05__21-40-10.JPG,    Female_2_14_Right,      [510 727 601 299],0.0
+146,    S2__Station9__Camera1__CAM41558__2017-04-01__11-06-46.JPG,    Female_2_14_Right,  [1112  826  707  361],0.0
+147,    S2__Station9__Camera2__CAM40182__2017-05-01__05-12-09.JPG,    Female_2_14_Right,      [420 859 741 285],0.0
+148,    S2__Station9__Camera2__CAM40182__2017-05-02__17-43-05.JPG,    Female_2_14_Right,  [1081  832  819  289],0.0
+149,    S4__Station6__Camera1__CAM41107__2013-08-27__03-38-06.JPG,   Female_4_123_Right,      [166 162 270 121],0.0
+150,    S4__Station8__Camera2__CAM41835__2014-07-23__20-14-54.JPG,   Female_4_123_Right,      [ 19 308 424 186],0.0
+151,    S4__Station5__Camera1__CAM41124__2015-05-04__18-42-50.JPG,   Female_4_123_Right,      [ 18 202 533 349],0.0
+152,    S4__Station6__Camera2__CAM40771__2016-08-15__05-57-14.JPG,   Female_4_123_Right,      [181 259 284 121],0.0
+153,    S4__Station4__Camera2__CAM44280__2017-07-30__20-11-41.JPG,   Female_4_123_Right,  [  55  368 1406  651],0.0
+154,    S4__Station5__Camera2__CAM42283__2013-09-23__21-27-01.JPG,   Female_4_123_Right,      [147 255 271 146],0.0
+155,    S4__Station5__Camera1__CAM41124__2015-05-01__06-54-56.JPG,   Female_4_123_Right,      [ 20 225 563 327],0.0
+156,   S2__Station29__Camera2__CAM30845__2013-03-21__19-25-23.JPG,       Male_2_2_Right,      [ 16 217 473 250],0.0
+157,   S2__Station13__Camera2__CAM42292__2014-05-24__02-49-35.JPG,       Male_2_2_Right,      [ 25 300 504 219],0.0
+158,   S2__Station13__Camera1__CAM51659__2015-05-19__21-09-25.JPG,       Male_2_2_Right,      [ 18 228 504 203],0.0
+159,   S2__Station13__Camera1__CAM41077__2016-04-05__14-23-38.JPG,       Male_2_2_Right,      [ 39 247 417 180],0.0
+160,   S2__Station15__Camera2__CAM40821__2017-04-24__05-23-59.JPG,       Male_2_2_Right,  [  23   56 1611 1204],0.0
+161,   S2__Station15__Camera2__CAM40821__2017-04-27__14-15-26.JPG,       Male_2_2_Right,  [  54  124 1684 1259],0.0
+162,   S4__Station30__Camera1__CAM40191__2013-09-13__22-57-49.JPG,      Male_4_39_Right,      [ 42 217 469 215],0.0
+163,    S4__Station7__Camera2__CAM40075__2014-07-15__21-46-49.JPG,      Male_4_39_Right,      [147 254 396 172],0.0
+164,    S4__Station7__Camera2__CAM41721__2015-05-04__21-39-53.JPG,      Male_4_39_Right,      [ 21 208 511 263],0.0
+165,    S4__Station6__Camera1__CAM42062__2016-08-23__18-57-19.JPG,      Male_4_39_Right,      [ 16 207 460 211],0.0
+166,    S4__Station6__Camera2__CAM41311__2017-09-09__02-04-35.JPG,      Male_4_39_Right,  [  65  399 1207  499],0.0
+167,   S4__Station27__Camera2__CAM40082__2013-10-07__20-41-46.JPG,      Male_4_39_Right,      [ 24  98 503 274],0.0
+168,   S7__Station40__Camera1__CAM40149__2014-07-07__04-31-06.JPG,      Male_7_49_Right,      [ 27 121 578 315],0.0
+169,   S7__Station22__Camera2__CAM40821__2018-01-04__09-29-04.JPG,      Male_7_49_Right,  [1107  648  350  303],0.0
+170,   S7__Station33__Camera2__CAM44200__2017-12-17__18-58-46.JPG,      Male_7_49_Right,      [525 480 751 594],0.0
+171,   S7__Station33__Camera2__CAM44200__2017-12-30__23-54-42.JPG,      Male_7_49_Right,      [513 367 628 438],0.0
+172,   S7__Station41__Camera1__CAM41318__2018-01-08__06-04-31.JPG,      Male_7_49_Right,      [550 509 599 533],0.0
+173,    S3__Station5__Camera1__CAM40275__2013-06-25__23-05-51.JPG,      Male_7_49_Right,      [ 80 156 409 203],0.0
+174,   S1__Station18__Camera1__CAM30241__2013-06-17__00-02-10.JPG,     Female_1_1_Right,      [ 36 334 491 178],0.0
+175,   S1__Station17__Camera1__CAM40828__2014-03-30__05-35-53.JPG,     Female_1_1_Right,      [397 250 402 177],0.0
+176,   S1__Station26__Camera2__CAM41077__2015-02-25__03-05-47.JPG,     Female_1_1_Right,      [341 257 451 214],0.0
+177,   S1__Station18__Camera1__CAM41108__2016-02-29__04-48-37.JPG,     Female_1_1_Right,      [ 10 193 534 263],0.0
+178,   S1__Station14__Camera1__CAM43324__2017-02-26__23-08-11.JPG,     Female_1_1_Right,  [ 821  464 1218  443],0.0
+179,   S1__Station28__Camera2__CAM44003__2017-02-15__19-18-58.JPG,      Male_1_33_Right,  [  50  573 1222  654],0.0
+180,   S1__Station28__Camera2__CAM44003__2017-03-03__02-28-56.JPG,      Male_1_33_Right,  [1118  461  928  431],0.0
+181,   S1__Station28__Camera3__CAM44173__2017-03-19__18-43-40.JPG,      Male_1_33_Right,  [  48  524 1319  560],0.0
+182,   S1__Station31__Camera1__CAM41318__2017-03-11__05-06-31.JPG,      Male_1_33_Right,      [ 26 461 676 523],0.0
+183,   S1__Station33__Camera2__CAM41469__2017-03-14__02-38-06.JPG,      Male_1_33_Right,  [  30  432 1382  939],0.0
+184,   S2__Station30__Camera1__CAM30827__2013-02-17__08-40-59.JPG,    Female_2_29_Right,      [ 78 257 324 177],0.0
+185,   S2__Station36__Camera1__CAM40058__2014-05-23__21-54-10.JPG,    Female_2_29_Right,      [ 56 187 432 198],0.0
+186,   S2__Station45__Camera1__CAM51705__2015-05-25__04-44-50.JPG,    Female_2_29_Right,      [162 264 334 136],0.0
+187,   S2__Station36__Camera1__CAM41085__2017-05-02__21-49-46.JPG,    Female_2_29_Right,      [267 621 884 490],0.0
+188,   S2__Station43__Camera1__CAM44163__2017-04-14__00-11-03.JPG,    Female_2_29_Right,  [  48  469 1545  850],0.0
+189,   S2__Station21__Camera2__CAM30883__2013-03-29__04-59-51.JPG,     Female_2_4_Right,      [ 19 237 456 238],0.0
+190,   S2__Station15__Camera2__CAM41835__2014-05-30__02-45-49.JPG,     Female_2_4_Right,      [ 18 157 516 305],0.0
+191,   S2__Station15__Camera1__CAM51682__2015-05-07__19-20-25.JPG,     Female_2_4_Right,      [ 14  70 653 360],0.0
+192,   S2__Station13__Camera1__CAM41077__2016-04-23__00-01-48.JPG,     Female_2_4_Right,      [ 49 257 402 176],0.0
+193,   S2__Station10__Camera1__CAM40808__2017-04-22__21-52-42.JPG,     Female_2_4_Right,      [309 559 871 415],0.0
+194,    S2__Station9__Camera2__CAM30877__2013-02-19__05-02-25.JPG,    Female_2_89_Right,      [ 19 199 567 314],0.0
+195,    S2__Station4__Camera1__CAM40449__2014-05-12__13-34-33.JPG,    Female_2_89_Right,      [162 251 307 128],0.0
+196,    S2__Station5__Camera2__CAM51672__2015-06-14__17-37-14.JPG,    Female_2_89_Right,      [  6 276 258 201],0.0
+197,    S2__Station4__Camera1__CAM44134__2016-04-26__02-49-51.JPG,    Female_2_89_Right,      [ 15 286 496 286],0.0
+198,    S2__Station3__Camera2__CAM41489__2017-05-09__17-59-13.JPG,    Female_2_89_Right,      [510 506 662 277],0.0
+199,  S35__Station12__Camera1__CAM62811__2017-03-13__08-36-03.JPG,      Male_35_2_Right,  [1054  584  733  378],0.0
+200,  S35__Station12__Camera1__CAM62811__2017-03-21__04-36-36.JPG,      Male_35_2_Right,      [557 573 622 414],0.0
+201,  S35__Station12__Camera1__CAM62811__2017-04-12__02-23-41.JPG,      Male_35_2_Right,  [1216  516  264  228],0.0
+202,  S35__Station12__Camera1__CAM62811__2017-04-16__02-07-27.JPG,      Male_35_2_Right,      [581 590 617 465],0.0
+203,  S35__Station20__Camera2__CAM51879__2017-03-17__07-24-29.JPG,      Male_35_2_Right,  [ 150  167 1353  780],0.0
+204,    S3__Station6__Camera1__CAM40086__2013-06-17__06-18-39.JPG,     Female_3_4_Right,      [188 235 193  96],0.0
+205,    S3__Station6__Camera2__CAM44182__2014-04-08__18-34-22.JPG,     Female_3_4_Right,      [ 20 183 506 226],0.0
+206,   S3__Station18__Camera1__CAM40058__2015-06-25__02-53-56.JPG,     Female_3_4_Right,      [175 220 271 111],0.0
+207,    S3__Station6__Camera2__CAM43306__2016-06-11__01-17-01.JPG,     Female_3_4_Right,      [  9 302 490 272],0.0
+208,   S3__Station18__Camera1__CAM44207__2017-06-02__05-31-34.JPG,     Female_3_4_Right,  [ 167  447 1263  713],0.0
+209,    S4__Station3__Camera1__CAM40355__2013-08-27__00-38-49.JPG,    Female_4_49_Right,      [ 21 284 516 228],0.0
+210,    S4__Station3__Camera2__CAM44257__2014-07-28__02-32-07.JPG,    Female_4_49_Right,      [ 40 146 484 196],0.0
+211,    S4__Station3__Camera2__CAM40449__2015-05-07__23-20-34.JPG,    Female_4_49_Right,      [ 16 241 483 191],0.0
+212,    S4__Station7__Camera2__CAM40491__2016-08-18__17-12-22.JPG,    Female_4_49_Right,      [185 202 262 122],0.0
+213,    S4__Station7__Camera2__CAM40808__2017-08-11__07-27-21.JPG,    Female_4_49_Right,      [637 504 264 241],0.0
+214,   S4__Station27__Camera1__CAM40327__2013-10-01__01-58-39.JPG,    Female_4_77_Right,      [ 15 243 539 242],0.0
+215,   S4__Station22__Camera1__CAM44214__2014-07-02__18-06-54.JPG,    Female_4_77_Right,      [ 18 100 490 261],0.0
+216,   S4__Station24__Camera1__CAM41107__2015-04-22__05-10-34.JPG,    Female_4_77_Right,      [ 17 203 447 207],0.0
+217,   S4__Station22__Camera1__CAM41489__2016-08-31__17-01-17.JPG,    Female_4_77_Right,      [ 19 308 441 173],0.0
+218,   S4__Station21__Camera3__CAM40055__2017-08-27__02-00-53.JPG,    Female_4_77_Right,  [ 212  392 1111  476],0.0
+219,   S4__Station31__Camera2__CAM41113__2013-09-14__23-19-14.JPG,    Female_4_85_Right,      [ 17 225 456 213],0.0
+220,   S4__Station27__Camera2__CAM42206__2014-07-06__05-57-59.JPG,    Female_4_85_Right,      [ 19 135 563 352],0.0
+221,   S4__Station24__Camera1__CAM41107__2015-05-17__02-52-33.JPG,    Female_4_85_Right,      [ 17 196 467 235],0.0
+222,   S4__Station24__Camera1__CAM44195__2016-08-04__03-13-54.JPG,    Female_4_85_Right,      [ 27 188 496 213],0.0
+223,   S4__Station25__Camera1__CAM44270__2017-09-13__02-33-58.JPG,    Female_4_85_Right,  [  65  796 1139  505],0.0
+224,   S4__Station33__Camera2__CAM43302__2013-10-06__01-46-13.JPG,    Female_4_98_Right,      [ 11 251 481 260],0.0
+225,   S4__Station28__Camera1__CAM40312__2014-08-03__17-29-42.JPG,    Female_4_98_Right,      [  8  86 606 329],0.0
+226,   S4__Station28__Camera1__CAM40779__2015-04-01__19-42-41.JPG,    Female_4_98_Right,      [ 69 101 455 161],0.0
+227,   S4__Station26__Camera1__CAM44204__2016-08-31__01-58-10.JPG,    Female_4_98_Right,      [ 90 195 443 153],0.0
+228,   S4__Station26__Camera1__CAM43188__2017-08-09__22-54-30.JPG,    Female_4_98_Right,      [505 665 519 251],0.0
+229,   S4__Station16__Camera2__CAM40072__2013-09-05__20-55-41.JPG,      Male_4_26_Right,      [ 22 208 542 283],0.0
+230,   S4__Station15__Camera2__CAM44240__2014-08-06__02-17-24.JPG,      Male_4_26_Right,      [ 16 176 515 251],0.0
+231,    S4__Station9__Camera2__CAM44249__2015-05-11__02-12-53.JPG,      Male_4_26_Right,      [ 22 182 501 245],0.0
+232,   S4__Station16__Camera1__CAM44277__2016-08-29__23-34-06.JPG,      Male_4_26_Right,      [ 20 110 561 319],0.0
+233,   S4__Station15__Camera2__CAM40771__2017-08-23__00-26-21.JPG,      Male_4_26_Right,  [  65  390 1408  653],0.0
+234,   S4__Station20__Camera1__CAM40135__2013-09-21__00-14-26.JPG,       Male_4_3_Right,      [425 326 360 141],0.0
+235,   S4__Station12__Camera2__CAM44265__2014-07-22__00-33-19.JPG,       Male_4_3_Right,      [123 152 387 190],0.0
+236,   S4__Station12__Camera2__CAM40069__2015-04-28__01-30-30.JPG,       Male_4_3_Right,      [ 51 225 458 197],0.0
+237,   S4__Station10__Camera2__CAM43291__2016-09-01__23-36-37.JPG,       Male_4_3_Right,      [ 25 196 517 266],0.0
+238,    S4__Station6__Camera2__CAM41311__2017-08-20__01-39-10.JPG,       Male_4_3_Right,  [ 143  378 1133  449],0.0
+239,   S9__Station18__Camera2__CAM51858__2017-03-07__04-07-01.JPG,       Male_9_2_Right,      [354 486 969 440],0.0
+240,   S9__Station39__Camera4__CAM51943__2017-03-23__01-10-34.JPG,       Male_9_2_Right,      [405 597 801 394],0.0
+241,   S9__Station39__Camera4__CAM51943__2017-04-05__23-15-08.JPG,       Male_9_2_Right,  [ 231  517 1218  444],0.0
+242,    S9__Station8__Camera2__CAM51841__2017-03-08__03-02-16.JPG,       Male_9_2_Right,      [392 475 963 415],0.0
+243,    S9__Station8__Camera2__CAM51841__2017-04-03__00-17-14.JPG,       Male_9_2_Right,      [174 657 746 230],0.0
+244,   S3__Station25__Camera1__CAM40364__2013-06-20__10-13-27.JPG,    Female_3_26_Right,      [ 92 204 370 146],0.0
+245,   S3__Station35__Camera2__CAM44209__2014-04-22__20-19-26.JPG,    Female_3_26_Right,      [ 15 209 453 275],0.0
+246,    S3__Station6__Camera2__CAM44280__2015-07-13__06-38-47.JPG,    Female_3_26_Right,      [118 240 528 200],0.0
+247,    S3__Station8__Camera2__CAM40849__2016-06-02__04-14-04.JPG,    Female_3_26_Right,      [213 237 232 107],0.0
+248,   S3__Station17__Camera1__CAM44175__2017-06-11__20-53-38.JPG,    Female_3_26_Right,  [1245  453  733  297],0.0
+249,   S2__Station24__Camera2__CAM51055__2015-05-25__06-36-24.JPG,    Female_2_57_Right,      [422 325 362 137],0.0
+250,   S2__Station32__Camera1__CAM40275__2016-05-12__23-35-48.JPG,    Female_2_57_Right,      [ 23 345 490 206],0.0
+251,   S2__Station29__Camera1__CAM44282__2017-04-01__20-01-03.JPG,    Female_2_57_Right,  [ 934  506 1107  751],0.0
+252,   S2__Station29__Camera1__CAM44282__2017-04-05__02-45-23.JPG,    Female_2_57_Right,  [  30  705 1515  805],0.0
+253,   S2__Station30__Camera2__CAM40441__2014-05-04__21-05-58.JPG,    Female_2_57_Right,      [504 181 291 177],0.0
+254,    S3__Station1__Camera1__CAM41835__2013-06-30__04-07-10.JPG,    Female_3_23_Right,      [187 179 386 195],0.0
+255,   S3__Station30__Camera2__CAM44298__2014-04-05__18-09-45.JPG,    Female_3_23_Right,      [  6 177 508 254],0.0
+256,   S3__Station39__Camera2__CAM40355__2015-07-03__23-09-49.JPG,    Female_3_23_Right,      [ 23 220 513 291],0.0
+257,   S3__Station15__Camera1__CAM40327__2016-05-28__14-33-01.JPG,    Female_3_23_Right,      [ 15 123 782 378],0.0
+258,   S3__Station30__Camera1__CAM41478__2017-07-07__01-31-18.JPG,    Female_3_23_Right,  [  41  432 1292  520],0.0
+259,   S4__Station27__Camera1__CAM40327__2013-08-27__04-45-55.JPG,      Male_4_76_Right,      [ 20 176 531 293],0.0
+260,   S4__Station28__Camera1__CAM40312__2014-07-06__03-00-15.JPG,      Male_4_76_Right,      [ 26 160 447 177],0.0
+261,   S4__Station28__Camera1__CAM40779__2015-04-15__19-01-41.JPG,      Male_4_76_Right,      [ 22  95 526 203],0.0
+262,   S4__Station22__Camera2__CAM44247__2016-08-14__22-25-07.JPG,      Male_4_76_Right,      [ 10 227 524 291],0.0
+263,   S4__Station27__Camera2__CAM40082__2013-09-04__23-21-17.JPG,      Male_4_76_Right,      [227 214 233 105],0.0
+264,   S7__Station39__Camera1__CAM43296__2014-08-02__18-28-56.JPG,    Female_7_19_Right,      [108 287 353 155],0.0
+265,   S7__Station16__Camera1__CAM40480__2017-12-20__20-33-33.JPG,    Female_7_19_Right,  [1037  671  318  174],0.0
+266,   S7__Station38__Camera2__CAM41019__2017-12-11__00-43-40.JPG,    Female_7_19_Right,      [665 500 670 402],0.0
+267,   S7__Station39__Camera1__CAM44125__2017-12-21__06-13-42.JPG,    Female_7_19_Right,  [  90  152 1911 1335],0.0
+268,   S7__Station39__Camera1__CAM44125__2017-12-21__06-13-19.JPG,    Female_7_19_Right,      [438 477 952 607],0.0
+269,    S1__Station3__Camera2__CAM30839__2013-05-22__22-34-06.JPG,    Female_1_17_Right,      [ 84 331 393 147],0.0
+270,    S1__Station7__Camera2__CAM40767__2014-03-11__22-09-00.JPG,    Female_1_17_Right,      [172 215 300 117],0.0
+271,    S1__Station5__Camera1__CAM40449__2015-02-10__23-20-40.JPG,    Female_1_17_Right,      [179 304 248 116],0.0
+272,    S1__Station2__Camera2__CAM41843__2016-01-28__21-21-23.JPG,    Female_1_17_Right,      [ 95 296 455 209],0.0
+273,    S1__Station1__Camera1__CAM41504__2015-03-05__04-00-55.JPG,     Female_1_4_Right,      [ 11 215 293 227],0.0
+274,    S1__Station1__Camera1__CAM40355__2016-02-08__20-52-59.JPG,     Female_1_4_Right,      [208 231 276 122],0.0
+275,   S1__Station10__Camera2__CAM44277__2017-02-04__05-52-08.JPG,     Female_1_4_Right,      [354 579 940 379],0.0
+276,   S1__Station10__Camera2__CAM44277__2017-02-26__02-05-42.JPG,     Female_1_4_Right,      [374 448 890 460],0.0
+277,   S2__Station26__Camera1__CAM40442__2013-02-17__23-40-09.JPG,     Female_2_3_Right,      [ 38 198 614 208],0.0
+278,    S2__Station9__Camera1__CAM41124__2014-05-18__20-38-23.JPG,     Female_2_3_Right,      [ 18 297 557 294],0.0
+279,   S2__Station10__Camera1__CAM51537__2015-05-31__00-46-41.JPG,     Female_2_3_Right,      [123 264 389 164],0.0
+280,    S2__Station8__Camera2__CAM42290__2016-04-10__01-33-15.JPG,     Female_2_3_Right,      [ 18 314 550 275],0.0
+281,    S2__Station3__Camera1__CAM30241__2013-02-18__22-42-37.JPG,    Female_2_35_Right,      [216 206 582 218],0.0
+282,   S2__Station18__Camera1__CAM40477__2014-05-19__19-09-14.JPG,    Female_2_35_Right,      [171 229 244 117],0.0
+283,   S2__Station26__Camera1__CAM51740__2015-05-24__00-11-29.JPG,    Female_2_35_Right,      [ 21 209 515 192],0.0
+284,   S2__Station17__Camera1__CAM44209__2016-04-26__23-25-09.JPG,    Female_2_35_Right,      [ 46 285 455 295],0.0
+285,   S2__Station16__Camera2__CAM30874__2013-02-25__07-28-32.JPG,      Unknown_1_Right,      [ 89 209 290 175],0.0
+286,   S2__Station36__Camera1__CAM52016__2015-05-25__20-23-18.JPG,      Male_2_27_Right,      [ 57 200 475 192],0.0
+287,   S2__Station43__Camera2__CAM40141__2017-04-27__00-25-01.JPG,      Male_2_27_Right,  [  38  342 1479 1022],0.0
+288,   S2__Station43__Camera2__CAM40141__2017-04-27__00-26-27.JPG,      Male_2_27_Right,  [  25  395 1262  959],0.0
+289,   S2__Station10__Camera1__CAM40808__2017-04-26__18-22-17.JPG,    Female_2_99_Right,  [ 246  380 1156  490],0.0
+290,    S2__Station8__Camera2__CAM41469__2017-04-09__02-07-01.JPG,    Female_2_99_Right,  [  33  383 1324  875],0.0
+291,    S2__Station9__Camera1__CAM41558__2017-04-25__20-10-51.JPG,    Female_2_99_Right,      [465 789 454 236],0.0
+292,    S2__Station9__Camera1__CAM41558__2017-04-25__20-11-53.JPG,    Female_2_99_Right,  [1187  843  858  641],0.0
+293,    S2__Station1__Camera1__CAM43314__2017-05-01__17-45-03.JPG,     Male_2_135_Right,      [455 717 774 320],0.0
+294,    S2__Station1__Camera1__CAM43314__2017-05-07__18-01-35.JPG,     Male_2_135_Right,  [1424  355  604  607],0.0
+295,    S2__Station1__Camera2__CAM44134__2017-03-29__13-12-10.JPG,     Male_2_135_Right,      [443 606 858 353],0.0
+296,    S2__Station1__Camera2__CAM44134__2017-04-21__05-58-04.JPG,     Male_2_135_Right,      [422 413 917 404],0.0
+297,   S4__Station34__Camera1__CAM40068__2013-09-06__15-30-26.JPG,   Female_4_104_Right,      [155 291 317 123],0.0
+298,   S4__Station29__Camera2__CAM41869__2014-06-30__05-42-42.JPG,   Female_4_104_Right,      [ 16 192 475 253],0.0
+299,   S4__Station30__Camera2__CAM40355__2015-04-09__18-57-05.JPG,   Female_4_104_Right,      [ 33 219 438 148],0.0
+300,   S4__Station28__Camera1__CAM41041__2016-07-30__18-42-53.JPG,   Female_4_104_Right,      [ 19 174 575 288],0.0
+301,   S4__Station16__Camera2__CAM40072__2013-09-01__01-51-23.JPG,    Female_4_28_Right,      [ 87 275 470 210],0.0
+302,   S4__Station14__Camera2__CAM44205__2015-04-06__21-09-40.JPG,    Female_4_28_Right,      [173 230 350 135],0.0
+303,   S4__Station13__Camera2__CAM42161__2016-08-24__22-26-54.JPG,    Female_4_28_Right,      [ 23 105 643 309],0.0
+304,   S4__Station16__Camera2__CAM44212__2017-08-17__01-13-06.JPG,    Female_4_28_Right,  [  91  562 1307  510],0.0
+305,    S4__Station7__Camera2__CAM40814__2013-09-14__21-02-17.JPG,    Female_4_52_Right,      [ 16 198 440 250],0.0
+306,    S4__Station6__Camera2__CAM44258__2014-07-04__18-57-35.JPG,    Female_4_52_Right,      [ 25 192 492 280],0.0
+307,    S4__Station5__Camera2__CAM43213__2016-08-03__05-38-56.JPG,    Female_4_52_Right,      [ 20 134 514 259],0.0
+308,    S4__Station5__Camera1__CAM41338__2017-09-07__04-22-44.JPG,    Female_4_52_Right,  [ 117  398 1128  518],0.0
+309,   S4__Station35__Camera1__CAM41099__2013-09-01__01-54-33.JPG,    Female_4_60_Right,      [ 15 170 514 245],0.0
+310,   S4__Station29__Camera1__CAM40304__2014-08-04__04-42-26.JPG,    Female_4_60_Right,      [ 27 309 494 255],0.0
+311,   S4__Station28__Camera2__CAM41049__2015-05-16__04-04-39.JPG,    Female_4_60_Right,      [176 202 345 121],0.0
+312,   S4__Station20__Camera2__CAM41049__2017-09-02__00-00-01.JPG,    Female_4_60_Right,      [603 658 737 260],0.0
+313,   S4__Station13__Camera2__CAM41056__2013-09-15__19-21-20.JPG,     Female_4_9_Right,      [ 73 275 396 149],0.0
+314,   S4__Station12__Camera2__CAM44265__2014-07-21__19-10-40.JPG,     Female_4_9_Right,      [ 17 115 588 312],0.0
+315,   S4__Station12__Camera1__CAM44307__2015-04-02__19-38-32.JPG,     Female_4_9_Right,      [ 27 242 462 197],0.0
+316,   S4__Station10__Camera2__CAM43291__2016-08-24__05-59-38.JPG,     Female_4_9_Right,      [128 219 424 229],0.0
+317,   S4__Station12__Camera2__CAM41063__2013-09-26__05-18-09.JPG,       Male_4_2_Right,      [147 193 350 143],0.0
+318,   S4__Station12__Camera1__CAM40477__2014-07-07__18-50-58.JPG,       Male_4_2_Right,      [ 22 237 498 197],0.0
+319,   S4__Station13__Camera2__CAM44175__2015-04-14__18-15-55.JPG,       Male_4_2_Right,      [ 20 155 572 285],0.0
+320,   S4__Station25__Camera2__CAM40203__2017-08-16__23-06-52.JPG,       Male_4_2_Right,      [392 667 895 363],0.0
+321,   S7__Station31__Camera2__CAM44197__2014-07-23__03-46-53.JPG,    Female_7_31_Right,      [ 22 177 568 250],0.0
+322,   S7__Station31__Camera1__CAM40135__2017-12-16__00-57-10.JPG,    Female_7_31_Right,  [ 109  467 1327  595],0.0
+323,   S7__Station31__Camera1__CAM40135__2018-01-13__22-24-30.JPG,    Female_7_31_Right,  [  79  227 1701  855],0.0
+324,   S7__Station31__Camera3__CAM43298__2018-01-01__05-42-52.JPG,    Female_7_31_Right,  [  70  285 1526  975],0.0
+325,   S9__Station15__Camera2__CAM52060__2017-02-20__05-23-56.JPG,       Male_9_7_Right,      [470 730 794 418],0.0
+326,   S9__Station15__Camera2__CAM52060__2017-03-20__01-30-13.JPG,       Male_9_7_Right,      [397 507 923 665],0.0
+327,    S9__Station2__Camera2__CAM63753__2017-03-19__18-59-55.JPG,       Male_9_7_Right,  [  30   16 1244 1513],0.0
+328,    S9__Station2__Camera2__CAM63753__2017-03-19__19-01-52.JPG,       Male_9_7_Right,      [951 705 870 372],0.0
+329,    S3__Station4__Camera1__CAM41517__2017-07-10__05-43-41.JPG,       Male_3_2_Right,  [ 182  641 1286  567],0.0
+330,    S3__Station1__Camera2__CAM44136__2014-04-12__02-45-42.JPG,       Male_3_2_Right,      [ 22  87 572 240],0.0
+331,   S3__Station12__Camera2__CAM40483__2015-06-07__05-16-20.JPG,       Male_3_2_Right,      [ 37 253 480 236],0.0
+332,   S3__Station39__Camera2__CAM44186__2016-06-05__17-12-38.JPG,       Male_3_2_Right,      [ 23 243 534 242],0.0
+333,   S3__Station39__Camera2__CAM44196__2014-05-09__16-33-53.JPG,    Female_3_43_Right,      [ 37 190 500 286],0.0
+334,   S3__Station28__Camera2__CAM44212__2015-06-04__02-13-09.JPG,    Female_3_43_Right,      [ 17 207 497 300],0.0
+335,   S3__Station10__Camera2__CAM43223__2016-05-31__21-31-35.JPG,    Female_3_43_Right,      [ 33 229 487 219],0.0
+336,   S3__Station40__Camera1__CAM40190__2013-06-23__05-42-49.JPG,    Female_3_43_Right,      [416 306 349 130],0.0
+337,    S3__Station6__Camera2__CAM44182__2014-04-10__23-11-44.JPG,      Male_3_38_Right,      [ 98 217 362 138],0.0
+338,   S3__Station35__Camera1__CAM43300__2015-06-04__18-05-14.JPG,      Male_3_38_Right,      [ 23 226 476 231],0.0
+339,   S3__Station33__Camera2__CAM44178__2016-07-06__22-02-50.JPG,      Male_3_38_Right,      [183 245 332 163],0.0
+340,   S3__Station35__Camera2__CAM44184__2017-06-23__19-16-50.JPG,      Male_3_38_Right,  [  47  690 1291  613],0.0
+341,   S3__Station29__Camera2__CAM40131__2013-07-10__01-21-27.JPG,      Male_3_50_Right,      [ 19 361 485 215],0.0
+342,    S3__Station7__Camera2__CAM44262__2015-06-13__02-05-32.JPG,      Male_3_50_Right,      [106 201 348 161],0.0
+343,   S3__Station19__Camera2__CAM44003__2016-05-28__21-21-49.JPG,      Male_3_50_Right,      [ 23 268 530 263],0.0
+344,    S3__Station7__Camera1__CAM44136__2017-06-29__22-10-18.JPG,      Male_3_50_Right,  [ 152  544 1182  510],0.0
+345,   S3__Station11__Camera2__CAM44211__2015-06-22__06-46-23.JPG,    Female_3_14_Right,      [217 273 312 180],0.0
+346,    S3__Station7__Camera1__CAM41124__2016-06-27__21-31-18.JPG,    Female_3_14_Right,      [221 230 260 116],0.0
+347,   S3__Station27__Camera1__CAM44205__2017-06-09__18-14-41.JPG,    Female_3_14_Right,  [  17  412 1651  762],0.0
+348,   S3__Station22__Camera1__CAM44289__2014-03-29__21-23-36.JPG,    Female_3_14_Right,      [424 219 260 106],0.0
+349,   S4__Station22__Camera1__CAM44214__2014-07-02__18-07-17.JPG,    Female_4_81_Right,      [413 214 362 136],0.0
+350,   S4__Station25__Camera1__CAM44257__2015-05-06__05-29-18.JPG,    Female_4_81_Right,      [143 299 365 147],0.0
+351,   S4__Station23__Camera1__CAM43223__2016-07-29__01-39-51.JPG,    Female_4_81_Right,      [466 225 225  98],0.0
+352,   S4__Station25__Camera2__CAM42292__2014-07-29__02-38-28.JPG,    Female_4_81_Right,      [  8 112 333 266],0.0
+353,   S6__Station18__Camera1__CAM51890__2016-05-07__19-41-17.JPG,       Male_6_6_Right,      [435 240 364 160],0.0
+354,   S6__Station18__Camera1__CAM51711__2015-08-10__14-40-40.JPG,       Male_6_6_Right,      [ 23 283 502 245],0.0
+355,   S6__Station15__Camera1__CAM51885__2016-05-24__20-58-00.JPG,       Male_6_6_Right,      [ 85 256 500 183],0.0
+356,   S6__Station16__Camera2__CAM51737__2017-09-24__00-21-03.JPG,       Male_6_6_Right,  [  35  321 1428  565],0.0
+357,   S3__Station22__Camera3__CAM40771__2017-06-20__23-28-05.JPG,    Female_3_38_Right,  [ 282  578 1095  428],0.0
+358,   S3__Station39__Camera2__CAM40355__2015-06-14__18-03-57.JPG,    Female_3_38_Right,      [ 16 231 494 298],0.0
+359,   S3__Station36__Camera2__CAM40312__2016-07-10__03-00-59.JPG,    Female_3_38_Right,      [ 77 280 413 187],0.0
+360,   S12__Station1__Camera1__CAM41566__2017-08-03__00-30-02.JPG,    Male_12_201_Right,  [1024  591  547  179],0.0
+361,  S12__Station24__Camera1__CAM43226__2017-07-20__06-03-59.JPG,    Male_12_201_Right,  [  53  279 1641  927],0.0
+362,  S12__Station24__Camera2__CAM41579__2017-07-20__06-03-24.JPG,    Male_12_201_Right,  [1354  565  690  336],0.0
+363,  S1__Station24__Camera1__CUDDEBACK__2013-07-03__21-02-00.JPG,    Female_1_13_Right,      [418 788 944 350],0.0
+364,   S1__Station38__Camera1__CAM41503__2014-02-21__04-44-33.JPG,    Female_1_13_Right,      [ 20 205 553 357],0.0
+365,   S1__Station35__Camera1__CAM40821__2015-03-05__22-25-38.JPG,    Female_1_13_Right,      [ 23 299 547 291],0.0
+366,   S2__Station10__Camera1__CAM30201__2013-03-18__23-46-21.JPG,       Male_2_1_Right,      [ 20 380 525 211],0.0
+367,   S2__Station10__Camera2__CAM44262__2014-06-06__03-02-58.JPG,       Male_2_1_Right,      [ 27 292 472 198],0.0
+368,    S2__Station1__Camera2__CAM51680__2015-06-13__19-56-41.JPG,       Male_2_1_Right,      [ 18  96 650 293],0.0
+369,   S2__Station21__Camera2__CAM30883__2013-02-21__19-24-13.JPG,      Male_2_30_Right,      [ 21 216 465 247],0.0
+370,   S2__Station14__Camera2__CAM44257__2014-05-01__20-06-51.JPG,      Male_2_30_Right,      [115 279 384 187],0.0
+371,   S2__Station22__Camera1__CAM51660__2015-06-08__00-32-19.JPG,      Male_2_30_Right,      [199 221 252 102],0.0
+372,    S2__Station4__Camera1__CAM30259__2013-03-18__13-38-02.JPG,      Male_2_59_Right,      [  3 401 526 190],0.0
+373,   S2__Station28__Camera1__CAM41764__2014-05-21__23-39-44.JPG,      Male_2_59_Right,      [  8 212 572 351],0.0
+374,   S2__Station37__Camera2__CAM51668__2015-06-13__22-41-03.JPG,      Male_2_59_Right,      [404 237 264 136],0.0
+375,    S2__Station7__Camera2__CAM44267__2014-05-25__04-50-59.JPG,    Female_2_18_Right,      [266 248 531 317],0.0
+376,   S2__Station17__Camera2__CAM51707__2015-05-24__05-35-35.JPG,    Female_2_18_Right,      [404 197 395 246],0.0
+377,   S2__Station11__Camera1__CAM42161__2016-04-30__03-28-55.JPG,    Female_2_18_Right,      [ 18 246 515 269],0.0
+378,   S2__Station21__Camera1__CAM44261__2014-05-21__01-01-35.JPG,    Female_2_32_Right,      [ 20 329 538 261],0.0
+379,   S2__Station14__Camera2__CAM51729__2015-06-01__01-55-47.JPG,    Female_2_32_Right,      [ 96 284 450 177],0.0
+380,   S2__Station20__Camera2__CAM43299__2016-05-14__02-07-04.JPG,    Female_2_32_Right,      [130 286 359 149],0.0
+381,   S2__Station29__Camera1__CAM44203__2014-05-01__22-37-30.JPG,    Female_2_38_Right,      [  6 131 632 449],0.0
+382,   S2__Station24__Camera2__CAM51055__2015-05-19__04-49-09.JPG,    Female_2_38_Right,      [ 63 325 408 160],0.0
+383,   S2__Station19__Camera2__CAM41666__2016-05-13__20-39-29.JPG,    Female_2_38_Right,      [409 250 314 175],0.0
+384,   S2__Station39__Camera2__CAM42259__2014-06-05__03-26-23.JPG,    Female_2_50_Right,      [ 64 269 613 217],0.0
+385,   S2__Station39__Camera2__CAM51713__2015-06-06__23-30-03.JPG,    Female_2_50_Right,      [441 334 358 178],0.0
+386,   S2__Station39__Camera2__CAM40821__2016-05-04__22-17-46.JPG,    Female_2_50_Right,      [127 166 388 177],0.0
+387,    S2__Station2__Camera1__CAM40480__2017-04-26__18-27-57.JPG,     Male_2_133_Right,      [479 483 802 375],0.0
+388,    S2__Station9__Camera1__CAM41558__2017-04-25__03-19-41.JPG,     Male_2_133_Right,      [547 673 631 373],0.0
+389,    S2__Station9__Camera2__CAM40182__2017-04-30__07-19-56.JPG,     Male_2_133_Right,  [ 199  445 1264 1044],0.0
+390,   S3__Station23__Camera1__CAM40082__2013-07-20__21-34-17.JPG,     Female_3_1_Right,      [145 354 356 143],0.0
+391,   S3__Station22__Camera1__CAM44289__2014-03-29__21-23-12.JPG,     Female_3_1_Right,      [ 23 159 509 203],0.0
+392,   S3__Station22__Camera2__CAM44281__2015-06-15__18-25-11.JPG,     Female_3_1_Right,      [ 57 219 435 190],0.0
+393,   S3__Station26__Camera1__CAM40212__2013-06-18__04-42-17.JPG,    Female_3_10_Right,      [169 225 307 126],0.0
+394,   S3__Station13__Camera1__CAM40821__2014-04-18__22-34-54.JPG,    Female_3_10_Right,      [170 262 306 128],0.0
+395,   S3__Station25__Camera1__CAM41077__2016-06-21__21-35-51.JPG,    Female_3_10_Right,      [ 24 206 486 188],0.0
+396,   S3__Station24__Camera2__CAM40779__2013-07-26__06-38-11.JPG,       Male_3_7_Right,      [  8 266 612 286],0.0
+397,   S3__Station29__Camera2__CAM44187__2014-04-07__05-39-39.JPG,       Male_3_7_Right,      [492 295 246  80],0.0
+398,   S3__Station14__Camera1__CAM43316__2015-06-14__05-13-04.JPG,       Male_3_7_Right,      [121 173 348 161],0.0
+399,   S4__Station12__Camera2__CAM40336__2013-10-09__04-19-43.JPG,    Female_4_20_Right,      [ 68 284 400 196],0.0
+400,   S4__Station11__Camera2__CAM44260__2014-08-07__11-23-52.JPG,    Female_4_20_Right,      [ 43  90 679 287],0.0
+401,   S4__Station11__Camera1__CAM43187__2015-04-10__23-21-40.JPG,    Female_4_20_Right,      [ 20 232 530 253],0.0
+402,   S4__Station26__Camera2__CAM41503__2013-10-09__03-15-09.JPG,    Female_4_50_Right,      [122 308 355 154],0.0
+403,   S4__Station17__Camera1__CAM40132__2014-06-30__23-45-17.JPG,    Female_4_50_Right,      [521 181 275 142],0.0
+404,   S4__Station16__Camera1__CAM44277__2016-08-04__03-47-33.JPG,    Female_4_50_Right,      [130 241 347 131],0.0
+405,   S4__Station19__Camera1__CAM43300__2013-10-02__03-55-35.JPG,    Female_4_54_Right,      [121 157 322 173],0.0
+406,   S4__Station18__Camera2__CAM40135__2015-04-22__16-50-25.JPG,    Female_4_54_Right,      [419 386 357 153],0.0
+407,   S4__Station17__Camera2__CAM43188__2016-07-30__07-15-51.JPG,    Female_4_54_Right,      [ 13 208 502 210],0.0
+408,    S4__Station1__Camera2__CAM40246__2013-09-12__23-51-08.JPG,       Male_4_1_Right,      [ 98 193 366 158],0.0
+409,    S4__Station3__Camera2__CAM44003__2014-08-04__21-35-08.JPG,       Male_4_1_Right,      [134 271 316 107],0.0
+410,    S4__Station3__Camera1__CAM40075__2015-05-02__19-10-32.JPG,       Male_4_1_Right,      [139 165 442 177],0.0
+411,   S4__Station15__Camera1__CAM41127__2013-09-09__06-48-06.JPG,      Male_4_11_Right,      [ 95 210 391 200],0.0
+412,   S4__Station13__Camera2__CAM44035__2014-07-07__16-19-08.JPG,      Male_4_11_Right,      [ 36 202 443 155],0.0
+413,    S4__Station9__Camera1__CAM44208__2015-05-03__04-45-45.JPG,      Male_4_11_Right,      [ 29 249 499 223],0.0
+414,   S4__Station24__Camera1__CAM41138__2013-08-29__05-47-24.JPG,     Male_4_330_Right,      [ 18 273 479 238],0.0
+415,   S4__Station21__Camera1__CAM41127__2014-07-29__18-53-33.JPG,     Male_4_330_Right,      [ 22  99 479 193],0.0
+416,    S4__Station9__Camera1__CAM44208__2015-05-03__04-22-38.JPG,     Male_4_330_Right,      [184 268 352 132],0.0
+417,    S4__Station8__Camera1__CAM40804__2013-10-03__01-45-28.JPG,      Male_4_45_Right,      [ 82 120 512 215],0.0
+418,    S4__Station7__Camera2__CAM40075__2014-08-02__01-02-56.JPG,      Male_4_45_Right,      [ 82 189 449 179],0.0
+419,    S4__Station7__Camera1__CAM40062__2015-04-13__09-05-43.JPG,      Male_4_45_Right,      [ 28 260 496 222],0.0
+420,   S4__Station15__Camera2__CAM44212__2015-05-16__18-28-43.JPG,    Female_4_38_Right,      [ 59 134 450 256],0.0
+421,   S4__Station15__Camera2__CAM43311__2016-08-22__18-44-22.JPG,    Female_4_38_Right,      [ 48 111 495 210],0.0
+422,   S4__Station14__Camera1__CAM40253__2017-08-24__22-39-23.JPG,    Female_4_38_Right,      [448 542 784 330],0.0
+423,    S5__Station8__Camera1__CAM44199__2014-10-28__04-45-18.JPG,    Female_5_18_Right,      [ 24 194 654 392],0.0
+424,   S5__Station15__Camera2__CAM44186__2015-10-28__02-25-32.JPG,    Female_5_18_Right,      [ 23 101 620 355],0.0
+425,    S5__Station8__Camera2__CAM41063__2016-09-24__00-39-57.JPG,    Female_5_18_Right,      [ 21 200 574 342],0.0
+426,    S5__Station4__Camera2__CAM44210__2014-10-29__19-36-27.JPG,     Female_5_2_Right,      [ 17 217 477 180],0.0
+427,    S5__Station7__Camera2__CAM44132__2015-09-26__03-00-03.JPG,     Female_5_2_Right,      [484 199 268  99],0.0
+428,    S5__Station2__Camera1__CAM44200__2016-10-03__19-30-43.JPG,     Female_5_2_Right,      [ 19 254 576 291],0.0
+429,   S5__Station17__Camera1__CAM41108__2014-11-27__18-12-38.JPG,    Female_5_25_Right,      [ 25 227 491 227],0.0
+430,   S5__Station13__Camera1__CAM40449__2015-11-06__00-09-33.JPG,    Female_5_25_Right,      [ 84 231 462 183],0.0
+431,   S5__Station16__Camera1__CAM40709__2016-09-28__00-56-08.JPG,    Female_5_25_Right,      [ 39 200 424 172],0.0
+432,   S5__Station20__Camera2__CAM43313__2014-11-17__20-52-16.JPG,    Female_5_29_Right,      [162 231 317 141],0.0
+433,   S5__Station20__Camera1__CAM41489__2015-11-04__04-14-48.JPG,    Female_5_29_Right,      [199 251 244 100],0.0
+434,   S5__Station20__Camera1__CAM41469__2016-10-09__19-00-09.JPG,    Female_5_29_Right,      [ 85 190 369 146],0.0
+435,   S5__Station28__Camera2__CAM44280__2014-11-28__19-11-48.JPG,    Female_5_30_Right,      [ 19 145 500 218],0.0
+436,   S5__Station28__Camera2__CAM43190__2015-10-24__02-45-10.JPG,    Female_5_30_Right,      [ 45 180 500 210],0.0
+437,   S5__Station28__Camera2__CAM44003__2016-09-30__19-15-38.JPG,    Female_5_30_Right,      [ 14 212 463 177],0.0
+438,   S5__Station27__Camera2__CAM44212__2014-10-23__18-41-01.JPG,    Female_5_35_Right,      [ 21 241 455 212],0.0
+439,   S5__Station26__Camera2__CAM44211__2015-09-27__03-01-21.JPG,    Female_5_35_Right,      [ 17 146 585 274],0.0
+440,   S5__Station26__Camera1__CAM43306__2016-10-19__19-40-54.JPG,    Female_5_35_Right,      [ 20 188 470 222],0.0
+441,    S5__Station8__Camera1__CAM44199__2014-10-31__00-57-53.JPG,     Female_5_9_Right,      [ 23 257 494 214],0.0
+442,    S5__Station6__Camera1__CAM40327__2015-10-30__21-45-52.JPG,     Female_5_9_Right,      [ 15  85 629 504],0.0
+443,    S5__Station6__Camera2__CAM44270__2016-09-26__18-41-46.JPG,     Female_5_9_Right,      [ 21 169 547 206],0.0
+444,   S5__Station16__Camera1__CAM44185__2014-10-30__21-55-20.JPG,      Male_5_27_Right,      [ 12 157 499 189],0.0
+445,   S5__Station14__Camera1__CAM40275__2015-10-23__21-53-20.JPG,      Male_5_27_Right,      [ 31 146 467 232],0.0
+446,   S5__Station16__Camera1__CAM40709__2016-10-03__01-19-30.JPG,      Male_5_27_Right,      [ 34 167 514 208],0.0
+447,   S5__Station12__Camera1__CAM43296__2014-12-04__01-55-46.JPG,       Male_5_3_Right,      [ 20 217 449 191],0.0
+448,    S5__Station8__Camera1__CAM44306__2015-10-30__21-40-53.JPG,       Male_5_3_Right,      [ 17 187 509 217],0.0
+449,    S5__Station7__Camera2__CAM44204__2016-10-25__22-53-23.JPG,       Male_5_3_Right,      [ 21 143 537 284],0.0
+450,   S5__Station31__Camera2__CAM44180__2014-10-31__13-00-35.JPG,      Male_5_34_Right,      [444 181 350 177],0.0
+451,   S5__Station32__Camera2__CAM43300__2015-11-08__19-18-07.JPG,      Male_5_34_Right,      [ 63 178 410 173],0.0
+452,   S5__Station32__Camera1__CAM43313__2016-09-30__18-53-24.JPG,      Male_5_34_Right,      [  7  79 660 318],0.0
+453,   S6__Station15__Camera1__CAM51695__2015-08-06__23-57-58.JPG,    Female_6_10_Right,      [113 338 395 235],0.0
+454,    S6__Station4__Camera2__CAM51822__2016-06-05__22-16-47.JPG,    Female_6_10_Right,      [143 239 319 163],0.0
+455,    S6__Station4__Camera2__CAM52114__2017-09-16__03-53-52.JPG,    Female_6_10_Right,  [  42  643 1210  608],0.0
+456,   S6__Station21__Camera1__CAM51664__2015-07-28__01-29-37.JPG,    Female_6_23_Right,      [ 22 234 591 270],0.0
+457,   S6__Station21__Camera2__CAM51900__2016-05-23__00-39-10.JPG,    Female_6_23_Right,      [159 231 408 170],0.0
+458,   S6__Station21__Camera2__CAM51930__2017-10-22__22-27-57.JPG,      Unknown_2_Right,  [1188  445  855  461],0.0
+459,   S6__Station22__Camera2__CAM51692__2015-07-20__23-42-47.JPG,      Male_6_22_Right,      [163 186 349 174],0.0
+460,   S6__Station21__Camera2__CAM51900__2016-05-21__18-41-07.JPG,      Male_6_22_Right,      [ 61 210 482 189],0.0
+461,   S6__Station21__Camera2__CAM51930__2017-10-14__14-26-15.JPG,      Male_6_22_Right,  [ 120  485 1133  482],0.0
+462,   S6__Station26__Camera1__CAM51514__2015-07-15__18-21-18.JPG,      Male_6_29_Right,      [ 74 206 352 148],0.0
+463,   S6__Station26__Camera1__CAM51800__2016-05-14__21-47-07.JPG,      Male_6_29_Right,      [158 277 407 198],0.0
+464,   S6__Station27__Camera2__CAM51712__2017-09-18__03-05-47.JPG,      Male_6_29_Right,      [490 526 901 567],0.0
+465,   S7__Station13__Camera2__CAM40141__2014-07-13__01-14-37.JPG,     Female_7_8_Right,      [338 133 299 239],0.0
+466,    S7__Station2__Camera2__CAM41666__2017-12-26__02-54-35.JPG,     Female_7_8_Right,  [ 215  483 1051  513],0.0
+467,    S7__Station3__Camera2__CAM44191__2017-12-03__02-08-18.JPG,     Female_7_8_Right,  [  54  567 1485  716],0.0
+468,    S9__Station1__Camera1__CAM51729__2017-03-12__01-49-15.JPG,    Female_9_10_Right,  [  51  487 1416  643],0.0
+469,    S9__Station1__Camera2__CAM50790__2017-03-01__02-13-31.JPG,    Female_9_10_Right,  [  50  664 1458  827],0.0
+470,    S9__Station1__Camera2__CAM50790__2017-04-07__05-05-06.JPG,    Female_9_10_Right,  [ 156  704 1133  448],0.0
+471,   S2__Station38__Camera2__CAM44259__2014-05-05__00-08-15.JPG,    Female_2_80_Right,      [ 17 235 426 176],0.0
+472,   S2__Station38__Camera2__CAM52050__2015-05-15__04-20-11.JPG,    Female_2_80_Right,      [119 227 401 176],0.0
+473,   S2__Station33__Camera2__CAM40774__2017-04-06__06-21-24.JPG,    Female_2_80_Right,      [335 669 803 472],0.0
+474,    S2__Station8__Camera2__CAM51230__2015-06-05__05-31-19.JPG,      Male_2_16_Right,      [ 53 214 555 249],0.0
+475,    S2__Station1__Camera1__CAM40068__2016-05-01__04-42-55.JPG,      Male_2_16_Right,      [136 252 351 141],0.0
+476,   S4__Station12__Camera2__CAM41063__2013-08-29__02-48-47.JPG,      Male_2_16_Right,      [ 18 166 513 296],0.0
+477,   S3__Station25__Camera1__CAM41036__2013-06-21__01-42-48.JPG,    Female_3_27_Right,      [  5 175 525 245],0.0
+478,   S3__Station35__Camera2__CAM43291__2016-06-21__06-23-25.JPG,    Female_3_27_Right,      [  9 252 615 341],0.0
+479,   S3__Station29__Camera1__CAM40342__2017-07-12__01-44-09.JPG,    Female_3_27_Right,  [1181  956  798  428],0.0
+480,   S6__Station15__Camera2__CAM51686__2015-08-24__00-32-37.JPG,     Female_6_5_Right,      [ 32 237 468 193],0.0
+481,   S6__Station15__Camera1__CAM51885__2016-05-07__02-18-15.JPG,     Female_6_5_Right,      [222 291 323 146],0.0
+482,   S6__Station12__Camera2__CAM52131__2017-09-25__04-51-57.JPG,     Female_6_5_Right,  [  66  704 1348  708],0.0
+483,   S6__Station32__Camera1__CAM51390__2015-08-10__07-10-20.JPG,       Male_6_1_Right,      [ 72 180 425 210],0.0
+484,    S6__Station9__Camera1__CAM51924__2016-05-16__23-43-41.JPG,       Male_6_1_Right,      [173 230 360 178],0.0
+485,    S6__Station8__Camera1__CAM51801__2017-10-07__03-50-55.JPG,       Male_6_1_Right,  [  56  715 1524  750],0.0
+486,   S6__Station20__Camera1__CAM51676__2015-07-29__00-23-11.JPG,       Male_6_4_Right,      [147 106 373 182],0.0
+487,   S6__Station20__Camera1__CAM52074__2016-05-25__01-28-15.JPG,       Male_6_4_Right,      [128 247 400 178],0.0
+488,   S6__Station12__Camera2__CAM52131__2017-09-21__18-30-21.JPG,       Male_6_4_Right,  [ 113  566 1420  776],0.0
+489,    S3__Station7__Camera1__CAM40336__2013-07-04__04-06-01.JPG,      Male_3_12_Right,      [ 21 204 439 212],0.0
+490,   S3__Station25__Camera1__CAM40147__2014-04-10__21-37-57.JPG,      Male_3_12_Right,      [ 72 118 456 206],0.0
+491,   S1__Station22__Camera2__CAM30827__2013-07-01__07-49-07.JPG,    Female_1_11_Right,      [152 380 404 211],0.0
+492,    S1__Station7__Camera2__CAM40767__2014-02-25__01-39-38.JPG,    Female_1_11_Right,      [ 18 130 482 326],0.0
+493,  S1__Station36__Camera1__CUDDEBACK__2013-05-29__22-00-00.JPG,    Female_1_19_Right,  [ 199  641 1095  473],0.0
+494,   S1__Station37__Camera1__CAM43328__2015-03-09__01-04-50.JPG,    Female_1_19_Right,      [ 21 167 568 277],0.0
+495,   S1__Station23__Camera1__CAM30229__2013-05-23__20-17-34.JPG,      Male_1_13_Right,      [102 299 431 215],0.0
+496,   S1__Station20__Camera1__CAM41686__2014-03-23__23-21-55.JPG,      Male_1_13_Right,      [117 203 348 146],0.0
+497,   S1__Station32__Camera1__CAM40851__2014-03-27__20-26-19.JPG,     Female_1_3_Right,      [ 76 243 488 240],0.0
+498,   S1__Station14__Camera2__CAM40355__2015-01-31__02-10-54.JPG,     Female_1_3_Right,      [ 18 136 504 224],0.0
+499,   S1__Station35__Camera2__CAM41504__2014-02-16__02-45-42.JPG,      Male_1_23_Right,      [ 94 217 321 136],0.0
+500,   S1__Station41__Camera2__CAM44211__2015-02-14__04-26-11.JPG,      Male_1_23_Right,      [ 53 299 519 211],0.0
+501,   S1__Station32__Camera2__CAM40480__2017-03-14__03-43-25.JPG,    Female_1_28_Right,      [284 753 930 358],0.0
+502,   S1__Station32__Camera2__CAM40480__2017-03-17__03-58-36.JPG,    Female_1_28_Right,  [ 105  812 1208  413],0.0
+503,    S2__Station8__Camera1__CAM30236__2013-03-07__19-46-36.JPG,    Female_2_41_Right,      [418 323 371 143],0.0
+504,    S2__Station1__Camera1__CAM40068__2014-05-10__23-10-31.JPG,    Female_2_41_Right,      [ 10 124 439 276],0.0
+505,    S2__Station3__Camera2__CAM30898__2013-03-23__04-09-35.JPG,    Female_2_51_Right,      [ 20 220 549 245],0.0
+506,   S2__Station20__Camera2__CAM44214__2014-05-27__21-21-36.JPG,    Female_2_51_Right,      [372 279 352 128],0.0
+507,   S2__Station21__Camera1__CAM30792__2013-03-16__20-40-03.JPG,    Female_2_55_Right,      [ 11  13 535 475],0.0
+508,   S2__Station28__Camera1__CAM41764__2014-05-17__16-19-42.JPG,    Female_2_55_Right,      [ 93 215 427 186],0.0
+509,    S2__Station1__Camera2__CAM40459__2000-01-11__13-04-38.JPG,      Male_2_15_Right,      [ 67 246 440 168],0.0
+510,   S2__Station16__Camera2__CAM44265__2014-05-14__04-46-10.JPG,      Male_2_15_Right,      [185 259 306 171],0.0
+511,    S2__Station7__Camera1__CAM30817__2013-02-19__20-39-28.JPG,      Male_2_49_Right,      [ 25 357 507 235],0.0
+512,   S2__Station40__Camera1__CAM40069__2014-05-05__00-26-23.JPG,      Male_2_49_Right,      [ 21 155 530 259],0.0
+513,    S2__Station9__Camera1__CAM30209__2013-03-10__04-59-22.JPG,       Male_2_8_Right,      [ 23 250 498 225],0.0
+514,    S2__Station1__Camera1__CAM40068__2014-05-22__20-44-55.JPG,       Male_2_8_Right,      [  5 137 495 207],0.0
+515,   S2__Station31__Camera2__CAM40793__2014-06-05__03-40-30.JPG,    Female_2_68_Right,      [ 20 326 504 244],0.0
+516,   S2__Station41__Camera2__CAM44264__2017-05-06__20-25-14.JPG,    Female_2_68_Right,  [ 246  641 1181  519],0.0
+517,   S2__Station31__Camera1__CAM40336__2014-06-13__23-13-08.JPG,    Female_2_70_Right,      [ 19 154 484 198],0.0
+518,   S2__Station39__Camera1__CAM51657__2015-06-06__18-45-30.JPG,    Female_2_70_Right,      [470 217 294 118],0.0
+519,   S2__Station10__Camera2__CAM51537__2015-06-12__21-38-37.JPG,     Male_2_133_Right,      [ 63 198 438 196],0.0
+520,    S2__Station9__Camera2__CAM44267__2016-04-03__19-26-18.JPG,     Male_2_133_Right,      [ 40 190 492 190],0.0
+521,   S35__Station7__Camera2__CAM62821__2017-03-06__05-07-16.JPG,   Female_35_15_Right,  [  35  126 1534 1008],0.0
+522,   S35__Station7__Camera2__CAM62821__2017-03-06__19-20-48.JPG,   Female_35_15_Right,  [  22  157 1424 1087],0.0
+523,  S35__Station13__Camera1__CAM62684__2017-03-12__05-33-38.JPG,   Female_35_16_Right,  [  71  263 1592  695],0.0
+524,  S35__Station13__Camera2__CAM62794__2017-03-09__13-10-58.JPG,   Female_35_16_Right,  [  59  301 1960 1213],0.0
+525,  S35__Station34__Camera1__CAM62792__2017-03-03__23-45-41.JPG,    Female_35_9_Right,  [1071  574  738  294],0.0
+526,  S35__Station34__Camera2__CAM63003__2017-03-20__23-31-27.JPG,    Female_35_9_Right,  [  45  454 1548  812],0.0
+527,   S3__Station13__Camera1__CAM41108__2013-07-01__03-30-23.JPG,     Female_3_5_Right,      [186 277 293 131],0.0
+528,   S3__Station13__Camera2__CAM44282__2014-03-29__01-37-41.JPG,     Female_3_5_Right,      [ 20 232 493 267],0.0
+529,   S3__Station13__Camera1__CAM41108__2013-07-08__00-45-54.JPG,      Male_3_16_Right,      [185 243 247 102],0.0
+530,   S3__Station16__Camera1__CAM44202__2014-05-12__19-12-03.JPG,      Male_3_16_Right,      [149 264 276 126],0.0
+531,   S3__Station31__Camera2__CAM40800__2013-07-11__19-48-42.JPG,      Male_3_27_Right,      [141 199 206 105],0.0
+532,   S3__Station18__Camera2__CAM44287__2014-04-01__20-09-28.JPG,      Male_3_27_Right,      [ 93 157 466 246],0.0
+533,   S3__Station23__Camera2__CAM44177__2014-04-14__06-34-05.JPG,    Female_3_35_Right,      [ 41 237 444 194],0.0
+534,   S3__Station29__Camera2__CAM40268__2016-05-28__02-09-30.JPG,    Female_3_35_Right,      [207 271 290 129],0.0
+535,   S3__Station38__Camera1__CAM44132__2014-04-24__04-14-11.JPG,      Male_3_49_Right,      [174 240 301 147],0.0
+536,   S3__Station18__Camera2__CAM40304__2015-06-25__18-59-47.JPG,      Male_3_49_Right,      [400 271 212  79],0.0
+537,   S3__Station18__Camera1__CAM40058__2015-06-18__05-04-57.JPG,    Female_3_15_Right,      [175 229 278 103],0.0
+538,    S3__Station3__Camera1__CAM44267__2016-06-06__18-40-20.JPG,    Female_3_15_Right,      [ 20 240 471 242],0.0
+539,   S3__Station14__Camera2__CAM44003__2015-06-06__03-25-31.JPG,    Female_3_30_Right,      [183 221 272 116],0.0
+540,   S3__Station29__Camera2__CAM40131__2013-06-23__06-26-36.JPG,    Female_3_30_Right,      [ 17 308 448 177],0.0
+541,    S3__Station4__Camera2__CAM41318__2017-07-09__20-56-22.JPG,      Male_3_61_Right,  [ 238  446 1098  455],0.0
+542,   S3__Station19__Camera2__CAM44003__2016-05-31__03-30-55.JPG,      Male_3_61_Right,      [ 23 222 547 292],0.0
+543,   S3__Station30__Camera1__CAM43296__2015-06-24__00-38-27.JPG,      Male_3_51_Right,      [163 213 271 117],0.0
+544,   S3__Station10__Camera2__CAM43223__2016-06-29__23-09-35.JPG,      Male_3_51_Right,      [135 340 382 148],0.0
+545,   S3__Station16__Camera1__CAM40327__2015-07-15__04-31-22.JPG,      Male_3_53_Right,      [ 71 182 469 196],0.0
+546,   S3__Station13__Camera1__CAM44282__2016-06-05__00-45-13.JPG,      Male_3_53_Right,      [338 222 325 184],0.0
+547,   S3__Station23__Camera1__CAM44257__2017-06-09__21-46-21.JPG,    Female_3_18_Right,  [ 179  632 1145  469],0.0
+548,   S3__Station23__Camera2__CAM41620__2017-06-09__21-42-41.JPG,    Female_3_18_Right,  [ 362  638 1032  399],0.0
+549,    S4__Station1__Camera2__CAM40246__2013-09-19__10-12-21.JPG,    Female_4_16_Right,      [  9 169 575 323],0.0
+550,    S4__Station2__Camera2__CAM41764__2014-08-04__20-46-37.JPG,    Female_4_16_Right,      [ 40 212 551 279],0.0
+551,   S4__Station22__Camera2__CAM40134__2013-09-26__01-14-00.JPG,    Female_4_41_Right,      [ 14 183 521 268],0.0
+552,   S4__Station15__Camera2__CAM44240__2014-07-03__05-04-33.JPG,    Female_4_41_Right,      [ 21 229 476 222],0.0
+553,   S4__Station23__Camera2__CAM40258__2013-10-09__03-17-53.JPG,    Female_4_70_Right,      [ 19 198 524 272],0.0
+554,   S4__Station20__Camera2__CAM40246__2014-08-03__01-33-27.JPG,    Female_4_70_Right,      [128 244 387 141],0.0
+555,   S4__Station28__Camera2__CAM41423__2013-09-02__06-16-46.JPG,    Female_4_83_Right,      [ 24 245 599 271],0.0
+556,   S4__Station23__Camera1__CAM40336__2014-07-12__19-12-21.JPG,    Female_4_83_Right,      [ 23 132 495 258],0.0
+557,   S4__Station18__Camera2__CAM41503__2014-07-10__04-23-15.JPG,    Female_4_57_Right,      [423 233 320 154],0.0
+558,   S4__Station21__Camera2__CAM40327__2016-08-14__18-16-30.JPG,    Female_4_57_Right,      [128 149 516 288],0.0
+559,   S4__Station21__Camera1__CAM41127__2014-07-23__02-15-44.JPG,      Male_4_62_Right,      [ 45 111 471 158],0.0
+560,   S4__Station21__Camera1__CAM41686__2015-04-27__16-59-05.JPG,      Male_4_62_Right,      [ 23 319 465 168],0.0
+561,   S4__Station12__Camera1__CAM44307__2015-04-03__22-42-35.JPG,     Female_4_5_Right,      [ 37 255 457 172],0.0
+562,   S4__Station10__Camera2__CAM43291__2016-08-23__02-50-11.JPG,     Female_4_5_Right,      [ 18 213 517 248],0.0
+563,    S4__Station1__Camera1__CAM44283__2016-08-12__21-43-09.JPG,    Female_4_65_Right,      [132 250 333 168],0.0
+564,    S4__Station1__Camera1__CAM41302__2017-07-24__17-49-41.JPG,    Female_4_65_Right,      [439 664 805 422],0.0
+565,   S5__Station10__Camera1__CAM40336__2014-11-06__00-36-41.JPG,    Female_5_20_Right,      [110 199 331 130],0.0
+566,    S5__Station9__Camera1__CAM43306__2015-09-25__19-33-58.JPG,    Female_5_20_Right,      [  5 123 567 274],0.0
+567,   S5__Station17__Camera1__CAM41108__2014-11-28__06-33-38.JPG,    Female_5_24_Right,      [ 24 248 493 190],0.0
+568,   S5__Station12__Camera2__CAM40068__2015-10-11__03-13-15.JPG,    Female_5_24_Right,      [116 277 379 154],0.0
+569,   S5__Station22__Camera2__CAM40866__2014-11-12__21-54-28.JPG,    Female_5_31_Right,      [ 19  91 519 252],0.0
+570,   S5__Station22__Camera1__CAM40821__2015-10-22__18-45-32.JPG,    Female_5_31_Right,      [ 20 257 577 284],0.0
+571,   S5__Station38__Camera1__CAM44158__2014-11-30__00-19-52.JPG,    Female_5_41_Right,      [  7 268 546 328],0.0
+572,   S5__Station33__Camera2__CAM43187__2015-10-18__18-37-08.JPG,    Female_5_41_Right,      [ 80 225 417 192],0.0
+573,   S5__Station35__Camera2__CAM43311__2014-11-06__00-10-17.JPG,    Female_5_49_Right,      [ 19 199 547 214],0.0
+574,   S5__Station36__Camera1__CAM44205__2015-09-28__02-33-00.JPG,    Female_5_49_Right,      [ 20 178 585 326],0.0
+575,   S5__Station36__Camera1__CAM44205__2015-09-28__02-33-32.JPG,   Unknown_5_51_Right,      [ 12 233 774 360],0.0
+576,   S5__Station37__Camera2__CAM44175__2015-10-27__03-05-44.JPG,   Unknown_5_51_Right,      [ 17 186 781 401],0.0
+577,   S6__Station22__Camera2__CAM51692__2015-08-05__22-14-06.JPG,    Female_6_25_Right,      [183 277 324 138],0.0
+578,   S6__Station22__Camera1__CAM51868__2016-05-29__01-03-42.JPG,    Female_6_25_Right,      [ 19 251 547 337],0.0
+579,    S6__Station6__Camera1__CAM51710__2015-08-10__02-20-01.JPG,    Female_6_32_Right,      [ 43 270 639 210],0.0
+580,    S6__Station6__Camera1__CAM51935__2016-06-05__19-46-39.JPG,    Female_6_32_Right,      [165 352 343 123],0.0
+581,   S6__Station32__Camera1__CAM51813__2016-05-17__02-59-19.JPG,    Female_6_20_Right,      [406 329 353 141],0.0
+582,   S6__Station32__Camera2__CAM51709__2017-10-01__00-35-31.JPG,    Female_6_20_Right,      [422 620 881 373],0.0
+583,    S6__Station1__Camera1__CAM63966__2016-05-04__07-34-42.JPG,    Female_6_21_Right,      [492 238 175  99],0.0
+584,    S6__Station1__Camera1__CAM51824__2017-10-11__20-02-46.JPG,    Female_6_21_Right,      [423 841 779 300],0.0
+585,   S6__Station24__Camera2__CAM52061__2016-05-14__06-00-19.JPG,      Male_6_27_Right,      [ 79 305 471 203],0.0
+586,   S6__Station24__Camera3__CAM51744__2017-10-12__04-15-23.JPG,      Male_6_27_Right,  [ 327  709 1136  480],0.0
+587,   S7__Station32__Camera2__CAM42062__2014-07-09__04-55-37.JPG,    Female_7_40_Right,      [218 223 209  77],0.0
+588,   S7__Station30__Camera2__CAM44307__2017-12-12__21-41-14.JPG,    Female_7_40_Right,  [  50  561 1467  937],0.0
+589,   S7__Station15__Camera1__CAM44211__2014-07-13__23-54-07.JPG,     Female_7_9_Right,      [141 217 375 158],0.0
+590,   S7__Station14__Camera2__CAM43314__2017-12-26__11-27-16.JPG,     Female_7_9_Right,      [415 613 901 365],0.0
+591,   S7__Station40__Camera1__CAM40149__2014-08-04__19-55-53.JPG,      Male_7_30_Right,      [ 16 169 560 346],0.0
+592,   S7__Station41__Camera2__CAM40141__2018-01-11__02-28-23.JPG,      Male_7_30_Right,  [  34   84 1316 1250],0.0
+593,   S7__Station21__Camera1__CAM43355__2018-01-13__19-25-57.JPG,  Unknown_7_101_Right,  [ 221  743 1038  384],0.0
+594,   S7__Station42__Camera1__CAM40730__2017-12-15__03-37-04.JPG,  Unknown_7_101_Right,      [506 840 613 237],0.0
+595,   S9__Station13__Camera1__CAM63828__2017-03-26__14-50-01.JPG,       Male_9_5_Right,  [ 181  273 1235  869],0.0
+596,   S9__Station13__Camera1__CAM63828__2017-03-26__14-50-04.JPG,       Male_9_5_Right,  [ 987   32 1050 1462],0.0
+597,    S5__Station4__Camera2__CAM40247__2015-10-10__04-39-19.JPG,       Male_5_4_Right,      [399  29 328 304],0.0
+598,   S5__Station14__Camera2__CAM40144__2016-10-03__21-06-54.JPG,       Male_5_4_Right,      [ 19 154 514 211],0.0
+599,   S6__Station18__Camera1__CAM51845__2017-10-14__10-40-45.JPG,     Female_6_7_Right,  [  38  954 1200  563],0.0
+600,   S6__Station20__Camera2__CAM51728__2015-08-08__22-14-49.JPG,     Female_6_7_Right,      [182 303 313 121],0.0
+601,   S8__Station31__Camera1__CAM51530__2015-11-13__02-40-42.JPG,   Female_8_215_Right,      [ 18 206 500 206],0.0
+602,   S8__Station31__Camera2__CAM51675__2015-12-06__19-40-56.JPG,   Female_8_215_Right,      [ 14  49 702 542],0.0
+603,   S3__Station21__Camera1__CAM44275__2014-04-13__19-49-18.JPG,     Female_3_2_Right,      [ 39 200 447 158],0.0
+604,   S3__Station27__Camera1__CAM40259__2013-07-20__20-41-34.JPG,     Female_3_2_Right,      [ 21 273 543 315],0.0
+605,   S1__Station19__Camera1__CAM40814__2017-02-11__05-15-47.JPG,      Male_1_29_Right,  [ 341  471 1205  385],0.0
+606,  S35__Station34__Camera1__CAM62792__2017-04-22__02-35-24.JPG,     Male_35_17_Right,      [544 608 655 410],0.0
+607,   S4__Station25__Camera2__CAM40461__2015-04-21__00-10-47.JPG,    Female_4_92_Right,      [ 51 249 450 152],0.0
+608,   S6__Station27__Camera1__CAM51552__2015-08-03__05-32-16.JPG,    Female_6_30_Right,      [484 238 275 124],0.0
+609,   S8__Station47__Camera1__CAM51548__2015-11-25__01-02-50.JPG,   Female_8_214_Right,      [ 74 236 444 168],0.0
+610,   S7__Station42__Camera2__CAM43319__2014-07-25__22-10-57.JPG,    Female_7_21_Right,      [ 84 136 377 188],0.0
+611,   S3__Station23__Camera1__CAM44176__2014-04-22__23-16-20.JPG,    Female_3_34_Right,      [472 267 326 142],0.0
+612,   S2__Station16__Camera1__CAM30789__2013-03-27__14-17-26.JPG,    Female_2_34_Right,      [ 16 322 487 269],0.0
+613,   S8__Station42__Camera2__CAM51698__2015-12-03__20-28-24.JPG,   Female_8_220_Right,      [149 280 330 116],0.0
+614,   S8__Station16__Camera2__CAM52080__2015-11-19__02-45-38.JPG,   Female_8_332_Right,      [460 232 311 134],0.0
+615,   S1__Station19__Camera1__CAM30878__2013-06-03__14-22-15.JPG,       Male_1_7_Right,      [244 231 192 152],0.0
+616,   S8__Station32__Camera1__CAM51979__2015-11-03__04-01-41.JPG,   Female_8_209_Right,      [154 256 318 112],0.0
+617,   S6__Station32__Camera2__CAM51810__2016-06-14__05-34-41.JPG,   Unknown_6_35_Right,      [528 370 271 140],0.0
+618,    S5__Station1__Camera1__CAM44132__2016-10-04__19-51-23.JPG,     Female_5_1_Right,      [192 314 315 122],0.0
+619,  S12__Station40__Camera1__CAM43234__2017-07-27__22-56-37.JPG,   Female_12_14_Right,  [ 302  528 1025  457],0.0
+620,   S1__Station31__Camera1__CAM30885__2013-05-31__04-14-43.JPG,     Female_1_7_Right,      [ 35 344 484 191],0.0
+621,    S5__Station8__Camera2__CAM44262__2015-10-11__00-54-15.JPG,    Unknown_5_8_Right,      [110 282 441 195],0.0
+622,    S4__Station2__Camera1__CAM41469__2013-10-05__05-54-35.JPG,     Male_4_111_Right,      [111 235 361 147],0.0
+623,   S8__Station28__Camera2__CAM52111__2015-11-28__22-55-07.JPG,   Female_8_302_Right,      [145 218 371 137],0.0
+624,    S4__Station4__Camera2__CAM41124__2013-10-03__04-27-06.JPG,   Female_4_357_Right,      [666 152 106 141],0.0
+625,   S8__Station43__Camera2__CAM51704__2015-12-03__19-11-24.JPG,   Female_8_212_Right,      [434 191 364 167],0.0
+626,   S5__Station20__Camera1__CAM41489__2015-10-08__19-31-59.JPG,    Female_5_42_Right,      [158 204 292 123],0.0
+627,   S4__Station21__Camera1__CAM44163__2016-07-25__05-01-38.JPG,   Female_4_350_Right,      [136 189 324 134],0.0
+628,    S1__Station6__Camera1__CAM40069__2016-02-05__20-41-11.JPG,      Male_1_11_Right,      [ 17 261 547 299],0.0
+629,   S7__Station29__Camera1__CAM44003__2018-01-03__12-25-15.JPG,      Male_7_65_Right,  [  35    6 1465 1333],0.0
+630,   S3__Station34__Camera2__CAM40311__2013-06-29__00-21-31.JPG,      Male_3_34_Right,      [213 218 256 104],0.0
+631,   S3__Station14__Camera1__CAM43316__2015-07-07__23-50-34.JPG,    Female_3_37_Right,      [ 91 218 419 151],0.0
+632,    S4__Station1__Camera1__CAM41302__2017-08-28__15-04-46.JPG,     Male_4_137_Right,      [269 660 886 393],0.0
+633,   S1__Station26__Camera2__CAM41077__2015-02-20__00-17-55.JPG,      Male_1_16_Right,      [ 22 281 579 203],0.0
+634,   S7__Station33__Camera1__CAM40866__2014-07-05__03-19-58.JPG,      Male_7_43_Right,      [ 26 145 415 172],0.0
+635,   S4__Station19__Camera2__CAM42161__2014-08-05__03-48-53.JPG,    Female_4_48_Right,      [ 85 270 381 135],0.0
+636,   S1__Station37__Camera1__CAM43328__2015-03-10__01-14-24.JPG,    Unknown_1_2_Right,      [239 240 297 118],0.0
+637,   S7__Station33__Camera1__CAM40866__2014-08-10__07-53-03.JPG,    Female_7_42_Right,      [ 16 175 456 284],0.0
+638,   S3__Station14__Camera2__CAM44003__2015-06-06__03-25-05.JPG,      Male_3_56_Right,      [  9 176 500 212],0.0
+639,   S6__Station17__Camera1__CAM51858__2017-10-13__13-05-03.JPG,  Unknown_6_206_Right,      [373 789 792 392],0.0
+640,   S8__Station21__Camera2__CAM51702__2015-12-13__00-09-45.JPG,   Female_8_205_Right,      [ 22 194 555 294],0.0
+641,   S8__Station34__Camera1__CAM51726__2015-11-14__23-36-32.JPG,     Male_8_207_Right,      [ 98 224 370 152],0.0
+642,   S7__Station40__Camera1__CAM40149__2014-07-08__02-59-17.JPG,    Female_7_22_Right,      [ 19 166 489 256],0.0
+643,    S2__Station1__Camera2__CAM51680__2015-05-22__04-25-30.JPG,      Male_2_11_Right,      [ 11 235 486 168],0.0
+644,   S6__Station19__Camera2__CAM51928__2016-05-22__18-50-51.JPG,    Female_6_19_Right,      [  8 219 553 285],0.0
+645,    S3__Station6__Camera2__CAM40491__2017-06-25__15-39-34.JPG,   Unknown_3_30_Right,      [998 587 762 481],0.0
+646,   S3__Station26__Camera2__CAM40449__2013-07-15__21-09-16.JPG,   Unknown_3_10_Right,      [ 10 290 519 296],0.0
+647,   S5__Station26__Camera2__CAM44211__2015-09-27__02-15-19.JPG,   Unknown_5_33_Right,      [ 19 181 605 240],0.0
+648,   S3__Station38__Camera1__CAM42062__2016-06-18__07-09-04.JPG,      Male_3_67_Right,      [ 19 147 457 182],0.0
+649,   S8__Station11__Camera1__CAM51697__2015-11-22__02-14-41.JPG,   Female_8_201_Right,      [ 23 209 498 214],0.0
+650,   S3__Station24__Camera1__CAM44178__2014-04-15__23-48-06.JPG,    Unknown_3_5_Right,      [ 83 239 468 149],0.0
+651,   S3__Station12__Camera1__CAM40327__2013-07-13__20-13-00.JPG,    Unknown_3_1_Right,      [192 334 288 139],0.0
+652,   S5__Station26__Camera1__CAM41124__2015-10-18__20-31-43.JPG,      Male_5_38_Right,      [149 211 316 129],0.0
+653,    S7__Station3__Camera2__CAM44307__2014-07-18__06-48-13.JPG,   Unknown_7_51_Right,      [463 220 250 109],0.0
+654,   S2__Station20__Camera2__CAM41850__2013-02-16__20-14-27.JPG,      Male_2_47_Right,      [436 250 327 155],0.0
+655,   S2__Station39__Camera2__CAM44260__2014-05-16__18-22-13.JPG,    Female_2_82_Right,      [ 23 332 495 225],0.0
+656,   S7__Station11__Camera1__CAM44186__2014-08-14__22-25-00.JPG,       Male_7_1_Right,      [ 42 176 464 192],0.0
+657,   S8__Station22__Camera1__CAM51672__2015-11-12__21-35-41.JPG,   Female_8_206_Right,      [327 304 252 130],0.0
+658,   S2__Station29__Camera1__CAM30186__2013-02-17__02-21-47.JPG,      Male_2_61_Right,      [ 25 262 509 279],0.0
+659,   S2__Station37__Camera1__CAM40134__2014-05-11__04-06-25.JPG,    Female_2_72_Right,      [ 47 261 295 125],0.0
+660,   S7__Station31__Camera2__CAM44197__2014-07-23__05-24-32.JPG,      Male_7_33_Right,      [ 21 139 575 326],0.0
+661,   S6__Station26__Camera2__CAM51848__2017-10-14__23-36-31.JPG,    Female_6_31_Right,  [  62  503 1382  900],0.0
+662,    S5__Station6__Camera1__CAM40304__2016-10-26__06-25-01.JPG,   Unknown_5_12_Right,      [397 290 181  55],0.0
+663,    S4__Station2__Camera1__CAM41469__2013-10-01__08-29-20.JPG,     Male_4_340_Right,      [ 22 148 574 291],0.0
+664,    S4__Station1__Camera1__CAM40190__2013-09-24__06-00-46.JPG,      Male_4_67_Right,      [ 23  97 564 325],0.0
+665,    S4__Station6__Camera1__CAM41107__2013-08-27__03-28-20.JPG,  Unknown_4_129_Right,      [ 79 114 393 213],0.0
+666,   S8__Station32__Camera1__CAM51500__2015-11-20__01-14-53.JPG,   Female_8_320_Right,      [103 210 437 179],0.0
+667,   S3__Station27__Camera1__CAM44186__2015-06-20__05-44-50.JPG,    Unknown_3_7_Right,      [465 113 332 386],0.0
+668,   S6__Station30__Camera2__CAM51517__2015-08-15__03-20-17.JPG,    Female_6_33_Right,      [ 19 180 538 250],0.0
+669,   S4__Station26__Camera1__CAM40461__2014-08-05__14-52-46.JPG,      Male_4_96_Right,      [107 281 368 141],0.0
+670,    S1__Station6__Camera2__CAM30126__2013-07-04__16-10-36.JPG,    Female_1_16_Right,      [110 297 462 179],0.0
+671,   S3__Station24__Camera2__CAM44192__2014-04-26__05-28-00.JPG,    Female_3_28_Right,      [ 21 180 529 280],0.0
+672,    S4__Station6__Camera1__CAM41504__2014-07-13__22-09-33.JPG,  Unknown_4_124_Right,      [279 218 138  72],0.0
+673,   S2__Station11__Camera2__CAM51679__2015-05-05__17-45-34.JPG,   Female_2_125_Right,      [442 303 247 101],0.0
+674,   S5__Station41__Camera2__CAM41411__2015-10-10__04-39-37.JPG,      Male_5_44_Right,      [ 20 217 544 239],0.0
+675,   S4__Station30__Camera1__CAM41409__2015-05-07__02-19-45.JPG,  Unknown_4_115_Right,      [ 21 126 571 304],0.0
+676,   S3__Station14__Camera1__CAM40804__2013-06-23__20-41-59.JPG,     Female_3_7_Right,      [269 223 199  77],0.0
+677,    S5__Station8__Camera2__CAM41063__2016-09-24__00-40-30.JPG,    Female_5_19_Right,      [ 13 265 582 282],0.0
+678,   S4__Station27__Camera2__CAM42206__2014-07-06__05-57-38.JPG,     Male_4_103_Right,      [ 23 180 450 184],0.0
+679,   S4__Station21__Camera1__CAM44163__2016-09-03__19-17-23.JPG,      Male_4_80_Right,      [112 178 363 141],0.0
+680,   S1__Station35__Camera1__CAM40175__2014-03-24__02-44-43.JPG,      Male_1_25_Right,      [ 17 249 467 200],0.0
+681,   S4__Station26__Camera1__CAM40461__2014-07-07__18-43-58.JPG,    Female_4_94_Right,      [ 25 253 682 286],0.0
+682,   S8__Station39__Camera2__CAM51732__2015-11-09__22-35-29.JPG,   Female_8_219_Right,      [ 21 208 540 309],0.0
+683,   S1__Station25__Camera1__CAM40767__2013-05-28__21-37-31.JPG,      Male_1_18_Right,      [161 336 300 120],0.0
+684,   S7__Station16__Camera2__CAM44271__2014-08-03__06-01-34.JPG,       Male_7_7_Right,      [ 19 106 437 225],0.0
+685,   S6__Station24__Camera1__CAM51831__2017-09-13__19-15-26.JPG,     Male_6_200_Right,  [ 225  614 1130  448],0.0
+686,   S4__Station28__Camera1__CAM44132__2017-08-07__18-31-16.JPG,   Female_4_145_Right,  [ 312  893 1012  383],0.0
+687,   S8__Station22__Camera2__CAM51672__2015-12-03__22-03-44.JPG,     Male_8_202_Right,      [ 27 181 526 248],0.0
+688,   S3__Station39__Camera2__CAM44196__2014-04-26__22-36-03.JPG,    Female_3_33_Right,      [ 51 280 476 189],0.0
+689,   S8__Station23__Camera2__CAM51724__2015-11-10__18-33-10.JPG,   Female_8_319_Right,      [437 202 294 133],0.0
+690,   S3__Station18__Camera1__CAM40058__2015-06-06__21-47-06.JPG,      Male_3_57_Right,      [ 89 229 332 123],0.0
+691,    S6__Station1__Camera2__CAM52141__2017-10-15__19-02-06.JPG,     Male_6_202_Right,  [  22  736 1461  764],0.0
+692,   S4__Station30__Camera2__CAM40355__2015-05-07__02-20-04.JPG,     Male_4_108_Right,      [156 155 642 396],0.0
+693,    S4__Station2__Camera1__CAM41764__2014-07-12__03-59-56.JPG,    Female_4_64_Right,      [ 14 207 541 248],0.0
+694,   S5__Station37__Camera1__CAM40448__2016-09-22__01-43-32.JPG,      Male_5_58_Right,      [447 248 243 104],0.0
+695,   S2__Station11__Camera2__CAM40311__2017-04-02__18-46-00.JPG,    Female_2_98_Right,  [1141  689  605  286],0.0
+696,   S7__Station30__Camera1__CAM40821__2014-07-27__15-12-39.JPG,   Unknown_7_32_Right,      [213 238 186 101],0.0
+697,   S4__Station22__Camera1__CAM44214__2014-07-21__00-46-09.JPG,      Male_4_82_Right,      [ 14  97 507 284],0.0
+698,   S2__Station39__Camera2__CAM44260__2014-05-12__19-57-20.JPG,      Male_2_67_Right,      [131 314 340 135],0.0
+699,   S1__Station21__Camera2__CAM41537__2014-02-20__21-27-10.JPG,    Female_1_10_Right,      [ 18 219 481 238],0.0
+700,   S5__Station38__Camera1__CAM44158__2014-11-18__10-32-01.JPG,    Female_5_59_Right,      [ 77 315 390 207],0.0
+701,   S5__Station29__Camera1__CAM43297__2016-09-24__20-34-07.JPG,      Male_5_43_Right,      [ 19 232 492 210],0.0
+702,   S12__Station5__Camera2__CAM43228__2017-08-08__08-51-37.JPG,    Male_12_213_Right,  [  68  356 1622  844],0.0
+703,    S4__Station5__Camera2__CAM41085__2017-08-28__09-04-58.JPG,   Female_4_139_Right,  [1009  481 1035  556],0.0
+704,    S8__Station3__Camera2__CAM51689__2015-12-07__01-14-08.JPG,   Female_8_311_Right,      [456 288 343 148],0.0
+705,   S8__Station17__Camera1__CAM51510__2015-11-02__03-20-00.JPG,  Unknown_8_202_Right,      [462 262 308 190],0.0
+706,    S8__Station4__Camera2__CAM51863__2015-11-16__19-28-09.JPG,     Male_8_305_Right,      [395 274 380 165],0.0
+707,   S1__Station20__Camera2__CAM40406__2013-06-18__20-35-49.JPG,     Female_1_9_Right,      [162 328 335 132],0.0
+708,    S2__Station2__Camera2__CAM40055__2014-05-03__18-57-43.JPG,    Female_2_43_Right,      [433 247 315 132],0.0
+709,    S2__Station1__Camera1__CAM51720__2015-05-25__07-48-05.JPG,    Female_2_48_Right,      [134 192 388 135],0.0
+710,   S6__Station10__Camera2__CAM51880__2016-05-03__07-16-50.JPG,    Unknown_6_3_Right,      [129 321 370 180],0.0
+711,   S7__Station19__Camera1__CAM44208__2014-07-14__18-27-59.JPG,       Male_7_3_Right,      [ 19 196 512 238],0.0
+712,   S4__Station20__Camera2__CAM44257__2016-09-03__03-12-44.JPG,      Male_4_63_Right,      [ 73 175 477 229],0.0
+713,    S6__Station8__Camera2__CAM51931__2017-10-23__17-50-01.JPG,  Unknown_6_207_Right,  [ 602  420 1427  952],0.0
+714,   S7__Station31__Camera1__CAM44216__2014-08-06__00-31-12.JPG,    Female_7_37_Right,      [105 145 429 172],0.0
+715,   S4__Station13__Camera1__CAM41869__2013-09-06__19-14-04.JPG,    Female_4_23_Right,      [ 15 346 356 223],0.0
+716,   S4__Station28__Camera1__CAM40779__2015-04-29__21-42-31.JPG,  Unknown_4_107_Right,      [ 70 120 449 163],0.0
+717,    S6__Station5__Camera1__CAM63782__2016-06-16__09-19-20.JPG,    Female_6_35_Right,      [111 227 463 151],0.0
+718,   S4__Station31__Camera2__CAM44174__2014-07-27__22-40-07.JPG,  Unknown_4_117_Right,      [ 21  32 598 293],0.0
+719,   S1__Station31__Camera1__CAM40311__2014-02-27__20-18-14.JPG,       Male_1_4_Right,      [ 60 162 477 183],0.0
+720,   S8__Station54__Camera2__CAM51429__2015-11-29__02-47-57.JPG,   Female_8_223_Right,      [223 237 244 113],0.0
+721,   S7__Station30__Camera1__CAM40821__2014-07-17__02-08-33.JPG,    Female_7_35_Right,      [171 210 291 123],0.0
+722,    S4__Station2__Camera2__CAM40175__2013-09-11__04-34-07.JPG,   Female_4_110_Right,      [118 327 386 195],0.0
+723,   S7__Station40__Camera2__CAM44294__2014-07-26__05-37-05.JPG,      Male_7_41_Right,      [ 37 182 514 247],0.0
+724,   S8__Station10__Camera2__CAM51970__2015-11-29__03-56-23.JPG,     Male_8_200_Right,      [171 262 354 135],0.0
+725,   S7__Station41__Camera2__CAM44269__2014-07-07__17-34-32.JPG,   Unknown_7_53_Right,      [ 29 125 643 385],0.0
+726,   S8__Station62__Camera1__CAM51542__2015-11-24__17-47-53.JPG,     Male_8_211_Right,      [393 250 298 108],0.0
+727,    S7__Station8__Camera2__CAM44202__2014-07-10__04-52-11.JPG,    Female_7_54_Right,      [ 18 196 424 178],0.0
+728,   S3__Station40__Camera2__CAM44216__2014-04-04__21-30-59.JPG,     Female_3_8_Right,      [177 237 335 159],0.0
+729,   S4__Station33__Camera1__CAM40141__2013-08-29__05-41-53.JPG,      Male_4_56_Right,      [ 20 132 546 277],0.0
+730,   S6__Station19__Camera1__CAM51937__2017-09-19__16-08-09.JPG,   Female_6_201_Right,  [ 186  741 1224  620],0.0
+731,   S6__Station16__Camera2__CAM51508__2015-08-11__18-39-32.JPG,    Female_6_15_Right,      [483 288 268  83],0.0
+732,   S8__Station11__Camera1__CAM51697__2015-11-26__07-56-13.JPG,     Male_8_204_Right,      [ 85 178 365 290],0.0
+733,    S3__Station2__Camera2__CAM40808__2017-07-06__02-42-09.JPG,      Male_3_10_Right,      [513 454 641 293],0.0
+734,   S3__Station19__Camera2__CAM40378__2013-06-18__19-32-28.JPG,       Male_3_3_Right,      [ 33 226 516 264],0.0
+735,   S8__Station34__Camera1__CAM51726__2015-11-16__22-28-13.JPG,   Female_8_210_Right,      [164 205 294 164],0.0
+736,   S2__Station28__Camera2__CAM30826__2013-02-22__11-50-24.JPG,   Unknown_2_93_Right,      [ 21 273 646 313],0.0
+737,   S4__Station13__Camera1__CAM41517__2017-08-15__18-47-54.JPG,   Female_4_352_Right,  [ 206  624 1093  457],0.0
+738,    S3__Station9__Camera2__CAM44217__2016-07-09__17-48-00.JPG,      Male_3_62_Right,      [ 77 126 369 179],0.0
+739,    S5__Station6__Camera2__CAM44270__2016-10-19__20-17-51.JPG,    Female_5_10_Right,      [ 23 161 545 235],0.0
+740,    S3__Station7__Camera2__CAM44269__2016-07-07__05-15-16.JPG,    Female_3_17_Right,      [154 214 374 164],0.0
+741,    S7__Station8__Camera2__CAM44184__2017-12-06__23-30-44.JPG,      Male_7_73_Right,  [1084  670  473  315],0.0
+742,   S4__Station15__Camera2__CAM44212__2015-04-09__17-48-36.JPG,      Male_4_43_Right,      [ 17 180 467 223],0.0
+743,   S2__Station34__Camera2__CAM41537__2014-06-12__00-39-27.JPG,    Female_2_73_Right,      [ 24 206 399 179],0.0
+744,   S8__Station29__Camera2__CAM52072__2015-11-10__19-46-47.JPG,   Female_8_306_Right,      [458 264 338 155],0.0
+745,   S1__Station29__Camera1__CAM40062__2015-02-04__01-51-26.JPG,      Male_1_21_Right,      [232 207 241 227],0.0
+746,    S4__Station3__Camera1__CAM40075__2015-04-08__06-57-53.JPG,  Unknown_4_122_Right,      [160  65 575 503],0.0
+747,   S1__Station19__Camera2__CAM44262__2017-03-12__22-05-05.JPG,      Male_1_30_Right,  [ 387  588 1322  542],0.0
+748,    S4__Station7__Camera2__CAM40814__2013-09-09__02-40-37.JPG,   Female_4_356_Right,      [ 75 254 357 148],0.0
+749,   S1__Station25__Camera1__CAM44196__2015-02-12__19-44-13.JPG,      Male_1_19_Right,      [182 172 296 176],0.0
+750,   S8__Station24__Camera2__CAM51709__2015-11-16__21-57-40.JPG,   Female_8_207_Right,      [237 293 289 108],0.0
+751,   S3__Station28__Camera2__CAM41411__2013-07-16__05-41-23.JPG,    Female_3_12_Right,      [138 208 377 159],0.0
+752,   S2__Station16__Camera2__CAM43197__2017-05-10__08-28-41.JPG,     Male_2_102_Right,      [434 487 678 290],0.0
+753,   S6__Station14__Camera1__CAM51726__2015-07-21__04-15-46.JPG,    Female_6_11_Right,      [455 216 276 144],0.0
+754,   S7__Station42__Camera1__CAM41830__2014-07-06__01-43-01.JPG,      Male_7_20_Right,      [ 24 178 540 247],0.0
+755,   S8__Station21__Camera2__CAM51848__2015-11-26__22-51-17.JPG,     Male_8_300_Right,      [415 240 340 148],0.0
+756,    S1__Station3__Camera1__CAM42161__2016-02-08__23-03-44.JPG,    Female_1_31_Right,      [ 17 293 544 299],0.0
+757,   S4__Station25__Camera2__CAM42292__2014-07-27__17-45-38.JPG,   Unknown_4_91_Right,      [ 57  43 690 329],0.0
+758,   S3__Station13__Camera2__CAM40058__2013-07-02__17-56-47.JPG,      Male_3_17_Right,      [ 31 106 752 477],0.0
+759,   S7__Station21__Camera1__CAM44134__2014-08-10__18-00-29.JPG,    Female_7_14_Right,      [ 22 190 586 254],0.0
+760,    S8__Station5__Camera2__CAM51731__2015-11-23__02-59-51.JPG,     Male_8_205_Right,      [133 164 400 185],0.0
+761,   S5__Station20__Camera2__CAM41504__2016-10-09__19-32-27.JPG,      Male_5_30_Right,      [ 20 126 474 281],0.0
+762,   S8__Station19__Camera1__CAM51712__2015-11-30__18-53-02.JPG,  Unknown_8_217_Right,      [ 18 102 762 417],0.0
+763,   S7__Station24__Camera1__CAM44177__2014-08-14__02-35-12.JPG,    Female_7_25_Right,      [104 258 415 160],0.0
+764,   S3__Station19__Camera2__CAM40378__2013-06-20__19-45-27.JPG,      Male_3_19_Right,      [ 10 257 488 198],0.0
+765,   S2__Station12__Camera2__CAM41036__2016-05-09__13-56-23.JPG,      Male_2_25_Right,      [ 18 239 447 311],0.0
+766,   S6__Station24__Camera2__CAM63814__2017-09-17__19-35-39.JPG,    Female_6_28_Right,  [  41  512 1485  895],0.0
+767,   S7__Station12__Camera2__CAM44163__2014-08-01__17-45-23.JPG,       Male_7_6_Right,      [ 21 208 475 207],0.0
+768,   S4__Station27__Camera2__CAM43177__2016-08-22__10-48-28.JPG,    Female_4_93_Right,      [ 17 223 437 363],0.0
+769,   S8__Station42__Camera2__CAM51698__2015-11-24__03-39-47.JPG,     Male_8_209_Right,      [430 266 355 128],0.0
+770,   S6__Station15__Camera1__CAM51740__2017-09-28__19-55-39.JPG,     Male_6_203_Right,      [328 715 987 372],0.0
+771,   S1__Station13__Camera2__CAM40459__2000-01-07__18-09-13.JPG,       Male_1_3_Right,      [ 17 181 482 192],0.0
+772,    S8__Station6__Camera1__CAM51528__2015-11-05__01-15-09.JPG,   Female_8_200_Right,      [ 94 254 435 154],0.0
+773,   S35__Station7__Camera1__CAM62818__2017-03-09__23-24-50.JPG,   Female_35_14_Right,  [1166  680  442  236],0.0
+774,   S1__Station22__Camera2__CAM30827__2013-06-15__00-46-06.JPG,      Male_1_15_Right,      [ 22 355 524 225],0.0
+775,   S8__Station24__Camera1__CAM51524__2015-12-11__20-02-58.JPG,     Male_8_213_Right,      [432 190 269 122],0.0
+776,    S8__Station1__Camera1__CAM51723__2015-11-14__00-17-02.JPG,   Female_8_203_Right,      [  7 311 540 252],0.0
+777,   S8__Station24__Camera2__CAM51709__2015-11-16__22-08-10.JPG,   Female_8_208_Right,      [173 279 288 127],0.0
+778,   S5__Station34__Camera2__CAM44216__2015-10-02__18-36-58.JPG,      Male_5_52_Right,      [ 15 131 720 429],0.0
+779,   S8__Station18__Camera2__CAM52116__2015-11-20__00-56-35.JPG,   Female_8_303_Right,      [113 268 350 157],0.0
+780,    S9__Station1__Camera1__CAM51729__2017-04-05__18-49-37.JPG,        Male_9_4_Left,  [ 558  444 1480  828],0.0
+781,    S9__Station1__Camera2__CAM50790__2017-03-26__18-50-32.JPG,        Male_9_4_Left,  [ 629  538 1248  815],0.0
+782,    S9__Station2__Camera1__CAM63790__2017-02-18__16-48-28.JPG,        Male_9_4_Left,  [  39   66 1171 1450],0.0
+783,    S9__Station2__Camera1__CAM63790__2017-03-20__14-31-21.JPG,        Male_9_4_Left,  [ 749  657 1244  675],0.0
+784,    S9__Station2__Camera2__CAM63753__2017-02-27__18-40-30.JPG,        Male_9_4_Left,  [ 607  394 1401  735],0.0
+785,    S9__Station3__Camera1__CAM51744__2017-02-18__18-02-01.JPG,        Male_9_4_Left,      [896 637 878 414],0.0
+786,    S9__Station3__Camera1__CAM51744__2017-03-21__02-15-05.JPG,        Male_9_4_Left,  [ 533  467 1505  821],0.0
+787,    S9__Station5__Camera1__CAM51670__2017-02-26__23-48-53.JPG,        Male_9_4_Left,  [ 432  551 1612  922],0.0
+788,    S9__Station5__Camera1__CAM51670__2017-03-07__19-39-35.JPG,        Male_9_4_Left,  [ 459  560 1586  909],0.0
+789,    S9__Station5__Camera1__CAM51670__2017-03-17__03-51-05.JPG,        Male_9_4_Left,  [ 736  536 1189  469],0.0
+790,    S9__Station5__Camera2__CAM51545__2017-03-07__18-38-10.JPG,        Male_9_4_Left,  [ 734  649 1049  374],0.0
+791,   S9__Station13__Camera1__CAM63828__2017-03-12__05-01-35.JPG,        Male_9_4_Left,  [ 650  347 1356 1005],0.0
+792,   S9__Station13__Camera2__CAM63791__2017-02-26__03-18-20.JPG,        Male_9_4_Left,  [ 319  230 1702 1260],0.0
+793,   S9__Station13__Camera3__CAM51673__2017-04-07__02-54-10.JPG,        Male_9_4_Left,      [ 86 533 844 433],0.0
+794,   S9__Station14__Camera1__CAM51709__2017-03-21__23-34-45.JPG,        Male_9_4_Left,      [867 446 659 375],0.0
+795,   S9__Station14__Camera2__CAM52101__2017-04-06__02-50-26.JPG,        Male_9_4_Left,  [ 709  676 1129  510],0.0
+796,   S9__Station15__Camera1__CAM52135__2017-03-20__02-39-04.JPG,        Male_9_4_Left,      [834 571 740 350],0.0
+797,    S1__Station2__Camera1__CAM40068__2017-03-16__02-25-06.JPG,        Male_1_1_Left,      [863 617 765 356],0.0
+798,    S1__Station6__Camera1__CAM40268__2017-02-05__04-03-54.JPG,        Male_1_1_Left,      [802 581 941 413],0.0
+799,    S1__Station6__Camera1__CAM40268__2017-03-15__01-31-49.JPG,        Male_1_1_Left,      [751 719 908 401],0.0
+800,   S1__Station13__Camera1__CAM44283__2017-02-27__03-32-35.JPG,        Male_1_1_Left,  [ 440  337 1604 1062],0.0
+801,   S1__Station13__Camera2__CAM41036__2017-02-23__14-30-56.JPG,        Male_1_1_Left,  [ 225  168 1776 1012],0.0
+802,   S1__Station14__Camera2__CAM41338__2017-01-31__23-26-48.JPG,        Male_1_1_Left,  [ 520  133 1516 1114],0.0
+803,   S1__Station14__Camera2__CAM41338__2017-03-19__02-39-33.JPG,        Male_1_1_Left,  [1044  578  972  503],0.0
+804,   S1__Station14__Camera2__CAM43291__2016-02-03__20-07-51.JPG,        Male_1_1_Left,      [310 149 487 262],0.0
+805,   S1__Station15__Camera2__CAM40800__2015-03-10__23-30-55.JPG,        Male_1_1_Left,      [212 252 584 290],0.0
+806,   S1__Station17__Camera1__CAM43223__2017-01-26__21-43-47.JPG,        Male_1_1_Left,      [819 698 837 341],0.0
+807,   S1__Station17__Camera1__CAM43223__2017-02-01__20-32-15.JPG,        Male_1_1_Left,  [ 457   57 1567 1444],0.0
+808,   S1__Station17__Camera1__CAM43223__2017-02-11__21-04-15.JPG,        Male_1_1_Left,      [176 626 731 345],0.0
+809,   S1__Station17__Camera3__CAM43291__2017-03-10__06-22-29.JPG,        Male_1_1_Left,  [ 469  508 1190  460],0.0
+810,   S1__Station18__Camera2__CAM42062__2017-02-20__01-06-40.JPG,        Male_1_1_Left,  [ 457  439 1588 1038],0.0
+811,   S1__Station24__Camera2__CAM41041__2017-01-26__19-04-16.JPG,        Male_1_1_Left,  [ 469  320 1560  762],0.0
+812,    S1__Station3__Camera1__CAM42161__2016-03-06__00-29-09.JPG,       Male_1_26_Left,      [  6 243 282 157],0.0
+813,    S1__Station3__Camera1__CAM44134__2017-02-03__00-52-56.JPG,       Male_1_26_Left,      [271 748 705 345],0.0
+814,    S1__Station3__Camera2__CAM41063__2017-02-02__19-55-11.JPG,       Male_1_26_Left,      [ 84 747 941 400],0.0
+815,    S1__Station5__Camera2__CAM41302__2017-03-01__03-27-45.JPG,       Male_1_26_Left,  [ 718  313 1079  494],0.0
+816,    S1__Station5__Camera2__CAM41302__2017-03-16__23-58-13.JPG,       Male_1_26_Left,  [ 668  328 1082  458],0.0
+817,    S1__Station6__Camera1__CAM40268__2017-01-26__20-15-44.JPG,       Male_1_26_Left,      [789 573 819 366],0.0
+818,    S1__Station6__Camera1__CAM40268__2017-01-31__17-33-50.JPG,       Male_1_26_Left,  [ 805  576 1047  418],0.0
+819,    S1__Station6__Camera1__CAM40268__2017-02-15__17-33-04.JPG,       Male_1_26_Left,      [794 578 750 382],0.0
+820,    S1__Station6__Camera1__CAM40268__2017-03-07__21-07-45.JPG,       Male_1_26_Left,      [765 664 865 375],0.0
+821,    S1__Station6__Camera1__CAM40268__2017-03-09__17-43-05.JPG,       Male_1_26_Left,      [711 661 860 387],0.0
+822,    S1__Station6__Camera2__CAM40069__2017-01-31__16-04-21.JPG,       Male_1_26_Left,  [   9  597 1450  825],0.0
+823,    S1__Station7__Camera1__CAM41311__2017-03-16__17-12-43.JPG,       Male_1_26_Left,      [960 700 516 256],0.0
+824,    S1__Station8__Camera3__CAM41173__2017-03-02__22-12-19.JPG,       Male_1_26_Left,      [847 513 678 519],0.0
+825,   S1__Station22__Camera2__CAM43188__2017-02-02__03-43-56.JPG,       Male_1_26_Left,      [657 747 367 207],0.0
+826,   S2__Station28__Camera1__CAM41620__2017-04-05__03-16-37.JPG,       Male_2_63_Left,  [  38  515 1014  488],0.0
+827,   S2__Station28__Camera1__CAM41620__2017-04-14__01-53-24.JPG,       Male_2_63_Left,  [ 757  718 1191  571],0.0
+828,   S2__Station28__Camera2__CAM40135__2017-05-16__18-02-44.JPG,       Male_2_63_Left,  [ 676  449 1086  430],0.0
+829,   S2__Station29__Camera1__CAM44282__2017-05-09__21-00-43.JPG,       Male_2_63_Left,  [  35 1043  931  459],0.0
+830,   S2__Station30__Camera1__CAM44136__2017-04-06__04-05-20.JPG,       Male_2_63_Left,      [681 548 973 389],0.0
+831,   S2__Station30__Camera1__CAM44136__2017-04-15__04-11-48.JPG,       Male_2_63_Left,  [ 395  294 1644  851],0.0
+832,   S2__Station31__Camera1__CAM44280__2017-07-25__23-24-47.JPG,       Male_2_63_Left,      [756 545 854 564],0.0
+833,   S2__Station31__Camera2__CAM43188__2017-05-08__05-00-40.JPG,       Male_2_63_Left,      [828 765 630 267],0.0
+834,   S2__Station32__Camera2__CAM40491__2016-05-12__23-39-17.JPG,       Male_2_63_Left,      [410 141 313 159],0.0
+835,   S2__Station33__Camera1__CAM51658__2015-06-07__05-32-45.JPG,       Male_2_63_Left,      [373 298 271 139],0.0
+836,   S2__Station33__Camera2__CAM40774__2017-05-07__02-06-54.JPG,       Male_2_63_Left,  [ 817  602 1164  763],0.0
+837,   S2__Station37__Camera1__CAM41968__2017-05-04__19-48-25.JPG,       Male_2_63_Left,  [ 490   62 1434 1392],0.0
+838,   S7__Station30__Camera2__CAM44307__2017-12-26__22-04-53.JPG,     Female_7_38_Left,  [   1    1 2047 1535],0.0
+839,   S7__Station30__Camera2__CAM44307__2018-01-03__22-09-10.JPG,     Female_7_38_Left,      [353 623 413 178],0.0
+840,   S7__Station31__Camera1__CAM40135__2017-12-10__21-51-54.JPG,     Female_7_38_Left,      [664 616 898 399],0.0
+841,   S7__Station31__Camera1__CAM40135__2017-12-17__01-46-23.JPG,     Female_7_38_Left,      [943 746 471 139],0.0
+842,   S7__Station31__Camera1__CAM40135__2017-12-19__03-54-14.JPG,     Female_7_38_Left,      [464 778 453 127],0.0
+843,   S7__Station31__Camera1__CAM40135__2017-12-31__02-25-56.JPG,     Female_7_38_Left,      [222 556 621 333],0.0
+844,   S7__Station31__Camera1__CAM40135__2018-01-08__04-35-53.JPG,     Female_7_38_Left,      [867 649 513 173],0.0
+845,   S7__Station31__Camera2__CAM43188__2017-12-04__19-59-18.JPG,     Female_7_38_Left,      [881 629 565 246],0.0
+846,   S7__Station31__Camera3__CAM43298__2018-01-03__19-17-45.JPG,     Female_7_38_Left,      [352 648 464 171],0.0
+847,   S7__Station41__Camera2__CAM40141__2017-12-27__01-31-26.JPG,     Female_7_38_Left,  [ 611  726 1039  455],0.0
+848,    S2__Station7__Camera2__CAM44183__2017-04-18__03-54-36.JPG,       Male_2_17_Left,  [ 139  224 1898 1271],0.0
+849,    S2__Station7__Camera2__CAM44183__2017-07-31__17-43-35.JPG,       Male_2_17_Left,      [695 558 907 371],0.0
+850,   S2__Station11__Camera1__CAM40814__2017-05-17__03-27-32.JPG,       Male_2_17_Left,      [672 548 808 363],0.0
+851,   S2__Station11__Camera2__CAM44186__2016-04-14__22-12-21.JPG,       Male_2_17_Left,      [351 285 298 123],0.0
+852,   S2__Station15__Camera2__CAM40821__2017-04-22__21-17-07.JPG,       Male_2_17_Left,  [ 572  531 1246  526],0.0
+853,   S2__Station16__Camera1__CAM44270__2017-04-15__14-25-37.JPG,       Male_2_17_Left,      [339 733 583 206],0.0
+854,   S2__Station16__Camera1__CAM44270__2017-05-11__19-36-17.JPG,       Male_2_17_Left,  [ 597  581 1442  645],0.0
+855,   S2__Station17__Camera2__CAM41411__2014-05-23__04-34-51.JPG,       Male_2_17_Left,      [293 184 494 286],0.0
+856,   S2__Station17__Camera2__CAM51707__2015-06-08__02-28-17.JPG,       Male_2_17_Left,      [196 154 591 265],0.0
+857,   S2__Station21__Camera1__CAM40055__2017-04-22__17-28-20.JPG,       Male_2_17_Left,      [426 680 402 457],0.0
+858,   S7__Station20__Camera1__CAM41489__2017-12-21__01-30-52.JPG,       Male_7_49_Left,      [868 792 707 334],0.0
+859,   S7__Station20__Camera1__CAM41489__2017-12-24__23-50-23.JPG,       Male_7_49_Left,      [898 808 737 313],0.0
+860,   S7__Station22__Camera1__CAM40069__2018-01-04__09-27-46.JPG,       Male_7_49_Left,  [ 528  238 1505 1163],0.0
+861,   S7__Station22__Camera2__CAM40821__2017-12-19__00-58-54.JPG,       Male_7_49_Left,      [950 648 523 251],0.0
+862,   S7__Station22__Camera2__CAM40821__2018-01-03__22-12-48.JPG,       Male_7_49_Left,  [1048  696  365  231],0.0
+863,   S7__Station33__Camera1__CAM40709__2017-12-17__18-58-44.JPG,       Male_7_49_Left,  [1002  438  499  362],0.0
+864,   S7__Station33__Camera1__CAM40709__2017-12-30__23-56-14.JPG,       Male_7_49_Left,      [914 535 693 387],0.0
+865,   S7__Station38__Camera2__CAM44158__2014-08-10__03-45-59.JPG,       Male_7_49_Left,      [262 252 514 268],0.0
+866,   S7__Station41__Camera2__CAM40141__2018-01-08__06-04-29.JPG,       Male_7_49_Left,      [948 570 633 648],0.0
+867,    S3__Station5__Camera2__CAM41469__2013-06-25__23-05-29.JPG,       Male_7_49_Left,      [314 183 338 143],0.0
+868,    S9__Station8__Camera1__CAM51707__2017-02-26__01-06-28.JPG,     Female_9_12_Left,      [768 399 799 313],0.0
+869,    S9__Station8__Camera1__CAM51707__2017-03-14__23-04-44.JPG,     Female_9_12_Left,  [ 722  683 1096  510],0.0
+870,    S9__Station8__Camera1__CAM51707__2017-03-16__19-57-15.JPG,     Female_9_12_Left,      [ 32 703 973 511],0.0
+871,    S9__Station8__Camera2__CAM51841__2017-02-28__05-10-41.JPG,     Female_9_12_Left,  [ 733  556 1179  537],0.0
+872,    S9__Station8__Camera2__CAM51841__2017-03-16__06-11-13.JPG,     Female_9_12_Left,      [932 665 891 335],0.0
+873,    S9__Station8__Camera2__CAM51841__2017-03-18__03-53-32.JPG,     Female_9_12_Left,      [926 679 895 306],0.0
+874,   S9__Station39__Camera4__CAM51943__2017-04-04__03-46-24.JPG,     Female_9_12_Left,  [ 733  586 1175  510],0.0
+875,   S9__Station39__Camera5__CAM52118__2017-04-09__08-40-43.JPG,     Female_9_12_Left,  [ 666  594 1181  392],0.0
+876,    S9__Station8__Camera1__CAM51707__2017-03-08__03-02-17.JPG,        Male_9_2_Left,  [ 640  643 1292  543],0.0
+877,    S9__Station8__Camera1__CAM51707__2017-04-03__00-17-15.JPG,        Male_9_2_Left,  [ 311  620 1640  907],0.0
+878,   S9__Station12__Camera2__CAM52105__2017-03-21__02-14-03.JPG,        Male_9_2_Left,      [903 679 858 402],0.0
+879,   S9__Station18__Camera1__CAM51519__2017-03-07__04-06-48.JPG,        Male_9_2_Left,      [658 428 971 481],0.0
+880,   S9__Station35__Camera2__CAM51687__2017-03-03__04-33-52.JPG,        Male_9_2_Left,      [823 502 698 520],0.0
+881,   S9__Station38__Camera3__CAM51681__2017-02-26__18-23-15.JPG,        Male_9_2_Left,  [ 895  743 1060  444],0.0
+882,   S9__Station39__Camera5__CAM52118__2017-03-23__01-10-52.JPG,        Male_9_2_Left,  [ 624  473 1345  480],0.0
+883,   S9__Station39__Camera5__CAM52118__2017-04-05__23-15-06.JPG,        Male_9_2_Left,  [  67  586 1312  455],0.0
+884,    S2__Station6__Camera1__CAM44307__2017-04-03__09-27-47.JPG,        Male_2_5_Left,  [ 598  368 1445 1041],0.0
+885,    S2__Station6__Camera1__CAM44307__2017-04-03__09-27-53.JPG,        Male_2_5_Left,  [  43  664 1163  674],0.0
+886,    S2__Station8__Camera1__CAM41266__2017-04-30__05-48-17.JPG,        Male_2_5_Left,      [744 706 851 390],0.0
+887,    S2__Station9__Camera1__CAM41558__2017-04-30__07-19-42.JPG,        Male_2_5_Left,      [948 742 568 244],0.0
+888,   S2__Station10__Camera1__CAM40808__2017-05-07__23-49-31.JPG,        Male_2_5_Left,  [ 524  332 1298  519],0.0
+889,   S2__Station10__Camera2__CAM44205__2016-04-11__03-55-20.JPG,        Male_2_5_Left,      [213 187 581 305],0.0
+890,   S2__Station10__Camera2__CAM51695__2015-06-12__21-38-34.JPG,        Male_2_5_Left,      [302 238 380 160],0.0
+891,   S7__Station29__Camera1__CAM44003__2018-01-05__22-47-53.JPG,       Male_7_65_Left,      [782 482 850 367],0.0
+892,   S7__Station29__Camera1__CAM44003__2018-01-07__03-34-59.JPG,       Male_7_65_Left,  [ 120   51 1917 1207],0.0
+893,   S7__Station29__Camera2__CAM40342__2017-12-16__02-24-13.JPG,       Male_7_65_Left,      [953 627 600 266],0.0
+894,   S7__Station29__Camera2__CAM40342__2017-12-25__19-32-48.JPG,       Male_7_65_Left,      [764 559 921 398],0.0
+895,   S7__Station30__Camera2__CAM44307__2017-12-16__21-46-39.JPG,       Male_7_65_Left,      [201 583 607 407],0.0
+896,   S7__Station30__Camera2__CAM44307__2018-01-06__21-34-16.JPG,       Male_7_65_Left,  [ 576  393 1453  803],0.0
+897,   S7__Station32__Camera2__CAM40658__2017-12-28__02-06-02.JPG,       Male_7_65_Left,  [ 447   23 1592 1129],0.0
+898,   S35__Station1__Camera2__CAM63001__2017-04-19__23-09-28.JPG,       Male_35_1_Left,  [ 288   60 1697 1148],0.0
+899,   S35__Station7__Camera1__CAM62818__2017-03-03__22-46-01.JPG,       Male_35_1_Left,  [ 557  360 1472  894],0.0
+900,   S35__Station9__Camera2__CAM62819__2017-03-05__02-28-34.JPG,       Male_35_1_Left,  [  10   53  993 1006],0.0
+901,  S35__Station10__Camera2__CAM52059__2017-03-10__21-57-59.JPG,       Male_35_1_Left,  [ 770  437 1268  739],0.0
+902,  S35__Station12__Camera2__CAM62801__2017-04-03__06-17-13.JPG,       Male_35_1_Left,      [ 12 539 830 456],0.0
+903,  S35__Station13__Camera1__CAM62684__2017-03-23__06-12-04.JPG,       Male_35_1_Left,      [457 396 562 314],0.0
+904,  S35__Station13__Camera1__CAM62684__2017-04-06__19-26-44.JPG,       Male_35_1_Left,  [ 376   65 1650  998],0.0
+905,   S2__Station13__Camera1__CAM30234__2013-03-17__16-59-17.JPG,       Unknown_3_Left,      [185 207 594 381],0.0
+906,   S2__Station36__Camera1__CAM52016__2015-06-02__21-32-49.JPG,       Male_2_26_Left,      [280 271 468 186],0.0
+907,   S2__Station44__Camera2__CAM43190__2016-04-01__02-52-12.JPG,       Male_2_26_Left,      [193 247 595 331],0.0
+908,   S2__Station45__Camera2__CAM43191__2014-05-31__22-28-09.JPG,       Male_2_26_Left,      [316 102 386 153],0.0
+909,   S2__Station36__Camera1__CAM41085__2017-04-24__08-09-36.JPG,       Male_2_26_Left,  [ 740  593 1013  420],0.0
+910,   S2__Station45__Camera2__CAM44003__2017-04-12__18-05-27.JPG,       Male_2_26_Left,      [807 470 910 392],0.0
+911,   S2__Station45__Camera2__CAM44003__2017-05-12__23-52-24.JPG,       Male_2_26_Left,      [657 590 984 402],0.0
+912,    S2__Station6__Camera1__CAM51717__2015-05-29__07-32-49.JPG,     Female_2_14_Left,      [296 328 464 256],0.0
+913,    S2__Station7__Camera1__CAM44240__2014-06-08__01-18-39.JPG,     Female_2_14_Left,      [284 315 440 173],0.0
+914,    S2__Station8__Camera1__CAM41266__2017-05-05__21-41-51.JPG,     Female_2_14_Left,      [914 715 430 170],0.0
+915,    S2__Station9__Camera1__CAM41558__2017-05-01__05-11-51.JPG,     Female_2_14_Left,  [1037  816  557  248],0.0
+916,    S2__Station9__Camera1__CAM41558__2017-05-02__17-42-44.JPG,     Female_2_14_Left,      [482 794 504 180],0.0
+917,    S2__Station1__Camera1__CAM40459__2013-02-23__03-46-21.JPG,     Female_2_14_Left,      [219 257 403 198],0.0
+918,   S1__Station28__Camera1__CAM43314__2017-02-15__19-19-01.JPG,       Male_1_33_Left,  [ 563  526 1457  776],0.0
+919,   S1__Station28__Camera2__CAM44003__2017-03-19__18-43-45.JPG,       Male_1_33_Left,      [698 538 884 611],0.0
+920,   S1__Station31__Camera1__CAM41318__2017-02-21__20-15-22.JPG,       Male_1_33_Left,  [ 776  426 1075  534],0.0
+921,   S1__Station31__Camera2__CAM41843__2017-03-04__19-14-30.JPG,       Male_1_33_Left,  [ 640  188 1400  989],0.0
+922,   S1__Station33__Camera3__CAM40491__2017-03-14__02-37-13.JPG,       Male_1_33_Left,  [ 287  318 1754 1179],0.0
+923,   S1__Station33__Camera3__CAM40491__2017-03-14__02-37-57.JPG,       Male_1_33_Left,      [550 887 458 236],0.0
+924,    S7__Station1__Camera2__CAM40304__2017-12-11__16-39-53.JPG,       Male_7_17_Left,      [578 607 337 146],0.0
+925,    S7__Station2__Camera1__CAM44174__2018-01-03__19-34-07.JPG,       Male_7_17_Left,      [101 767 786 346],0.0
+926,   S7__Station13__Camera1__CAM40175__2018-01-18__03-36-02.JPG,       Male_7_17_Left,      [670 545 941 392],0.0
+927,   S7__Station37__Camera2__CAM40327__2017-12-19__16-29-40.JPG,       Male_7_17_Left,  [1171  549  342  145],0.0
+928,   S7__Station37__Camera2__CAM40327__2017-12-19__16-30-06.JPG,       Male_7_17_Left,  [  48  144 1826 1201],0.0
+929,   S7__Station37__Camera2__CAM40327__2017-12-19__16-30-09.JPG,       Male_7_17_Left,  [   8   35 1700 1471],0.0
+930,    S4__Station5__Camera1__CAM41338__2017-09-07__05-06-42.JPG,     Female_4_52_Left,      [776 461 930 379],0.0
+931,    S4__Station5__Camera2__CAM43213__2016-08-11__22-46-51.JPG,     Female_4_52_Left,      [239 221 543 231],0.0
+932,    S4__Station6__Camera1__CAM44180__2015-04-03__19-27-17.JPG,     Female_4_52_Left,      [340 266 339 156],0.0
+933,    S4__Station7__Camera2__CAM43191__2014-08-11__00-20-25.JPG,     Female_4_52_Left,      [182  75 613 321],0.0
+934,    S4__Station8__Camera1__CAM40804__2013-09-15__22-46-42.JPG,     Female_4_52_Left,      [336 110 461 238],0.0
+935,    S4__Station6__Camera1__CAM41504__2014-07-24__15-51-06.JPG,     Female_4_52_Left,      [273 100 524 428],0.0
+936,    S2__Station8__Camera2__CAM40483__2014-05-15__21-59-29.JPG,        Male_2_2_Left,      [345 314 363 171],0.0
+937,    S2__Station9__Camera1__CAM40830__2016-04-01__18-16-55.JPG,        Male_2_2_Left,      [293 244 477 240],0.0
+938,    S2__Station9__Camera2__CAM51540__2015-06-14__00-50-55.JPG,        Male_2_2_Left,      [266 338 532 252],0.0
+939,   S2__Station15__Camera2__CAM40821__2017-05-08__21-12-57.JPG,        Male_2_2_Left,  [ 578  551 1326  720],0.0
+940,   S2__Station29__Camera1__CAM30186__2013-03-14__23-53-43.JPG,        Male_2_2_Left,      [224 245 573 327],0.0
+941,    S2__Station1__Camera2__CAM40459__2000-01-11__10-37-00.JPG,        Male_2_2_Left,      [414 248 373 194],0.0
+942,   S1__Station11__Camera2__CAM40055__2015-03-08__04-29-47.JPG,      Female_1_1_Left,      [336 179 451 185],0.0
+943,   S1__Station14__Camera1__CAM43324__2017-02-26__23-07-47.JPG,      Female_1_1_Left,  [ 739  318 1302  776],0.0
+944,   S1__Station17__Camera2__CAM40864__2014-03-30__05-35-16.JPG,      Female_1_1_Left,      [224 161 557 255],0.0
+945,   S1__Station17__Camera2__CAM43316__2016-03-05__04-51-22.JPG,      Female_1_1_Left,      [233 201 558 245],0.0
+946,   S1__Station18__Camera2__CAM30883__2013-06-17__00-01-46.JPG,      Female_1_1_Left,      [125 196 670 339],0.0
+947,    S1__Station1__Camera1__CAM40355__2016-02-14__04-43-48.JPG,      Female_1_4_Left,      [301 255 483 182],0.0
+948,    S1__Station1__Camera2__CAM44215__2015-03-05__04-00-10.JPG,      Female_1_4_Left,      [ 64 342 287 161],0.0
+949,    S1__Station2__Camera1__CAM40068__2017-03-11__23-47-55.JPG,      Female_1_4_Left,      [791 653 614 277],0.0
+950,   S1__Station10__Camera1__CAM41124__2017-02-04__05-52-48.JPG,      Female_1_4_Left,      [976 647 432 233],0.0
+951,   S1__Station10__Camera1__CAM41124__2017-02-26__02-05-38.JPG,      Female_1_4_Left,  [ 663  641 1345  646],0.0
+952,   S4__Station15__Camera2__CAM40771__2017-07-28__18-02-01.JPG,     Female_4_28_Left,  [ 483  401 1470  615],0.0
+953,   S4__Station15__Camera2__CAM43311__2016-09-01__23-46-56.JPG,     Female_4_28_Left,      [303 157 352 154],0.0
+954,   S4__Station16__Camera1__CAM41411__2015-05-06__21-42-07.JPG,     Female_4_28_Left,      [237 282 286 112],0.0
+955,   S4__Station16__Camera2__CAM41140__2014-07-19__02-01-38.JPG,     Female_4_28_Left,      [200  30 593 315],0.0
+956,   S4__Station18__Camera1__CAM41101__2013-09-22__23-58-15.JPG,     Female_4_28_Left,      [182 106 611 327],0.0
+957,   S4__Station21__Camera2__CAM40327__2016-08-31__18-17-02.JPG,     Female_4_77_Left,      [347 141 315 294],0.0
+958,   S4__Station22__Camera1__CAM44214__2014-07-07__19-32-27.JPG,     Female_4_77_Left,      [260 192 527 228],0.0
+959,   S4__Station24__Camera1__CAM40182__2017-08-03__03-53-35.JPG,     Female_4_77_Left,      [803 437 982 452],0.0
+960,   S4__Station24__Camera1__CAM41107__2015-04-28__21-37-25.JPG,     Female_4_77_Left,      [229 212 519 195],0.0
+961,   S4__Station30__Camera2__CAM41411__2013-08-31__01-35-32.JPG,     Female_4_77_Left,      [328 255 421 159],0.0
+962,   S4__Station24__Camera1__CAM41107__2015-04-17__05-47-51.JPG,     Female_4_85_Left,      [227 202 551 210],0.0
+963,   S4__Station24__Camera1__CAM44195__2016-08-28__21-25-32.JPG,     Female_4_85_Left,      [221 112 436 211],0.0
+964,   S4__Station25__Camera2__CAM40203__2017-09-13__02-35-10.JPG,     Female_4_85_Left,      [699 570 920 349],0.0
+965,   S4__Station26__Camera1__CAM40461__2014-08-04__23-33-23.JPG,     Female_4_85_Left,      [245 212 551 291],0.0
+966,   S4__Station31__Camera1__CAM40144__2013-09-14__23-14-48.JPG,     Female_4_85_Left,      [363 231 193  97],0.0
+967,   S4__Station26__Camera1__CAM44204__2016-08-19__01-05-40.JPG,     Female_4_98_Left,      [165 111 632 316],0.0
+968,   S4__Station26__Camera2__CAM40311__2017-08-09__22-54-01.JPG,     Female_4_98_Left,  [ 731  459 1278  547],0.0
+969,   S4__Station28__Camera1__CAM40779__2015-04-27__05-29-33.JPG,     Female_4_98_Left,      [227  70 552 287],0.0
+970,   S4__Station28__Camera2__CAM41808__2014-07-11__02-47-55.JPG,     Female_4_98_Left,      [319 278 427 169],0.0
+971,   S4__Station33__Camera2__CAM41077__2013-10-06__01-49-31.JPG,     Female_4_98_Left,      [ 33 248 360 161],0.0
+972,    S4__Station3__Camera1__CAM40135__2016-07-27__22-37-47.JPG,    Female_4_123_Left,      [306 245 291 113],0.0
+973,    S4__Station3__Camera1__CAM40849__2017-08-31__19-08-25.JPG,    Female_4_123_Left,  [ 425  502 1615  980],0.0
+974,    S4__Station5__Camera2__CAM40814__2015-05-04__18-41-42.JPG,    Female_4_123_Left,      [218 169 567 373],0.0
+975,    S4__Station6__Camera2__CAM40953__2013-09-21__01-27-03.JPG,    Female_4_123_Left,      [302 174 434 203],0.0
+976,    S4__Station8__Camera1__CAM44262__2014-07-23__20-15-01.JPG,    Female_4_123_Left,      [267 273 513 202],0.0
+977,   S7__Station20__Camera1__CAM40830__2014-07-10__00-19-57.JPG,     Female_7_16_Left,      [277 195 511 198],0.0
+978,   S7__Station35__Camera1__CAM44211__2017-12-06__09-10-16.JPG,     Female_7_16_Left,      [225 709 781 352],0.0
+979,   S7__Station35__Camera2__CAM41620__2017-12-15__16-56-22.JPG,     Female_7_16_Left,      [961 631 667 246],0.0
+980,   S7__Station40__Camera1__CAM44186__2017-12-10__13-53-19.JPG,     Female_7_16_Left,  [ 754  747 1157  480],0.0
+981,   S7__Station40__Camera2__CAM41085__2017-12-31__05-10-36.JPG,     Female_7_16_Left,      [717 631 743 351],0.0
+982,   S7__Station29__Camera1__CAM44178__2014-07-22__19-51-47.JPG,     Female_7_31_Left,      [212 280 442 149],0.0
+983,   S7__Station31__Camera1__CAM40135__2017-12-10__20-52-13.JPG,     Female_7_31_Left,  [  75  310 1961  893],0.0
+984,   S7__Station31__Camera3__CAM43298__2017-12-16__00-38-19.JPG,     Female_7_31_Left,      [897 516 633 294],0.0
+985,   S7__Station31__Camera3__CAM43298__2018-01-01__05-42-47.JPG,     Female_7_31_Left,      [304 579 557 267],0.0
+986,   S7__Station31__Camera3__CAM43298__2018-01-13__22-23-56.JPG,     Female_7_31_Left,  [ 617  386 1428  752],0.0
+987,    S4__Station7__Camera2__CAM40075__2014-07-02__06-28-23.JPG,       Male_4_26_Left,      [385 228 402 169],0.0
+988,   S4__Station12__Camera2__CAM41077__2016-07-28__20-44-08.JPG,       Male_4_26_Left,      [212 111 585 306],0.0
+989,   S4__Station15__Camera1__CAM41108__2017-08-23__00-25-23.JPG,       Male_4_26_Left,  [ 626  512 1385  577],0.0
+990,   S4__Station16__Camera2__CAM40072__2013-09-12__23-03-16.JPG,       Male_4_26_Left,      [248 175 549 301],0.0
+991,   S4__Station19__Camera2__CAM40058__2015-04-14__03-03-31.JPG,       Male_4_26_Left,      [198 102 598 315],0.0
+992,    S4__Station5__Camera2__CAM41085__2017-08-24__21-51-21.JPG,       Male_4_39_Left,  [ 581  254 1451  743],0.0
+993,    S4__Station6__Camera2__CAM40771__2016-08-23__18-57-45.JPG,       Male_4_39_Left,      [233 125 563 251],0.0
+994,    S4__Station7__Camera1__CAM43191__2014-07-15__21-46-40.JPG,       Male_4_39_Left,      [ 25  11 772 466],0.0
+995,    S4__Station9__Camera1__CAM44208__2015-04-01__21-09-12.JPG,       Male_4_39_Left,      [274 217 426 197],0.0
+996,   S4__Station27__Camera1__CAM40327__2013-09-12__14-07-32.JPG,       Male_4_39_Left,      [309 208 483 284],0.0
+997,    S7__Station9__Camera1__CAM40336__2018-01-12__01-19-32.JPG,       Male_7_60_Left,      [907 495 555 254],0.0
+998,   S7__Station13__Camera1__CAM40175__2017-12-17__04-21-20.JPG,       Male_7_60_Left,      [632 598 811 374],0.0
+999,   S7__Station18__Camera1__CAM44282__2017-12-11__02-53-09.JPG,       Male_7_60_Left,  [1003  650  617  275],0.0
+1000,   S7__Station14__Camera1__CAM41311__2017-12-31__00-17-52.JPG,       Male_7_60_Left,      [ 55 614 879 425],0.0
+1001,   S7__Station18__Camera1__CAM44282__2017-12-11__02-53-39.JPG,       Male_7_60_Left,      [360 674 620 238],0.0
+1002,   S3__Station17__Camera2__CAM40135__2016-06-09__00-55-59.JPG,     Female_3_26_Left,      [268 258 350 150],0.0
+1003,   S3__Station17__Camera2__CAM41090__2013-07-02__09-05-19.JPG,     Female_3_26_Left,      [305 275 314 132],0.0
+1004,   S3__Station34__Camera1__CAM44249__2015-07-11__21-05-55.JPG,     Female_3_26_Left,      [271 179 423 175],0.0
+1005,   S3__Station35__Camera1__CAM44185__2014-04-22__20-18-57.JPG,     Female_3_26_Left,      [365 233 329 147],0.0
+1006,    S3__Station5__Camera2__CAM40480__2017-06-06__07-30-38.JPG,     Female_3_26_Left,  [ 604  537 1410  650],0.0
+1007,    S3__Station5__Camera2__CAM44184__2014-04-05__08-02-25.JPG,      Female_3_4_Left,      [206 201 540 209],0.0
+1008,    S3__Station6__Camera1__CAM40221__2013-06-17__06-19-45.JPG,      Female_3_4_Left,      [339 302 234 134],0.0
+1009,    S3__Station6__Camera2__CAM44263__2015-07-12__05-15-13.JPG,      Female_3_4_Left,      [261 262 522 198],0.0
+1010,   S3__Station18__Camera1__CAM40311__2016-06-06__03-03-35.JPG,      Female_3_4_Left,      [355 247 371 150],0.0
+1011,   S3__Station37__Camera2__CAM40814__2017-06-29__01-41-31.JPG,      Female_3_4_Left,  [ 625  545 1274  565],0.0
+1012,   S1__Station28__Camera2__CAM44003__2017-02-14__04-34-46.JPG,     Female_1_22_Left,  [  27  273  793 1232],0.0
+1013,   S1__Station31__Camera1__CAM41318__2017-02-05__19-06-42.JPG,     Female_1_22_Left,  [ 543  366 1494  691],0.0
+1014,   S1__Station31__Camera1__CAM41318__2017-03-12__19-11-01.JPG,     Female_1_22_Left,      [794 521 858 359],0.0
+1015,   S1__Station31__Camera2__CAM41843__2017-02-25__16-59-18.JPG,     Female_1_22_Left,      [905 599 859 357],0.0
+1016,   S1__Station31__Camera2__CAM41843__2017-02-25__16-59-23.JPG,     Female_1_22_Left,      [  0 588 127 222],0.0
+1017,   S2__Station10__Camera2__CAM51695__2015-05-09__14-56-57.JPG,      Female_2_4_Left,      [182 326 403 146],0.0
+1018,   S2__Station14__Camera1__CAM40312__2016-04-06__03-16-26.JPG,      Female_2_4_Left,      [ 83 119 711 345],0.0
+1019,   S2__Station15__Camera2__CAM41835__2014-05-29__20-24-24.JPG,      Female_2_4_Left,      [244 199 538 253],0.0
+1020,   S2__Station21__Camera1__CAM30792__2013-03-29__05-53-17.JPG,      Female_2_4_Left,      [416 201 376 237],0.0
+1021,    S2__Station9__Camera1__CAM41558__2017-04-19__05-49-19.JPG,      Female_2_4_Left,      [785 898 903 408],0.0
+1022,    S3__Station1__Camera1__CAM41835__2013-06-12__19-33-40.JPG,     Female_3_23_Left,      [277 263 400 125],0.0
+1023,   S3__Station15__Camera2__CAM41041__2016-06-13__04-51-16.JPG,     Female_3_23_Left,      [332 204 307 124],0.0
+1024,   S3__Station30__Camera2__CAM44298__2014-04-03__18-09-56.JPG,     Female_3_23_Left,      [298 190 408 169],0.0
+1025,   S3__Station39__Camera1__CAM41108__2015-07-03__23-10-02.JPG,     Female_3_23_Left,      [235 195 558 231],0.0
+1026,   S3__Station11__Camera1__CAM41107__2017-07-01__17-59-33.JPG,     Female_3_23_Left,  [ 551  550 1455  520],0.0
+1027,   S4__Station11__Camera1__CAM44186__2016-09-02__03-47-54.JPG,        Male_4_3_Left,      [305 282 481 249],0.0
+1028,   S4__Station12__Camera2__CAM40069__2015-04-28__02-40-46.JPG,        Male_4_3_Left,      [314 243 459 185],0.0
+1029,   S4__Station20__Camera2__CAM41117__2013-09-14__00-08-37.JPG,        Male_4_3_Left,      [285 127 461 208],0.0
+1030,   S4__Station31__Camera1__CAM40221__2014-08-10__20-09-29.JPG,        Male_4_3_Left,      [263 152 470 188],0.0
+1031,   S4__Station20__Camera1__CAM40135__2013-08-28__21-41-41.JPG,        Male_4_3_Left,      [414 264 203 125],0.0
+1032,    S1__Station3__Camera1__CAM41107__2015-02-11__23-13-36.JPG,     Female_1_17_Left,      [255 219 474 172],0.0
+1033,    S1__Station3__Camera2__CAM43223__2016-02-01__22-50-09.JPG,     Female_1_17_Left,      [236 284 467 176],0.0
+1034,    S1__Station6__Camera1__CAM30853__2013-06-15__07-42-48.JPG,     Female_1_17_Left,      [234 290 459 237],0.0
+1035,    S1__Station7__Camera2__CAM40767__2014-02-27__03-29-51.JPG,     Female_1_17_Left,      [344 232 233  92],0.0
+1036,    S2__Station9__Camera1__CAM41124__2014-05-24__22-52-11.JPG,      Female_2_3_Left,      [305 103 480 289],0.0
+1037,   S2__Station10__Camera2__CAM51695__2015-05-31__00-46-40.JPG,      Female_2_3_Left,      [ 47 199 299 116],0.0
+1038,   S2__Station12__Camera1__CAM40144__2016-04-15__04-56-51.JPG,      Female_2_3_Left,      [278 200 390 168],0.0
+1039,   S2__Station26__Camera2__CAM40453__2013-02-17__23-37-46.JPG,      Female_2_3_Left,      [336 250 324 130],0.0
+1040,    S2__Station7__Camera1__CAM44240__2014-05-25__04-57-45.JPG,     Female_2_18_Left,      [207 332 342 125],0.0
+1041,   S2__Station11__Camera1__CAM42161__2016-05-05__21-33-29.JPG,     Female_2_18_Left,      [147 277 576 231],0.0
+1042,   S2__Station17__Camera2__CAM51707__2015-06-08__05-32-18.JPG,     Female_2_18_Left,      [269 196 445 173],0.0
+1043,   S2__Station17__Camera3__CAM43217__2017-04-13__12-45-37.JPG,     Female_2_18_Left,      [742 680 863 366],0.0
+1044,   S2__Station20__Camera1__CAM41830__2013-03-13__04-06-00.JPG,     Female_2_50_Left,      [308 174 490 381],0.0
+1045,   S2__Station31__Camera2__CAM43213__2016-05-02__22-43-44.JPG,     Female_2_50_Left,      [219 271 565 250],0.0
+1046,   S2__Station32__Camera2__CAM51675__2015-05-08__07-36-06.JPG,     Female_2_50_Left,      [329 255 264 115],0.0
+1047,   S2__Station39__Camera2__CAM42259__2014-06-05__03-22-27.JPG,     Female_2_50_Left,      [214 268 574 274],0.0
+1048,   S4__Station11__Camera2__CAM42339__2016-07-31__03-33-00.JPG,      Female_4_9_Left,      [204 178 576 268],0.0
+1049,   S4__Station12__Camera1__CAM40477__2014-07-06__17-44-49.JPG,      Female_4_9_Left,      [ 12 259 341 159],0.0
+1050,   S4__Station12__Camera1__CAM44307__2015-04-15__03-54-39.JPG,      Female_4_9_Left,      [256 247 481 193],0.0
+1051,   S4__Station36__Camera1__CAM41835__2013-09-18__05-21-42.JPG,      Female_4_9_Left,      [125 115 673 301],0.0
+1052,   S4__Station28__Camera2__CAM40149__2016-07-30__18-42-50.JPG,    Female_4_104_Left,      [139 174 658 406],0.0
+1053,   S4__Station29__Camera1__CAM43314__2015-05-06__20-03-43.JPG,    Female_4_104_Left,      [317 314 350 129],0.0
+1054,   S4__Station29__Camera2__CAM41869__2014-07-11__02-02-35.JPG,    Female_4_104_Left,      [189 318 590 267],0.0
+1055,   S4__Station34__Camera2__CAM40068__2013-10-08__11-47-52.JPG,    Female_4_104_Left,      [324 293 169 108],0.0
+1056,    S7__Station2__Camera1__CAM44174__2017-12-26__02-56-43.JPG,      Female_7_8_Left,  [ 687  739 1009  481],0.0
+1057,    S7__Station2__Camera2__CAM40779__2014-07-13__05-02-25.JPG,      Female_7_8_Left,      [286 148 438 169],0.0
+1058,    S7__Station3__Camera1__CAM42301__2017-12-03__02-06-55.JPG,      Female_7_8_Left,  [ 622  611 1206  468],0.0
+1059,    S7__Station4__Camera2__CAM41338__2017-12-30__04-14-12.JPG,      Female_7_8_Left,      [990 604 467 263],0.0
+1060,    S4__Station2__Camera1__CAM40800__2014-08-03__00-39-51.JPG,        Male_4_2_Left,      [258 164 410 186],0.0
+1061,   S4__Station12__Camera1__CAM44307__2015-05-02__03-06-05.JPG,        Male_4_2_Left,      [283 165 455 197],0.0
+1062,   S4__Station13__Camera1__CAM41056__2013-09-09__04-58-44.JPG,        Male_4_2_Left,      [280 276 359 158],0.0
+1063,   S4__Station23__Camera2__CAM41489__2017-08-19__20-56-19.JPG,        Male_4_2_Left,  [ 571  583 1227  506],0.0
+1064,   S4__Station24__Camera1__CAM44195__2016-07-28__06-27-43.JPG,       Male_4_76_Left,      [199 169 499 227],0.0
+1065,   S4__Station28__Camera2__CAM41049__2015-04-13__21-03-14.JPG,       Male_4_76_Left,      [274 137 523 271],0.0
+1066,   S4__Station28__Camera2__CAM41808__2014-07-06__02-58-32.JPG,       Male_4_76_Left,      [324 240 460 200],0.0
+1067,   S4__Station32__Camera1__CAM40312__2013-08-29__07-53-38.JPG,       Male_4_76_Left,      [440 115 348 332],0.0
+1068,    S9__Station2__Camera1__CAM63790__2017-03-19__19-02-03.JPG,        Male_9_7_Left,  [ 852  748 1035  382],0.0
+1069,    S9__Station2__Camera2__CAM63753__2017-03-19__19-00-28.JPG,        Male_9_7_Left,  [1002  734  747  281],0.0
+1070,   S9__Station15__Camera1__CAM52135__2017-02-20__05-23-45.JPG,        Male_9_7_Left,      [815 600 846 568],0.0
+1071,   S9__Station15__Camera1__CAM52135__2017-03-20__01-33-07.JPG,        Male_9_7_Left,  [ 768  463 1212  542],0.0
+1072,   S12__Station5__Camera1__CAM40788__2017-08-08__08-50-58.JPG,     Male_12_213_Left,  [1011    5  999 1497],0.0
+1073,   S12__Station5__Camera1__CAM40788__2017-08-08__08-51-00.JPG,     Male_12_213_Left,  [1183    4  771 1488],0.0
+1074,   S12__Station5__Camera1__CAM40788__2017-08-08__08-51-11.JPG,     Male_12_213_Left,  [1234    3  810 1508],0.0
+1075,   S12__Station5__Camera1__CAM40788__2017-08-08__08-51-14.JPG,     Male_12_213_Left,  [  36  121  948 1345],0.0
+1076,  S35__Station12__Camera1__CAM62811__2017-04-05__06-25-33.JPG,       Male_35_2_Left,      [ 23 692 942 809],0.0
+1077,  S35__Station12__Camera2__CAM62801__2017-03-21__04-36-34.JPG,       Male_35_2_Left,      [ 68 534 851 501],0.0
+1078,  S35__Station12__Camera2__CAM62801__2017-04-12__02-23-36.JPG,       Male_35_2_Left,      [189 591 668 439],0.0
+1079,  S35__Station33__Camera1__CAM51979__2017-04-16__14-30-49.JPG,       Male_35_2_Left,      [ 28 289 832 456],0.0
+1080,    S7__Station1__Camera1__CAM40793__2017-12-11__16-26-22.JPG,   Unknown_7_103_Left,  [  65   14 1125 1501],0.0
+1081,    S7__Station1__Camera1__CAM40793__2017-12-11__16-26-26.JPG,   Unknown_7_103_Left,  [  40    3 1181 1510],0.0
+1082,    S7__Station1__Camera1__CAM40793__2017-12-11__16-26-33.JPG,   Unknown_7_103_Left,  [  22    6 1039 1518],0.0
+1083,    S7__Station1__Camera1__CAM40793__2017-12-11__16-26-36.JPG,   Unknown_7_103_Left,  [  32   22  987 1468],0.0
+1084,    S3__Station4__Camera1__CAM43187__2015-06-09__17-13-57.JPG,     Female_3_36_Left,      [342 227 360 186],0.0
+1085,   S3__Station24__Camera2__CAM44192__2014-04-27__00-15-59.JPG,     Female_3_36_Left,      [242 199 555 238],0.0
+1086,   S3__Station28__Camera2__CAM44279__2016-07-11__19-10-06.JPG,     Female_3_36_Left,      [278 235 463 187],0.0
+1087,   S3__Station28__Camera1__CAM40793__2017-07-15__17-52-26.JPG,     Female_3_36_Left,      [791 586 677 299],0.0
+1088,   S3__Station10__Camera1__CAM44205__2016-06-29__20-51-34.JPG,     Female_3_43_Left,      [263 167 511 234],0.0
+1089,   S3__Station39__Camera1__CAM41108__2015-06-28__21-13-34.JPG,     Female_3_43_Left,      [257 177 537 264],0.0
+1090,   S3__Station40__Camera1__CAM42062__2014-04-26__11-13-32.JPG,     Female_3_43_Left,      [265  55 527 342],0.0
+1091,   S3__Station41__Camera2__CAM41077__2013-07-08__06-05-44.JPG,     Female_3_43_Left,      [279 178 385 150],0.0
+1092,   S3__Station12__Camera1__CAM40068__2015-06-09__05-29-22.JPG,        Male_3_2_Left,      [247 289 546 231],0.0
+1093,   S3__Station30__Camera1__CAM44298__2014-03-30__18-08-32.JPG,        Male_3_2_Left,      [295 129 436 190],0.0
+1094,   S3__Station39__Camera1__CAM44183__2016-06-05__17-16-38.JPG,        Male_3_2_Left,      [225  97 559 262],0.0
+1095,   S3__Station30__Camera2__CAM40135__2017-06-09__00-14-47.JPG,        Male_3_2_Left,  [ 590  480 1352  564],0.0
+1096,   S2__Station30__Camera2__CAM30992__2013-02-17__08-42-14.JPG,     Female_2_29_Left,      [324 235 463 357],0.0
+1097,   S2__Station44__Camera2__CAM40086__2014-05-11__01-56-41.JPG,     Female_2_29_Left,      [254 162 514 249],0.0
+1098,   S2__Station45__Camera2__CAM51510__2015-05-25__04-45-39.JPG,     Female_2_29_Left,      [210 195 574 238],0.0
+1099,   S2__Station36__Camera2__CAM41402__2017-04-16__09-46-36.JPG,     Female_2_29_Left,      [908 577 919 614],0.0
+1100,    S2__Station3__Camera1__CAM30241__2013-03-19__05-01-14.JPG,     Female_2_35_Left,      [355 257 330 260],0.0
+1101,   S2__Station18__Camera2__CAM41808__2014-05-19__19-09-52.JPG,     Female_2_35_Left,      [518  99 280 338],0.0
+1102,   S2__Station26__Camera2__CAM51671__2015-05-24__00-11-31.JPG,     Female_2_35_Left,      [275 259 515 125],0.0
+1103,   S2__Station26__Camera2__CAM40693__2016-04-30__04-48-05.JPG,     Female_2_35_Left,      [220 284 578 306],0.0
+1104,   S2__Station23__Camera2__CAM41173__2017-04-18__05-12-22.JPG,     Female_2_57_Left,      [892 664 743 372],0.0
+1105,   S2__Station28__Camera1__CAM51662__2015-05-28__00-46-27.JPG,     Female_2_57_Left,      [227 262 491 231],0.0
+1106,   S2__Station32__Camera2__CAM40491__2016-05-12__23-39-49.JPG,     Female_2_57_Left,      [264 187 526 311],0.0
+1107,    S2__Station3__Camera1__CAM30241__2013-03-06__19-53-42.JPG,     Female_2_57_Left,      [241 256 556 248],0.0
+1108,   S3__Station13__Camera2__CAM43291__2014-04-12__21-55-47.JPG,     Female_3_10_Left,      [237 240 556 250],0.0
+1109,   S3__Station25__Camera1__CAM41077__2016-06-14__01-04-49.JPG,     Female_3_10_Left,      [237 188 514 252],0.0
+1110,   S3__Station26__Camera2__CAM40075__2013-07-25__13-20-09.JPG,     Female_3_10_Left,      [ 20 247 395 181],0.0
+1111,   S3__Station16__Camera2__CAM43328__2017-06-13__18-57-33.JPG,     Female_3_10_Left,      [778 665 742 329],0.0
+1112,   S4__Station17__Camera2__CAM40804__2014-06-30__23-45-13.JPG,     Female_4_50_Left,      [380 193 234  85],0.0
+1113,   S4__Station26__Camera1__CAM40364__2013-10-09__03-00-57.JPG,     Female_4_50_Left,      [364 223 188  80],0.0
+1114,   S4__Station27__Camera2__CAM43177__2016-08-28__19-09-01.JPG,     Female_4_50_Left,      [196 259 568 321],0.0
+1115,   S4__Station18__Camera2__CAM42057__2013-09-20__11-33-15.JPG,     Female_4_50_Left,      [299 214 349 127],0.0
+1116,    S3__Station6__Camera2__CAM44182__2014-04-10__23-18-19.JPG,       Male_3_38_Left,      [291 179 474 193],0.0
+1117,    S3__Station6__Camera2__CAM44280__2015-07-13__06-16-18.JPG,       Male_3_38_Left,      [223 173 574 282],0.0
+1118,   S3__Station17__Camera1__CAM43313__2016-06-04__05-33-41.JPG,       Male_3_38_Left,      [316 252 356 143],0.0
+1119,   S3__Station26__Camera2__CAM41489__2017-06-12__18-10-16.JPG,       Male_3_38_Left,  [ 424  480 1587  889],0.0
+1120,   S3__Station35__Camera2__CAM43291__2016-06-01__01-30-43.JPG,     Female_3_44_Left,      [187 174 611 352],0.0
+1121,   S3__Station29__Camera2__CAM44180__2015-06-09__02-31-38.JPG,     Female_3_44_Left,      [ 51 214 269 108],0.0
+1122,   S3__Station34__Camera2__CAM44217__2014-03-29__00-37-35.JPG,     Female_3_44_Left,      [283 177 464 256],0.0
+1123,   S3__Station24__Camera2__CAM43237__2017-07-14__22-13-38.JPG,     Female_3_44_Left,  [ 817  597 1055  442],0.0
+1124,   S3__Station22__Camera3__CAM40771__2017-06-25__03-21-00.JPG,     Female_3_38_Left,      [795 575 997 440],0.0
+1125,    S3__Station4__Camera1__CAM40821__2016-06-15__21-08-48.JPG,     Female_3_38_Left,      [216 319 569 233],0.0
+1126,   S3__Station39__Camera1__CAM41108__2015-06-14__18-04-28.JPG,     Female_3_38_Left,      [304 199 332 124],0.0
+1127,   S4__Station17__Camera1__CAM40144__2016-07-30__07-16-08.JPG,     Female_4_54_Left,      [212 197 584 288],0.0
+1128,   S4__Station18__Camera2__CAM40135__2015-04-16__02-56-29.JPG,     Female_4_54_Left,      [311 367 487 216],0.0
+1129,   S4__Station19__Camera2__CAM41108__2013-10-02__04-54-08.JPG,     Female_4_54_Left,      [298 237 442 227],0.0
+1130,   S1__Station35__Camera1__CAM40175__2014-03-23__00-15-15.JPG,     Female_1_13_Left,      [318 210 431 232],0.0
+1131,  S1__Station37__Camera1__CUDDEBACK__2013-06-09__19-15-00.JPG,     Female_1_13_Left,  [ 937  768 1056  428],0.0
+1132,   S1__Station38__Camera2__CAM40247__2015-02-12__19-58-54.JPG,     Female_1_13_Left,      [161 217 637 374],0.0
+1133,   S2__Station15__Camera1__CAM51682__2015-05-31__18-20-48.JPG,     Female_2_32_Left,      [315 141 351 148],0.0
+1134,   S2__Station20__Camera1__CAM44195__2016-05-14__02-06-34.JPG,     Female_2_32_Left,      [196 232 595 260],0.0
+1135,   S2__Station21__Camera2__CAM42290__2014-05-21__01-40-41.JPG,     Female_2_32_Left,      [361 228 302 128],0.0
+1136,   S2__Station19__Camera1__CAM40442__2016-05-13__20-39-07.JPG,     Female_2_38_Left,      [317 252 475 207],0.0
+1137,   S2__Station23__Camera2__CAM44110__2014-05-26__17-33-46.JPG,     Female_2_38_Left,      [202 151 574 248],0.0
+1138,   S2__Station24__Camera1__CAM51693__2015-05-19__04-49-14.JPG,     Female_2_38_Left,      [315 344 336 122],0.0
+1139,    S2__Station5__Camera2__CAM51404__2015-06-14__17-37-12.JPG,     Female_2_89_Left,      [204 225 503 273],0.0
+1140,    S2__Station9__Camera1__CAM30209__2013-02-19__05-02-44.JPG,     Female_2_89_Left,      [250 277 535 235],0.0
+1141,   S2__Station10__Camera2__CAM44262__2014-06-02__00-57-01.JPG,     Female_2_89_Left,      [286 308 498 203],0.0
+1142,    S3__Station4__Camera1__CAM40851__2013-06-21__19-54-20.JPG,      Female_3_1_Left,      [183 234 430 157],0.0
+1143,   S3__Station36__Camera2__CAM44218__2014-04-04__20-14-14.JPG,      Female_3_1_Left,      [291 171 485 202],0.0
+1144,   S3__Station38__Camera1__CAM41107__2015-06-28__01-24-05.JPG,      Female_3_1_Left,      [235 319 421 164],0.0
+1145,    S3__Station7__Camera2__CAM44262__2015-07-08__19-52-55.JPG,     Female_3_14_Left,      [278 266 344 149],0.0
+1146,    S3__Station7__Camera2__CAM44269__2016-06-27__21-30-49.JPG,     Female_3_14_Left,      [283 238 503 227],0.0
+1147,    S3__Station7__Camera2__CAM44163__2017-07-02__23-14-26.JPG,     Female_3_14_Left,  [ 537  565 1474  639],0.0
+1148,   S4__Station11__Camera1__CAM40058__2014-07-16__16-19-05.JPG,     Female_4_20_Left,      [280 284 452 183],0.0
+1149,   S4__Station11__Camera1__CAM43187__2015-04-29__22-37-13.JPG,     Female_4_20_Left,      [239 304 557 231],0.0
+1150,   S4__Station12__Camera2__CAM41063__2013-09-02__20-41-09.JPG,     Female_4_20_Left,      [291 176 489 232],0.0
+1151,   S4__Station14__Camera1__CAM40253__2017-09-07__22-17-31.JPG,     Female_4_38_Left,      [725 615 870 367],0.0
+1152,   S4__Station15__Camera1__CAM44003__2016-08-22__18-44-14.JPG,     Female_4_38_Left,      [323 316 252  94],0.0
+1153,   S4__Station15__Camera2__CAM44212__2015-04-26__03-21-48.JPG,     Female_4_38_Left,      [205  92 584 367],0.0
+1154,    S4__Station3__Camera1__CAM40075__2015-05-07__23-20-57.JPG,     Female_4_49_Left,      [328 209 458 188],0.0
+1155,    S4__Station7__Camera1__CAM44205__2016-08-18__17-07-20.JPG,     Female_4_49_Left,      [370 232 352 164],0.0
+1156,   S4__Station10__Camera2__CAM41090__2013-09-16__03-37-51.JPG,     Female_4_49_Left,      [259 147 532 239],0.0
+1157,   S4__Station16__Camera1__CAM44277__2016-08-14__21-43-23.JPG,     Female_4_51_Left,      [306 234 302 128],0.0
+1158,   S4__Station25__Camera1__CAM44257__2015-04-23__18-41-44.JPG,       Unknown_4_Left,      [310 285 379 175],0.0
+1159,   S4__Station29__Camera2__CAM40491__2017-09-02__18-54-23.JPG,     Female_4_51_Left,      [919 741 518 230],0.0
+1160,   S4__Station21__Camera1__CAM41127__2014-07-25__05-44-35.JPG,     Female_4_60_Left,      [176 128 407 137],0.0
+1161,   S4__Station21__Camera1__CAM41686__2015-04-08__20-46-38.JPG,     Female_4_60_Left,      [244 306 548 230],0.0
+1162,   S4__Station35__Camera2__CAM40136__2013-09-01__01-53-20.JPG,     Female_4_60_Left,      [311 259 344 149],0.0
+1163,    S5__Station4__Camera2__CAM44210__2014-11-07__21-48-26.JPG,       Unknown_5_Left,      [330 251 452 168],0.0
+1164,    S5__Station4__Camera2__CAM44269__2016-09-26__22-21-05.JPG,      Female_5_2_Left,      [299 211 495 231],0.0
+1165,    S5__Station7__Camera1__CAM43291__2015-09-26__03-01-52.JPG,      Female_5_2_Left,      [234 175 442 199],0.0
+1166,    S5__Station6__Camera1__CAM40304__2016-10-19__21-34-41.JPG,      Female_5_9_Left,      [198 194 486 183],0.0
+1167,    S5__Station6__Camera2__CAM43296__2015-10-30__21-46-02.JPG,      Female_5_9_Left,      [178 175 614 260],0.0
+1168,    S5__Station8__Camera2__CAM43300__2014-10-31__00-58-00.JPG,      Female_5_9_Left,      [284 277 499 197],0.0
+1169,    S5__Station8__Camera1__CAM44134__2016-10-10__23-08-38.JPG,     Female_5_18_Left,      [329 157 461 255],0.0
+1170,    S5__Station8__Camera2__CAM43300__2014-10-28__04-45-24.JPG,     Female_5_18_Left,      [328 309 261 106],0.0
+1171,    S5__Station9__Camera1__CAM43306__2015-10-20__04-36-12.JPG,     Female_5_18_Left,      [161  82 637 279],0.0
+1172,   S5__Station12__Camera1__CAM41489__2016-09-27__18-07-35.JPG,     Female_5_25_Left,      [282 278 383 141],0.0
+1173,   S5__Station15__Camera1__CAM40779__2014-12-05__01-20-04.JPG,     Female_5_25_Left,      [278 114 514 215],0.0
+1174,   S5__Station16__Camera2__CAM40058__2015-10-07__19-29-22.JPG,     Female_5_25_Left,      [127 235 671 362],0.0
+1175,   S5__Station20__Camera1__CAM41489__2015-11-04__04-04-23.JPG,     Female_5_29_Left,      [197 177 596 292],0.0
+1176,   S5__Station20__Camera2__CAM41504__2016-10-09__18-52-47.JPG,     Female_5_29_Left,      [199 181 590 271],0.0
+1177,   S5__Station20__Camera2__CAM43316__2014-11-17__20-52-09.JPG,     Female_5_29_Left,      [272 216 477 237],0.0
+1178,   S5__Station28__Camera1__CAM40821__2016-10-20__06-51-39.JPG,     Female_5_30_Left,      [328 243 364 154],0.0
+1179,   S5__Station28__Camera1__CAM44217__2014-12-01__02-21-38.JPG,     Female_5_30_Left,      [201 145 596 242],0.0
+1180,   S5__Station32__Camera2__CAM44257__2015-10-16__19-48-28.JPG,     Female_5_30_Left,      [261 135 532 254],0.0
+1181,   S5__Station22__Camera2__CAM43187__2014-11-12__21-53-13.JPG,     Female_5_31_Left,      [282 228 405 162],0.0
+1182,   S5__Station22__Camera2__CAM44281__2015-10-22__18-44-41.JPG,     Female_5_31_Left,      [295 210 330 120],0.0
+1183,   S5__Station40__Camera2__CAM44279__2016-10-30__13-48-17.JPG,     Female_5_31_Left,      [441 152 202 144],0.0
+1184,   S5__Station26__Camera1__CAM41124__2015-10-22__20-56-37.JPG,     Female_5_35_Left,      [158 152 639 306],0.0
+1185,   S5__Station35__Camera1__CAM40068__2016-09-20__19-24-09.JPG,     Female_5_35_Left,      [209 201 589 300],0.0
+1186,   S5__Station35__Camera2__CAM43311__2014-12-03__19-14-45.JPG,     Female_5_35_Left,      [275 189 524 238],0.0
+1187,   S5__Station33__Camera2__CAM40849__2016-10-18__19-26-38.JPG,     Female_5_41_Left,      [141 143 624 290],0.0
+1188,   S5__Station33__Camera2__CAM43187__2015-10-28__03-06-52.JPG,     Female_5_41_Left,      [211 165 500 267],0.0
+1189,   S5__Station38__Camera1__CAM44208__2014-10-24__19-28-34.JPG,     Female_5_41_Left,      [206 156 593 358],0.0
+1190,   S5__Station35__Camera2__CAM43311__2014-11-11__03-35-27.JPG,     Female_5_49_Left,      [282 191 497 225],0.0
+1191,   S5__Station36__Camera1__CAM44205__2015-09-28__00-08-16.JPG,     Female_5_49_Left,      [249 220 540 283],0.0
+1192,   S5__Station36__Camera1__CAM44289__2016-09-28__23-43-30.JPG,     Female_5_49_Left,      [103 310 226  96],0.0
+1193,    S6__Station3__Camera2__CAM51548__2015-07-14__18-16-52.JPG,     Female_6_10_Left,      [ 57 343 329 130],0.0
+1194,    S6__Station3__Camera2__CAM52116__2017-09-23__02-22-11.JPG,     Female_6_10_Left,  [ 500  325 1527  698],0.0
+1195,    S6__Station4__Camera1__CAM52107__2016-06-05__22-16-17.JPG,     Female_6_10_Left,      [ 70 272 263 106],0.0
+1196,   S6__Station14__Camera1__CAM51681__2017-09-30__04-45-08.JPG,     Female_6_11_Left,  [ 658  577 1379  657],0.0
+1197,   S6__Station15__Camera1__CAM51885__2016-06-01__20-27-26.JPG,     Female_6_11_Left,      [ 81 221 718 365],0.0
+1198,   S6__Station17__Camera1__CAM51663__2015-08-06__23-33-37.JPG,     Female_6_11_Left,      [280 252 498 198],0.0
+1199,    S6__Station6__Camera1__CAM51710__2015-07-12__21-26-04.JPG,     Female_6_32_Left,      [208 323 577 223],0.0
+1200,    S6__Station6__Camera1__CAM51872__2017-10-02__00-35-35.JPG,     Female_6_32_Left,      [257 757 601 219],0.0
+1201,    S6__Station6__Camera1__CAM51935__2016-05-31__00-59-43.JPG,     Female_6_32_Left,      [299 279 302 121],0.0
+1202,   S7__Station17__Camera1__CAM42062__2017-12-10__20-30-12.JPG,      Female_7_9_Left,      [844 753 539 307],0.0
+1203,   S7__Station17__Camera2__CAM41236__2017-12-04__22-09-20.JPG,      Female_7_9_Left,  [ 518  491 1514  742],0.0
+1204,   S7__Station19__Camera1__CAM44208__2014-07-19__05-39-36.JPG,      Female_7_9_Left,      [184 231 595 215],0.0
+1205,    S9__Station1__Camera1__CAM51729__2017-03-01__02-13-18.JPG,     Female_9_10_Left,      [806 547 923 341],0.0
+1206,    S9__Station1__Camera1__CAM51729__2017-04-07__05-04-53.JPG,     Female_9_10_Left,  [ 550  580 1481  731],0.0
+1207,    S9__Station1__Camera2__CAM50790__2017-03-12__01-48-56.JPG,     Female_9_10_Left,      [786 707 954 367],0.0
+1208,   S35__Station7__Camera1__CAM62818__2017-03-07__19-40-26.JPG,    Female_35_14_Left,      [857 499 979 465],0.0
+1209,   S35__Station7__Camera2__CAM62821__2017-03-06__00-59-56.JPG,    Female_35_14_Left,  [ 287  242 1756 1010],0.0
+1210,   S35__Station7__Camera2__CAM62821__2017-03-09__23-24-46.JPG,    Female_35_14_Left,      [  8 700 870 394],0.0
+1211,   S2__Station36__Camera2__CAM51650__2015-05-25__20-23-12.JPG,       Male_2_77_Left,      [388 249 313 130],0.0
+1212,   S2__Station43__Camera1__CAM44163__2017-04-27__00-31-48.JPG,       Male_2_77_Left,  [ 432  561 1574  862],0.0
+1213,   S2__Station44__Camera4__CAM40658__2017-05-14__03-21-21.JPG,       Male_2_77_Left,  [ 588  292 1444  814],0.0
+1214,   S2__Station21__Camera1__CAM30855__2013-02-21__19-20-59.JPG,       Male_2_30_Left,      [211  80 568 384],0.0
+1215,   S2__Station21__Camera2__CAM42290__2014-05-17__17-30-10.JPG,       Male_2_30_Left,      [369 204 342 155],0.0
+1216,   S2__Station23__Camera2__CAM51728__2015-05-23__10-51-39.JPG,       Male_2_30_Left,      [  6 120 752 448],0.0
+1217,    S3__Station5__Camera2__CAM41469__2013-06-16__03-09-18.JPG,        Male_3_7_Left,      [293 226 421 207],0.0
+1218,    S3__Station6__Camera2__CAM44182__2014-04-30__01-32-41.JPG,        Male_3_7_Left,      [289 204 332 156],0.0
+1219,   S3__Station14__Camera2__CAM44003__2015-06-28__01-16-40.JPG,        Male_3_7_Left,      [269 190 512 226],0.0
+1220,    S4__Station9__Camera2__CAM44249__2015-05-03__04-45-26.JPG,       Male_4_11_Left,      [246 193 506 221],0.0
+1221,   S4__Station10__Camera2__CAM41090__2013-09-08__20-17-23.JPG,       Male_4_11_Left,      [246  98 518 276],0.0
+1222,   S4__Station14__Camera2__CAM44212__2014-08-08__22-30-05.JPG,       Male_4_11_Left,      [363 271 185 127],0.0
+1223,    S4__Station3__Camera1__CAM40075__2015-05-05__17-55-14.JPG,        Male_4_1_Left,      [117 142 646 255],0.0
+1224,    S4__Station8__Camera1__CAM44262__2014-07-24__18-20-24.JPG,        Male_4_1_Left,      [278 236 510 245],0.0
+1225,   S4__Station10__Camera1__CAM40131__2013-08-27__20-11-23.JPG,        Male_4_1_Left,      [259 198 471 197],0.0
+1226,    S4__Station7__Camera2__CAM40075__2014-07-08__18-21-08.JPG,       Male_4_45_Left,      [330 271 461 209],0.0
+1227,    S4__Station7__Camera2__CAM41721__2015-05-09__17-37-49.JPG,       Male_4_45_Left,      [306 229 479 182],0.0
+1228,    S4__Station8__Camera1__CAM40804__2013-09-01__01-37-30.JPG,       Male_4_45_Left,      [302 138 487 228],0.0
+1229,    S5__Station6__Camera2__CAM43296__2015-10-23__01-00-54.JPG,        Male_5_3_Left,      [169 181 600 241],0.0
+1230,    S5__Station7__Camera2__CAM44173__2014-12-03__01-51-04.JPG,        Male_5_3_Left,      [305  78 474 214],0.0
+1231,   S5__Station14__Camera2__CAM40144__2016-10-05__19-30-45.JPG,        Male_5_3_Left,      [239 142 522 206],0.0
+1232,   S5__Station16__Camera1__CAM40709__2016-10-03__01-29-58.JPG,       Male_5_27_Left,      [212 162 556 215],0.0
+1233,   S5__Station17__Camera2__CAM44134__2014-11-09__03-17-40.JPG,       Male_5_27_Left,      [224 106 556 293],0.0
+1234,   S5__Station26__Camera1__CAM41124__2015-10-21__21-44-29.JPG,       Male_5_27_Left,      [200  84 593 383],0.0
+1235,   S5__Station26__Camera1__CAM41124__2015-10-30__22-34-10.JPG,       Male_5_34_Left,      [259 130 535 252],0.0
+1236,   S5__Station28__Camera1__CAM44217__2014-11-19__12-56-21.JPG,       Male_5_34_Left,      [245  49 553 388],0.0
+1237,   S5__Station32__Camera2__CAM43188__2016-09-30__18-56-38.JPG,       Male_5_34_Left,      [275 205 446 185],0.0
+1238,   S6__Station21__Camera1__CAM51718__2017-10-14__14-26-27.JPG,       Male_6_22_Left,  [ 665  472 1339  646],0.0
+1239,   S6__Station22__Camera1__CAM51668__2015-08-05__22-12-02.JPG,       Male_6_22_Left,      [251 217 368 155],0.0
+1240,   S6__Station30__Camera1__CAM51892__2016-05-30__17-19-57.JPG,       Male_6_22_Left,      [ 14 227 377 223],0.0
+1241,   S6__Station26__Camera1__CAM51800__2016-06-11__18-43-49.JPG,       Male_6_29_Left,      [248 107 384 312],0.0
+1242,   S6__Station27__Camera1__CAM51665__2015-07-15__03-12-47.JPG,       Male_6_29_Left,      [361 258 424 215],0.0
+1243,   S6__Station27__Camera1__CAM52105__2017-09-18__03-03-35.JPG,       Male_6_29_Left,  [ 620  402 1374  939],0.0
+1244,    S1__Station2__Camera1__CAM40793__2014-03-19__20-19-06.JPG,     Female_1_11_Left,      [ 95 285 227  85],0.0
+1245,   S1__Station22__Camera1__CAM30841__2013-07-01__07-49-47.JPG,     Female_1_11_Left,      [270 360 309 126],0.0
+1246,   S1__Station11__Camera1__CAM40800__2014-03-02__01-30-31.JPG,     Female_1_11_Left,      [254 305 388 160],0.0
+1247,   S4__Station25__Camera1__CAM44257__2015-04-23__17-42-47.JPG,     Female_4_81_Left,      [198 297 498 160],0.0
+1248,   S4__Station25__Camera2__CAM42292__2014-07-29__02-50-21.JPG,     Female_4_81_Left,      [253 147 465 192],0.0
+1249,   S4__Station24__Camera2__CAM41843__2014-07-31__04-57-59.JPG,     Female_4_81_Left,      [154 179 640 308],0.0
+1250,   S6__Station19__Camera1__CAM51706__2015-08-10__23-54-25.JPG,      Female_6_5_Left,      [254 294 287 109],0.0
+1251,   S6__Station19__Camera1__CAM51896__2016-05-09__01-42-41.JPG,      Female_6_5_Left,      [232 259 562 281],0.0
+1252,   S6__Station19__Camera2__CAM51734__2017-09-21__00-16-09.JPG,      Female_6_5_Left,      [812 682 867 325],0.0
+1253,   S6__Station18__Camera2__CAM51876__2016-05-07__19-41-21.JPG,      Female_6_7_Left,      [ 32 261 333 144],0.0
+1254,   S6__Station19__Camera1__CAM51706__2015-08-02__03-07-47.JPG,      Female_6_7_Left,      [302 293 248 111],0.0
+1255,   S6__Station18__Camera2__CAM51707__2017-10-14__21-56-47.JPG,      Female_6_7_Left,      [819 779 951 369],0.0
+1256,    S3__Station3__Camera1__CAM42043__2015-06-28__19-09-23.JPG,       Male_3_50_Left,      [256 213 516 260],0.0
+1257,    S3__Station7__Camera2__CAM44269__2016-06-08__21-42-09.JPG,       Male_3_50_Left,      [270 154 527 289],0.0
+1258,   S3__Station13__Camera3__CAM44264__2017-07-14__19-09-24.JPG,       Male_3_50_Left,  [ 466  344 1433  687],0.0
+1259,    S4__Station9__Camera2__CAM44249__2015-05-03__04-22-12.JPG,       Unknown_6_Left,      [ 89 157 691 307],0.0
+1260,   S4__Station21__Camera1__CAM44163__2016-07-24__16-48-36.JPG,      Male_4_330_Left,      [313 209 224 105],0.0
+1261,   S4__Station21__Camera1__CAM44163__2016-07-31__10-19-45.JPG,      Male_4_330_Left,      [284 130 451 194],0.0
+1262,    S6__Station8__Camera2__CAM51230__2015-07-17__20-46-44.JPG,        Male_6_1_Left,      [302 222 347 148],0.0
+1263,   S6__Station32__Camera2__CAM51810__2016-06-15__19-52-55.JPG,        Male_6_1_Left,      [222 307 471 216],0.0
+1264,   S6__Station11__Camera1__CAM51945__2017-09-22__22-25-29.JPG,        Male_6_1_Left,  [ 584  552 1443  819],0.0
+1265,   S6__Station18__Camera2__CAM51722__2015-08-18__02-28-25.JPG,        Male_6_4_Left,      [302 305 464 169],0.0
+1266,   S6__Station18__Camera2__CAM51876__2016-05-05__06-09-43.JPG,        Male_6_4_Left,      [307 270 453 169],0.0
+1267,   S6__Station12__Camera1__CAM63753__2017-09-21__18-30-36.JPG,        Male_6_4_Left,  [ 794  873 1093  450],0.0
+1268,   S6__Station15__Camera1__CAM51885__2016-05-11__22-56-17.JPG,        Male_6_6_Left,      [348 278 382 176],0.0
+1269,   S6__Station18__Camera2__CAM51722__2015-07-16__03-45-34.JPG,        Male_6_6_Left,      [277 303 439 179],0.0
+1270,    S6__Station3__Camera2__CAM52116__2017-10-17__02-27-37.JPG,        Male_6_6_Left,  [ 605  325 1424  681],0.0
+1271,   S2__Station16__Camera1__CAM30789__2013-02-25__07-29-15.JPG,       Male_2_27_Left,      [209 262 587 326],0.0
+1272,   S2__Station42__Camera2__CAM41869__2014-05-04__23-35-57.JPG,       Male_2_27_Left,      [177 143 619 409],0.0
+1273,   S3__Station25__Camera1__CAM44145__2014-04-11__04-40-42.JPG,       Male_3_12_Left,      [341 249 238 115],0.0
+1274,   S3__Station34__Camera1__CAM41721__2013-07-05__18-29-55.JPG,       Male_3_12_Left,      [269 244 516 223],0.0
+1275,   S1__Station14__Camera2__CAM44160__2015-01-31__02-10-51.JPG,      Female_1_3_Left,      [ 24 211 741 305],0.0
+1276,   S1__Station32__Camera2__CAM42206__2014-03-27__20-27-05.JPG,      Female_1_3_Left,      [ 71 251 368 147],0.0
+1277,  S1__Station36__Camera1__CUDDEBACK__2013-06-04__03-41-00.JPG,     Female_1_19_Left,  [ 637  673 1361  719],0.0
+1278,   S1__Station37__Camera2__CAM44003__2015-03-10__01-16-06.JPG,     Female_1_19_Left,      [267 254 512 225],0.0
+1279,    S2__Station3__Camera1__CAM30241__2013-03-23__04-09-26.JPG,     Female_2_51_Left,      [237 232 560 255],0.0
+1280,   S2__Station20__Camera2__CAM44214__2014-06-10__18-44-01.JPG,     Female_2_51_Left,      [291 272 434 194],0.0
+1281,   S2__Station21__Camera2__CAM30883__2013-02-24__15-49-53.JPG,     Female_2_55_Left,      [289 206 478 193],0.0
+1282,   S2__Station23__Camera2__CAM44110__2014-05-19__13-18-18.JPG,     Female_2_55_Left,      [231  45 562 352],0.0
+1283,   S2__Station32__Camera1__CAM43198__2014-05-04__20-05-05.JPG,     Female_2_68_Left,      [263 178 288 138],0.0
+1284,   S2__Station41__Camera1__CAM44205__2017-05-06__20-25-41.JPG,     Female_2_68_Left,      [787 657 954 354],0.0
+1285,   S2__Station32__Camera1__CAM43198__2014-05-04__20-01-19.JPG,     Female_2_70_Left,      [313 171 364 160],0.0
+1286,   S2__Station39__Camera2__CAM51713__2015-06-14__23-52-45.JPG,     Female_2_70_Left,      [289 202 351 157],0.0
+1287,   S2__Station34__Camera2__CAM41537__2014-06-09__06-58-53.JPG,     Female_2_73_Left,      [293 226 392 158],0.0
+1288,   S2__Station34__Camera2__CAM44178__2016-05-15__22-46-05.JPG,     Female_2_73_Left,      [320 315 348 145],0.0
+1289,   S2__Station38__Camera1__CAM40768__2014-05-05__00-09-50.JPG,     Female_2_80_Left,      [256 148 427 179],0.0
+1290,   S2__Station38__Camera1__CAM51970__2015-05-15__04-20-26.JPG,     Female_2_80_Left,      [306 305 333 130],0.0
+1291,   S3__Station13__Camera1__CAM41108__2013-06-22__05-37-32.JPG,      Female_3_5_Left,      [302 278 412 166],0.0
+1292,   S3__Station32__Camera2__CAM44277__2014-04-18__04-41-39.JPG,      Female_3_5_Left,      [282 158 416 177],0.0
+1293,   S3__Station14__Camera2__CAM40877__2013-07-20__19-06-13.JPG,      Female_3_8_Left,      [290 227 446 205],0.0
+1294,   S3__Station40__Camera1__CAM42062__2014-05-03__21-03-04.JPG,      Female_3_8_Left,      [310 158 445 196],0.0
+1295,   S3__Station17__Camera2__CAM40135__2016-06-17__05-13-30.JPG,     Female_3_15_Left,      [280 172 397 165],0.0
+1296,   S3__Station18__Camera2__CAM40304__2015-06-18__05-04-17.JPG,     Female_3_15_Left,      [251 285 468 189],0.0
+1297,   S4__Station10__Camera2__CAM43291__2016-08-31__23-36-38.JPG,      Female_4_5_Left,      [262 251 413 227],0.0
+1298,   S4__Station12__Camera1__CAM44307__2015-04-02__21-57-47.JPG,      Female_4_5_Left,      [176 240 485 202],0.0
+1299,    S4__Station1__Camera1__CAM40190__2013-09-19__10-09-39.JPG,     Female_4_16_Left,      [338 192 386 158],0.0
+1300,    S4__Station2__Camera1__CAM40800__2014-08-04__21-11-29.JPG,     Female_4_16_Left,      [268 171 369 176],0.0
+1301,   S4__Station15__Camera2__CAM44240__2014-07-15__23-25-49.JPG,     Female_4_41_Left,      [267 233 522 210],0.0
+1302,   S4__Station22__Camera1__CAM41504__2013-09-05__04-09-08.JPG,     Female_4_41_Left,      [203 129 586 328],0.0
+1303,   S4__Station18__Camera2__CAM41503__2014-07-09__17-46-13.JPG,     Female_4_57_Left,      [359 276 435 210],0.0
+1304,   S4__Station25__Camera2__CAM44208__2016-08-16__00-09-12.JPG,     Female_4_57_Left,      [202 135 593 434],0.0
+1305,    S4__Station1__Camera2__CAM40268__2016-08-31__02-12-34.JPG,     Female_4_65_Left,      [192 259 599 332],0.0
+1306,    S4__Station2__Camera2__CAM40821__2017-08-29__02-39-35.JPG,     Female_4_65_Left,  [ 535  614 1504  860],0.0
+1307,   S4__Station20__Camera2__CAM40246__2014-07-04__01-13-36.JPG,     Female_4_70_Left,      [255 155 543 252],0.0
+1308,   S4__Station23__Camera2__CAM42259__2013-09-14__14-03-47.JPG,     Female_4_70_Left,      [138  22 660 354],0.0
+1309,    S5__Station1__Camera2__CAM44183__2016-10-04__19-55-09.JPG,      Female_5_1_Left,      [ 12 153 777 340],0.0
+1310,    S5__Station3__Camera1__CAM40800__2015-09-25__01-56-37.JPG,      Female_5_1_Left,      [ 17 133 529 258],0.0
+1311,    S5__Station9__Camera1__CAM43306__2015-10-11__01-18-01.JPG,     Female_5_20_Left,      [177 182 607 271],0.0
+1312,   S5__Station10__Camera2__CAM44160__2014-11-06__00-36-29.JPG,     Female_5_20_Left,      [322 247 427 173],0.0
+1313,   S5__Station12__Camera1__CAM40062__2015-10-11__03-12-57.JPG,     Female_5_24_Left,      [303 259 489 289],0.0
+1314,   S5__Station17__Camera2__CAM44134__2014-11-11__08-56-08.JPG,     Female_5_24_Left,      [311 192 473 206],0.0
+1315,    S6__Station7__Camera1__CAM63760__2016-05-23__04-56-05.JPG,     Female_6_20_Left,      [288 331 503 228],0.0
+1316,    S6__Station9__Camera2__CAM51820__2017-10-15__21-59-47.JPG,     Female_6_20_Left,      [794 681 986 358],0.0
+1317,    S6__Station1__Camera1__CAM63966__2016-05-23__12-31-57.JPG,     Female_6_21_Left,      [370 311 244 116],0.0
+1318,    S6__Station1__Camera2__CAM52141__2017-10-11__20-01-54.JPG,     Female_6_21_Left,  [ 470  744 1559  741],0.0
+1319,   S6__Station21__Camera2__CAM51900__2016-05-16__02-23-35.JPG,       Unknown_7_Left,      [289 232 446 178],0.0
+1320,   S6__Station21__Camera2__CAM51930__2017-09-29__18-06-23.JPG,     Female_6_23_Left,  [ 739  421 1103  451],0.0
+1321,   S6__Station22__Camera1__CAM51668__2015-08-05__22-13-36.JPG,     Female_6_25_Left,      [205 233 589 224],0.0
+1322,   S6__Station22__Camera1__CAM52058__2016-05-29__01-04-02.JPG,     Female_6_25_Left,      [514 234 285 292],0.0
+1323,   S6__Station24__Camera1__CAM51831__2017-09-17__19-37-19.JPG,     Female_6_28_Left,  [ 849  617 1021  443],0.0
+1324,   S6__Station24__Camera2__CAM52061__2016-05-04__02-30-12.JPG,     Female_6_28_Left,      [153 237 631 348],0.0
+1325,   S7__Station36__Camera1__CAM40075__2018-01-03__03-23-35.JPG,     Female_7_19_Left,  [ 382  450 1648  895],0.0
+1326,   S7__Station36__Camera2__CAM44209__2014-08-03__17-52-00.JPG,     Female_7_19_Left,      [255 144 392 195],0.0
+1327,   S7__Station22__Camera2__CAM40821__2017-12-01__22-00-06.JPG,     Female_7_24_Left,  [ 382  528 1580  974],0.0
+1328,   S7__Station23__Camera2__CAM44132__2017-12-12__18-20-20.JPG,     Female_7_24_Left,  [ 617  363 1389  750],0.0
+1329,    S1__Station3__Camera1__CAM41107__2015-02-19__19-19-25.JPG,       Male_1_11_Left,      [176 243 469 150],0.0
+1330,    S1__Station8__Camera2__CAM44257__2016-02-11__04-57-16.JPG,       Male_1_11_Left,      [346 271 354 144],0.0
+1331,   S1__Station20__Camera1__CAM30291__2013-06-25__20-44-22.JPG,       Male_1_13_Left,      [118 130 679 449],0.0
+1332,   S1__Station20__Camera2__CAM41409__2014-03-23__22-33-37.JPG,       Male_1_13_Left,      [360 195 220  88],0.0
+1333,   S1__Station35__Camera1__CAM40175__2014-02-16__02-45-27.JPG,       Male_1_23_Left,      [272 184 519 249],0.0
+1334,   S1__Station40__Camera2__CAM40149__2015-02-15__04-46-59.JPG,       Male_1_23_Left,      [167  84 577 413],0.0
+1335,   S1__Station35__Camera2__CAM41504__2014-03-24__02-44-07.JPG,       Male_1_25_Left,      [158 196 217 116],0.0
+1336,   S1__Station41__Camera2__CAM44211__2015-02-01__20-07-34.JPG,       Male_1_25_Left,      [340 288 448 215],0.0
+1337,   S1__Station31__Camera1__CAM41318__2017-02-07__21-32-45.JPG,       Male_1_38_Left,      [792 497 751 324],0.0
+1338,   S1__Station31__Camera1__CAM41318__2017-02-15__01-53-18.JPG,       Male_1_38_Left,      [737 547 803 343],0.0
+1339,    S2__Station1__Camera1__CAM40068__2014-05-11__18-24-16.JPG,        Male_2_8_Left,      [326 170 349 177],0.0
+1340,   S2__Station10__Camera2__CAM41808__2013-03-10__18-06-23.JPG,        Male_2_8_Left,      [261 258 534 241],0.0
+1341,    S2__Station1__Camera2__CAM40268__2016-04-19__20-55-09.JPG,       Male_2_16_Left,      [258 287 536 304],0.0
+1342,    S2__Station6__Camera1__CAM51717__2015-05-15__22-40-51.JPG,       Male_2_16_Left,      [283 318 421 271],0.0
+1343,   S2__Station14__Camera2__CAM42339__2016-04-14__02-09-35.JPG,       Male_2_24_Left,      [227 182 571 406],0.0
+1344,   S2__Station18__Camera2__CAM51403__2015-05-12__02-55-45.JPG,       Male_2_24_Left,      [349 285 336 147],0.0
+1345,    S2__Station7__Camera2__CAM30849__2013-02-19__20-39-42.JPG,       Male_2_49_Left,      [247 183 543 240],0.0
+1346,   S2__Station40__Camera2__CAM40406__2014-05-05__00-26-19.JPG,       Male_2_49_Left,      [341 262 276 117],0.0
+1347,   S2__Station28__Camera2__CAM40355__2014-06-13__00-43-25.JPG,       Male_2_59_Left,      [306 153 482 213],0.0
+1348,   S2__Station37__Camera1__CAM51663__2015-06-13__22-40-49.JPG,       Male_2_59_Left,      [262 194 536 392],0.0
+1349,   S2__Station11__Camera1__CAM40814__2017-05-11__03-28-09.JPG,      Male_2_102_Left,      [651 520 853 433],0.0
+1350,   S2__Station16__Camera1__CAM44270__2017-05-10__08-28-58.JPG,      Male_2_102_Left,  [ 681  522 1357  649],0.0
+1351,   S3__Station18__Camera1__CAM44181__2014-04-01__20-10-18.JPG,       Male_3_27_Left,      [260 240 520 220],0.0
+1352,   S3__Station29__Camera2__CAM40131__2013-07-23__04-45-01.JPG,       Male_3_27_Left,      [259 239 442 191],0.0
+1353,    S3__Station8__Camera1__CAM44199__2015-06-08__05-40-29.JPG,       Male_3_47_Left,      [379 236 254 163],0.0
+1354,   S3__Station26__Camera2__CAM44306__2014-04-08__18-02-31.JPG,       Male_3_47_Left,      [ 14 222 381 163],0.0
+1355,    S3__Station9__Camera2__CAM43314__2015-06-23__01-34-57.JPG,       Male_3_51_Left,      [267 258 383 162],0.0
+1356,   S3__Station10__Camera1__CAM44205__2016-06-29__23-09-57.JPG,       Male_3_51_Left,      [256 128 537 286],0.0
+1357,   S3__Station16__Camera1__CAM40055__2016-06-22__20-10-12.JPG,       Male_3_53_Left,      [276 245 509 224],0.0
+1358,   S3__Station16__Camera2__CAM40275__2015-07-15__04-30-43.JPG,       Male_3_53_Left,      [274  96 513 218],0.0
+1359,   S4__Station21__Camera1__CAM41127__2014-08-03__03-35-38.JPG,       Male_4_62_Left,      [230  94 439 165],0.0
+1360,   S4__Station21__Camera1__CAM41686__2015-04-09__21-55-35.JPG,       Male_4_62_Left,      [188 275 610 286],0.0
+1361,    S4__Station4__Camera2__CAM44200__2016-08-17__13-47-34.JPG,      Male_4_136_Left,      [226  18 572 550],0.0
+1362,   S4__Station14__Camera2__CAM40793__2017-08-16__01-22-54.JPG,      Male_4_136_Left,      [827 758 824 342],0.0
+1363,    S5__Station4__Camera1__CAM40075__2015-10-09__20-06-20.JPG,        Male_5_4_Left,      [352 293 251 106],0.0
+1364,   S5__Station12__Camera2__CAM44195__2016-10-07__18-29-25.JPG,        Male_5_4_Left,      [200 185 596 288],0.0
+1365,   S6__Station24__Camera1__CAM51860__2016-05-14__06-00-24.JPG,       Male_6_27_Left,      [134 130 627 401],0.0
+1366,   S6__Station24__Camera4__CAM51697__2017-10-12__04-15-30.JPG,       Male_6_27_Left,  [ 378  284 1661 1010],0.0
+1367,   S7__Station40__Camera1__CAM40149__2014-08-04__00-42-09.JPG,       Male_7_30_Left,      [233 163 561 320],0.0
+1368,   S7__Station41__Camera1__CAM41318__2018-01-11__02-28-16.JPG,       Male_7_30_Left,      [683 522 444 332],0.0
+1369,   S9__Station13__Camera3__CAM51673__2017-03-26__14-49-35.JPG,        Male_9_5_Left,  [ 418   88 1611 1406],0.0
+1370,   S9__Station13__Camera3__CAM51673__2017-03-26__14-49-40.JPG,        Male_9_5_Left,  [  55  234 1833 1287],0.0
+1371,   S12__Station4__Camera3__CAM44267__2017-08-16__23-06-56.JPG,      Male_12_15_Left,      [700 717 769 487],0.0
+1372,  S12__Station22__Camera1__CAM41093__2017-07-22__23-35-49.JPG,      Male_12_15_Left,      [804 482 552 241],0.0
+1373,   S3__Station23__Camera1__CAM44277__2015-06-18__10-07-44.JPG,     Unknown_3_6_Left,      [342 208 294 189],0.0
+1374,   S3__Station24__Camera2__CAM40779__2013-07-16__00-25-41.JPG,     Unknown_3_6_Left,      [324 324 336 115],0.0
+1375,   S4__Station25__Camera1__CAM40480__2014-07-01__23-28-41.JPG,    Unknown_4_90_Left,      [ 11 102 786 378],0.0
+1376,   S4__Station28__Camera1__CAM41051__2013-09-02__06-12-30.JPG,    Unknown_4_90_Left,      [120 131 663 335],0.0
+1377,   S5__Station25__Camera1__CAM43309__2014-12-03__06-10-15.JPG,    Unknown_5_33_Left,      [222 281 526 265],0.0
+1378,   S5__Station26__Camera1__CAM41124__2015-09-27__02-14-24.JPG,    Unknown_5_33_Left,      [215 184 582 286],0.0
+1379,   S6__Station26__Camera1__CAM51702__2017-10-14__23-35-54.JPG,     Female_6_31_Left,  [ 785  720 1078  416],0.0
+1380,   S6__Station27__Camera1__CAM51552__2015-08-22__18-59-38.JPG,     Female_6_31_Left,      [315 240 447 165],0.0
+1381,   S3__Station13__Camera1__CAM44270__2014-04-05__21-42-30.JPG,       Male_3_16_Left,      [344 227 308 122],0.0
+1382,   S3__Station13__Camera2__CAM40058__2013-07-08__01-46-55.JPG,       Male_3_16_Left,      [308 296 358 134],0.0
+1383,   S3__Station15__Camera2__CAM41051__2013-06-25__20-17-17.JPG,       Male_3_19_Left,      [308 198 472 208],0.0
+1384,   S3__Station32__Camera1__CAM40072__2013-07-16__17-53-23.JPG,       Male_3_19_Left,      [344 282 373 159],0.0
+1385,    S6__Station1__Camera2__CAM52141__2017-09-22__03-00-57.JPG,      Male_6_202_Left,  [ 816  476 1054  470],0.0
+1386,   S6__Station32__Camera1__CAM51813__2016-06-14__05-35-09.JPG,      Male_6_202_Left,      [260 345 521 216],0.0
+1387,   S7__Station29__Camera2__CAM44220__2014-08-06__19-28-58.JPG,       Male_7_33_Left,      [ 24  55 773 475],0.0
+1388,   S2__Station11__Camera1__CAM40131__2014-05-16__17-37-04.JPG,       Male_2_15_Left,      [311 221 322 148],0.0
+1389,   S3__Station34__Camera1__CAM41721__2013-06-28__23-59-05.JPG,       Male_3_34_Left,      [304 265 381 191],0.0
+1390,   S1__Station14__Camera2__CAM41077__2014-03-05__19-09-29.JPG,        Male_1_4_Left,      [303 234 383 154],0.0
+1391,   S3__Station29__Camera1__CAM41686__2013-06-23__05-30-50.JPG,     Female_3_30_Left,      [330 249 319 117],0.0
+1392,   S8__Station28__Camera1__CAM51801__2015-12-07__01-45-21.JPG,    Female_8_302_Left,      [ 14 235 375 177],0.0
+1393,   S6__Station28__Camera1__CAM51654__2015-07-12__20-26-16.JPG,     Female_6_15_Left,      [299 349 422 160],0.0
+1394,    S7__Station8__Camera1__CAM44215__2014-07-10__04-52-15.JPG,     Female_7_54_Left,      [  9 228 253  95],0.0
+1395,   S1__Station19__Camera2__CAM44262__2017-02-11__05-15-40.JPG,       Male_1_29_Left,  [ 656  509 1386  963],0.0
+1396,   S3__Station13__Camera1__CAM41108__2013-07-01__17-26-33.JPG,     Female_3_12_Left,      [329 277 448 164],0.0
+1397,   S4__Station34__Camera2__CAM40068__2013-10-08__11-47-06.JPG,    Female_4_354_Left,      [286 234 495 276],0.0
+1398,   S6__Station16__Camera2__CAM51835__2016-05-18__22-09-38.JPG,       Male_6_17_Left,      [130 337 257 102],0.0
+1399,    S2__Station1__Camera1__CAM40068__2014-05-29__06-11-06.JPG,     Female_2_44_Left,      [307 205 359 138],0.0
+1400,    S3__Station4__Camera1__CAM40851__2013-07-23__19-10-33.JPG,      Female_3_2_Left,      [518 211 273 171],0.0
+1401,   S8__Station28__Camera1__CAM51801__2015-12-05__22-22-41.JPG,      Male_8_305_Left,      [319 175 472 218],0.0
+1402,   S2__Station20__Camera2__CAM44214__2014-06-12__20-54-17.JPG,     Female_2_54_Left,      [276 307 514 244],0.0
+1403,   S7__Station28__Camera2__CAM43314__2014-08-01__11-21-19.JPG,    Unknown_7_32_Left,      [ 87  24 710 481],0.0
+1404,   S3__Station14__Camera2__CAM40877__2013-06-23__20-40-00.JPG,      Female_3_7_Left,      [262 198 534 222],0.0
+1405,   S7__Station21__Camera2__CAM43323__2014-07-06__09-29-10.JPG,     Female_7_14_Left,      [110 203 274 117],0.0
+1406,    S5__Station6__Camera1__CAM40304__2016-10-19__20-14-01.JPG,     Female_5_10_Left,      [237 195 511 200],0.0
+1407,   S4__Station20__Camera1__CAM43306__2016-09-03__03-13-42.JPG,       Male_4_63_Left,      [272 208 415 174],0.0
+1408,   S8__Station34__Camera2__CAM51514__2015-11-16__22-28-55.JPG,    Female_8_210_Left,      [308 161 404 174],0.0
+1409,   S2__Station18__Camera2__CAM30863__2013-02-16__12-34-19.JPG,     Female_2_34_Left,      [202 167 565 322],0.0
+1410,    S4__Station3__Camera1__CAM40449__2015-04-08__06-58-09.JPG,      Male_4_337_Left,      [238  35 538 522],0.0
+1411,   S3__Station39__Camera2__CAM44196__2014-05-12__01-51-14.JPG,     Female_3_33_Left,      [367 268 341 143],0.0
+1412,   S4__Station12__Camera2__CAM40069__2015-05-03__02-10-54.JPG,     Female_4_27_Left,      [298 271 432 187],0.0
+1413,    S4__Station2__Camera2__CAM40175__2013-10-05__05-47-35.JPG,   Unknown_4_114_Left,      [190 351 598 240],0.0
+1414,    S8__Station3__Camera1__CAM51625__2015-12-07__01-14-02.JPG,    Female_8_311_Left,      [281 215 458 186],0.0
+1415,   S4__Station13__Camera2__CAM44219__2016-08-15__01-35-42.JPG,    Unknown_4_37_Left,      [ 13 106 624 283],0.0
+1416,   S7__Station32__Camera1__CAM40491__2014-07-09__04-53-45.JPG,     Female_7_40_Left,      [319 244 395 134],0.0
+1417,    S2__Station1__Camera2__CAM41843__2014-05-10__23-10-38.JPG,     Female_2_41_Left,      [315 261 436 155],0.0
+1418,   S6__Station23__Camera2__CAM51943__2017-09-30__17-16-47.JPG,      Male_6_200_Left,  [ 725  631 1134  624],0.0
+1419,   S8__Station23__Camera2__CAM51724__2015-11-21__23-28-22.JPG,    Female_8_319_Left,      [293 213 314 136],0.0
+1420,   S4__Station31__Camera2__CAM44174__2014-08-11__08-03-42.JPG,     Female_4_13_Left,      [278  88 503 203],0.0
+1421,   S1__Station19__Camera1__CAM40814__2017-03-12__22-04-55.JPG,       Male_1_30_Left,  [ 527  335 1123  496],0.0
+1422,   S5__Station28__Camera1__CAM41537__2015-10-08__02-54-17.JPG,     Female_5_42_Left,      [252 282 447 197],0.0
+1423,   S3__Station18__Camera1__CAM40050__2013-06-16__02-37-39.JPG,      Female_3_9_Left,      [300 257 489 209],0.0
+1424,    S5__Station5__Camera1__CAM42259__2015-10-10__02-50-33.JPG,     Unknown_5_8_Left,      [322 285 310 125],0.0
+1425,   S4__Station13__Camera2__CAM41056__2013-09-18__19-03-33.JPG,    Female_4_358_Left,      [308 281 368 139],0.0
+1426,    S8__Station4__Camera2__CAM51863__2015-12-06__21-55-27.JPG,      Male_8_205_Left,      [337 217 426 181],0.0
+1427,   S2__Station10__Camera3__CAM43324__2017-04-26__18-22-35.JPG,     Female_2_99_Left,      [842 849 644 287],0.0
+1428,   S4__Station28__Camera1__CAM41051__2013-10-05__19-26-39.JPG,   Unknown_4_346_Left,      [218 144 575 288],0.0
+1429,   S4__Station12__Camera2__CAM41063__2013-09-21__20-01-25.JPG,     Female_4_23_Left,      [299 183 488 280],0.0
+1430,    S7__Station3__Camera1__CAM44160__2014-07-18__06-47-32.JPG,    Unknown_7_51_Left,      [262 238 400 180],0.0
+1431,   S8__Station42__Camera1__CAM51703__2015-12-03__20-28-48.JPG,    Female_8_220_Left,      [140 127 647 375],0.0
+1432,    S2__Station1__Camera1__CAM40068__2014-05-27__04-48-11.JPG,     Female_2_43_Left,      [164 173 601 215],0.0
+1433,   S6__Station17__Camera2__CAM51673__2017-10-10__03-49-21.JPG,   Unknown_6_206_Left,      [946 700 744 355],0.0
+1434,   S7__Station18__Camera2__CAM41666__2014-08-11__11-36-03.JPG,        Male_7_6_Left,      [221 146 571 288],0.0
+1435,   S7__Station19__Camera1__CAM44208__2014-08-06__14-04-00.JPG,        Male_7_3_Left,      [251 238 356 134],0.0
+1436,   S3__Station16__Camera2__CAM43328__2017-06-30__03-09-19.JPG,     Female_3_31_Left,      [801 749 725 304],0.0
+1437,   S8__Station24__Camera1__CAM51524__2015-11-16__22-09-36.JPG,    Female_8_224_Left,      [339 254 260  94],0.0
+1438,   S8__Station36__Camera2__CAM51671__2015-11-03__07-05-20.JPG,    Female_8_212_Left,      [226 198 562 257],0.0
+1439,   S8__Station29__Camera2__CAM52072__2015-11-28__20-23-44.JPG,    Female_8_306_Left,      [306 232 404 187],0.0
+1440,   S7__Station25__Camera1__CAM43213__2014-07-13__21-29-24.JPG,     Female_7_21_Left,      [310 212 322 158],0.0
+1441,    S3__Station9__Camera2__CAM40483__2016-07-09__17-49-34.JPG,       Male_3_62_Left,      [310 226 339 141],0.0
+1442,    S2__Station1__Camera2__CAM51680__2015-05-25__07-36-44.JPG,     Female_2_48_Left,      [101 168 697 421],0.0
+1443,    S3__Station4__Camera2__CAM44125__2014-05-06__20-53-38.JPG,     Female_3_13_Left,      [219  59 579 515],0.0
+1444,    S2__Station1__Camera1__CAM51720__2015-05-22__04-37-07.JPG,       Male_2_11_Left,      [ 28 130 759 253],0.0
+1445,    S4__Station1__Camera2__CAM40072__2014-06-30__20-35-29.JPG,     Female_4_64_Left,      [310 234 362 134],0.0
+1446,   S8__Station22__Camera2__CAM51696__2015-11-21__20-32-09.JPG,    Female_8_206_Left,      [ 37 252 324 127],0.0
+1447,   S4__Station13__Camera2__CAM41036__2017-08-15__18-47-40.JPG,    Female_4_352_Left,      [674 462 795 317],0.0
+1448,   S7__Station12__Camera2__CAM44163__2014-07-01__05-32-00.JPG,        Male_7_1_Left,      [263 187 509 213],0.0
+1449,   S5__Station37__Camera2__CAM40069__2016-09-22__01-43-33.JPG,       Male_5_58_Left,      [327 293 405 182],0.0
+1450,    S4__Station4__Camera2__CAM44200__2016-08-17__13-47-23.JPG,    Female_4_351_Left,      [306 168 488 264],0.0
+1451,   S7__Station34__Camera1__CAM42043__2014-07-02__15-54-42.JPG,    Unknown_7_48_Left,      [253 217 508 250],0.0
+1452,   S6__Station18__Camera2__CAM51707__2017-09-28__08-31-46.JPG,      Male_6_203_Left,  [ 608  525 1416  837],0.0
+1453,   S8__Station22__Camera2__CAM51696__2015-11-17__21-52-09.JPG,    Female_8_303_Left,      [302 320 468 196],0.0
+1454,    S4__Station1__Camera1__CAM41302__2017-08-28__05-54-33.JPG,      Male_4_138_Left,      [766 672 897 421],0.0
+1455,   S1__Station13__Camera1__CAM41830__2013-05-23__20-22-59.JPG,        Male_1_3_Left,      [356 274 294 151],0.0
+1456,   S1__Station13__Camera1__CAM41830__2013-06-25__19-46-58.JPG,       Male_1_15_Left,      [303 347 202  94],0.0
+1457,   S8__Station24__Camera2__CAM51709__2015-11-16__22-43-27.JPG,    Female_8_208_Left,      [160 249 630 308],0.0
+1458,   S8__Station21__Camera2__CAM51848__2015-12-13__00-09-34.JPG,    Female_8_205_Left,      [358 237 365 175],0.0
+1459,    S4__Station1__Camera2__CAM40246__2013-09-24__06-03-31.JPG,       Male_4_67_Left,      [294 239 427 159],0.0
+1460,    S3__Station9__Camera2__CAM41117__2013-07-12__21-41-45.JPG,     Unknown_3_1_Left,      [312 335 415 161],0.0
+1461,   S8__Station24__Camera2__CAM51709__2015-11-08__22-02-26.JPG,    Female_8_201_Left,      [220 243 563 239],0.0
+1462,   S1__Station32__Camera2__CAM30826__2013-06-11__23-50-41.JPG,      Female_1_7_Left,      [229 370 460 208],0.0
+1463,   S4__Station26__Camera1__CAM40461__2014-07-07__18-44-29.JPG,     Female_4_94_Left,      [ 79 260 713 277],0.0
+1464,   S5__Station26__Camera2__CAM44211__2015-10-18__20-31-09.JPG,       Male_5_38_Left,      [304 223 487 218],0.0
+1465,   S7__Station33__Camera1__CAM40866__2014-07-27__22-18-24.JPG,       Male_7_43_Left,      [375 217 256 163],0.0
+1466,    S3__Station2__Camera1__CAM40055__2017-07-06__02-45-25.JPG,       Male_3_10_Left,  [ 627  253 1415  902],0.0
+1467,   S7__Station33__Camera2__CAM44275__2014-07-01__15-13-57.JPG,     Female_7_42_Left,      [ 98  38 700 401],0.0
+1468,   S1__Station25__Camera1__CAM40866__2015-02-12__19-44-53.JPG,       Male_1_19_Left,      [343 272 203 100],0.0
+1469,   S3__Station38__Camera2__CAM40355__2016-06-18__07-09-17.JPG,       Male_3_67_Left,      [234 205 542 246],0.0
+1470,   S8__Station40__Camera2__CAM51710__2015-11-04__20-04-08.JPG,      Male_8_207_Left,      [238 239 550 210],0.0
+1471,   S3__Station14__Camera1__CAM41063__2017-06-22__20-36-13.JPG,       Male_3_29_Left,      [815 602 779 307],0.0
+1472,   S3__Station14__Camera2__CAM40068__2016-06-08__19-15-42.JPG,       Male_3_64_Left,      [329 244 323 133],0.0
+1473,   S3__Station18__Camera1__CAM40311__2016-05-29__21-37-41.JPG,    Unknown_3_12_Left,      [261 207 538 309],0.0
+1474,   S1__Station28__Camera2__CAM44172__2015-01-30__06-43-38.JPG,       Male_1_21_Left,      [ 45 242 301 119],0.0
+1475,    S4__Station7__Camera1__CAM40062__2015-04-30__02-42-11.JPG,       Male_4_43_Left,      [354 238 409 181],0.0
+1476,   S3__Station29__Camera1__CAM40275__2016-05-28__02-00-58.JPG,     Female_3_35_Left,      [ 19 303 294 124],0.0
+1477,   S3__Station26__Camera2__CAM40449__2013-07-15__22-53-04.JPG,    Unknown_3_10_Left,      [223 310 570 275],0.0
+1478,   S6__Station19__Camera2__CAM51734__2017-09-19__16-07-14.JPG,    Female_6_201_Left,      [791 555 510 454],0.0
+1479,   S5__Station36__Camera2__CAM44212__2015-10-08__21-17-24.JPG,    Unknown_5_56_Left,      [  3 328 328 173],0.0
+1480,   S7__Station27__Camera1__CAM44249__2014-07-16__01-41-34.JPG,       Male_7_20_Left,      [236 102 554 228],0.0
+1481,   S3__Station24__Camera2__CAM43237__2017-05-31__21-18-18.JPG,        Male_3_8_Left,      [886 530 806 320],0.0
+1482,   S2__Station39__Camera1__CAM42259__2014-05-17__19-42-40.JPG,     Female_2_82_Left,      [217 191 581 358],0.0
+1483,   S2__Station20__Camera1__CAM41830__2013-02-16__20-14-00.JPG,       Male_2_47_Left,      [338 253 456 234],0.0
+1484,   S1__Station26__Camera1__CAM40076__2015-02-20__00-17-46.JPG,       Male_1_16_Left,      [325 179 328 137],0.0
+1485,   S5__Station32__Camera1__CAM40141__2015-10-29__18-42-07.JPG,       Male_5_44_Left,      [239 209 537 239],0.0
+1486,    S8__Station2__Camera2__CAM51701__2015-11-06__20-31-17.JPG,    Female_8_200_Left,      [351 297 281 122],0.0
+1487,    S6__Station6__Camera1__CAM51935__2016-05-08__04-05-05.JPG,     Female_6_35_Left,      [  8 343 355 120],0.0
+1488,   S8__Station21__Camera2__CAM51848__2015-12-11__03-09-08.JPG,      Male_8_300_Left,      [363 232 362 172],0.0
+1489,   S7__Station29__Camera1__CAM44003__2017-12-15__20-04-24.JPG,       Male_7_45_Left,  [   7   13 2026 1273],0.0
+1490,   S8__Station11__Camera1__CAM51697__2015-12-01__16-20-15.JPG,    Female_8_215_Left,      [116  65 671 426],0.0
+1491,   S4__Station27__Camera1__CAM40069__2014-07-06__05-57-41.JPG,   Unknown_4_102_Left,      [261 169 514 273],0.0
+1492,   S8__Station21__Camera2__CAM51702__2015-11-11__02-06-33.JPG,    Female_8_320_Left,      [187 286 600 262],0.0
+1493,   S1__Station19__Camera2__CAM40058__2016-02-23__22-46-59.JPG,        Male_1_8_Left,      [276 182 397 157],0.0
+1494,   S1__Station20__Camera2__CAM40406__2013-06-19__02-00-31.JPG,      Female_1_9_Left,      [292 324 409 162],0.0
+1495,   S4__Station24__Camera2__CAM43339__2013-10-08__20-54-00.JPG,       Male_4_56_Left,      [307 313 323 135],0.0
+1496,   S1__Station19__Camera2__CAM40480__2013-06-03__17-09-26.JPG,        Male_1_7_Left,      [297 214 501 289],0.0
+1497,   S6__Station19__Camera2__CAM51928__2016-06-09__23-22-35.JPG,     Female_6_12_Left,      [257 276 368 142],0.0
+1498,   S8__Station32__Camera2__CAM51979__2015-11-23__22-45-27.JPG,    Female_8_209_Left,      [343 263 271 109],0.0
+1499,   S4__Station21__Camera2__CAM40327__2016-09-03__19-17-07.JPG,       Male_4_80_Left,      [325 298 378 183],0.0
+1500,   S3__Station24__Camera2__CAM44192__2014-05-07__18-08-28.JPG,     Female_3_28_Left,      [269 175 485 214],0.0
+1501,   S6__Station30__Camera2__CAM51705__2015-08-15__03-20-24.JPG,     Female_6_33_Left,      [ 10 231 327 133],0.0
+1502,  S35__Station34__Camera2__CAM63003__2017-04-22__02-33-59.JPG,      Male_35_17_Left,  [ 842  463 1177  966],0.0
+1503,   S6__Station16__Camera2__CAM51737__2017-10-05__03-34-54.JPG,   Unknown_6_205_Left,  [ 237  375 1802  983],0.0
+1504,   S8__Station16__Camera1__CAM51844__2015-11-19__02-46-19.JPG,    Female_8_332_Left,      [348 239 329 124],0.0
+1505,    S4__Station5__Camera2__CAM40814__2015-05-01__06-54-26.JPG,   Unknown_4_343_Left,      [183 228 599 335],0.0
+1506,    S1__Station8__Camera1__CAM30449__2013-06-05__17-49-00.JPG,     Female_1_16_Left,      [306 247 477 176],0.0
+1507,   S5__Station29__Camera2__CAM44160__2016-09-24__20-34-19.JPG,       Male_5_43_Left,      [294 177 383 142],0.0
+1508,   S5__Station36__Camera1__CAM44205__2015-10-19__17-57-09.JPG,    Unknown_5_53_Left,      [262 230 529 268],0.0
+1509,    S9__Station7__Camera1__CAM51988__2017-03-22__19-03-12.JPG,       Male_9_15_Left,  [ 928  238 1116  961],0.0
+1510,  S1__Station36__Camera1__CUDDEBACK__2013-06-04__04-02-00.JPG,     Unknown_1_5_Left,      [565 671 844 320],0.0
+1511,    S4__Station2__Camera1__CAM41469__2013-09-11__04-41-17.JPG,    Female_4_110_Left,      [222 204 564 286],0.0
+1512,   S3__Station25__Camera2__CAM43188__2017-06-19__21-15-14.JPG,     Female_3_27_Left,      [679 590 916 489],0.0
+1513,   S6__Station10__Camera2__CAM51880__2016-05-03__07-16-45.JPG,     Unknown_6_3_Left,      [111 333 337 171],0.0
+1514,   S8__Station11__Camera2__CAM51744__2015-11-26__07-57-09.JPG,      Male_8_204_Left,      [379 233 412 252],0.0
+1515,   S4__Station19__Camera1__CAM40442__2014-07-13__03-59-50.JPG,     Female_4_48_Left,      [276 154 521 302],0.0
+1516,   S8__Station24__Camera1__CAM51524__2015-11-16__21-58-31.JPG,    Female_8_207_Left,      [331 270 239  98],0.0
+1517,   S3__Station38__Camera1__CAM42062__2016-06-28__22-21-36.JPG,       Male_3_61_Left,      [305 290 395 176],0.0
+1518,   S7__Station31__Camera1__CAM44197__2014-07-06__01-37-33.JPG,     Female_7_37_Left,      [295 188 495 226],0.0
+1519,    S4__Station8__Camera2__CAM41236__2017-09-06__17-28-03.JPG,    Female_4_134_Left,      [848 633 779 306],0.0
+1520,   S8__Station47__Camera1__CAM51548__2015-11-20__01-36-17.JPG,    Female_8_214_Left,      [ 42 267 351 122],0.0
+1521,   S2__Station10__Camera2__CAM41808__2013-03-18__23-08-20.JPG,        Male_2_1_Left,      [122 240 595 195],0.0
+1522,   S8__Station42__Camera2__CAM51698__2015-11-08__04-42-32.JPG,      Male_8_209_Left,      [374 268 327 119],0.0
+1523,   S3__Station13__Camera1__CAM41108__2013-07-02__16-52-57.JPG,       Male_3_15_Left,      [  4  47 709 538],0.0
+1524,   S7__Station16__Camera2__CAM44271__2014-07-20__19-13-20.JPG,        Male_7_7_Left,      [236  99 557 261],0.0
+1525,   S7__Station40__Camera1__CAM40149__2014-08-06__20-35-33.JPG,       Male_7_41_Left,      [257 179 524 241],0.0
+1526,    S4__Station5__Camera1__CAM41338__2017-08-22__21-44-53.JPG,    Female_4_139_Left,  [ 528  462 1515  765],0.0
+1527,    S5__Station9__Camera1__CAM41108__2016-10-01__06-29-19.JPG,    Unknown_5_21_Left,      [276 243 512 271],0.0
+1528,   S4__Station30__Camera1__CAM41409__2015-04-22__04-53-39.JPG,      Male_4_109_Left,      [230 113 557 268],0.0
+1529,   S8__Station62__Camera2__CAM51542__2015-12-10__08-29-13.JPG,      Male_8_211_Left,      [314 223 409 176],0.0
+1530,   S7__Station40__Camera2__CAM44294__2014-07-08__01-59-22.JPG,     Female_7_22_Left,      [317 227 340 142],0.0
+1531,   S4__Station21__Camera1__CAM44163__2016-08-22__02-56-57.JPG,    Unknown_4_99_Left,      [ 11 150 305 182],0.0
+1532,  S35__Station13__Camera1__CAM62684__2017-04-22__04-28-09.JPG,    Female_35_16_Left,  [ 497  116 1498  984],0.0
+1533,   S7__Station42__Camera2__CAM43237__2017-12-15__03-38-25.JPG,       Male_7_75_Left,  [ 133  366 1226 1057],0.0
+1534,   S2__Station39__Camera1__CAM42259__2014-05-12__20-35-18.JPG,       Male_2_67_Left,      [307 228 388 158],0.0
+1535,   S8__Station51__Camera1__CAM51230__2015-12-13__01-10-19.JPG,      Male_8_200_Left,      [309 201 469 198],0.0
+1536,   S2__Station29__Camera2__CAM30845__2013-02-17__02-22-07.JPG,       Male_2_61_Left,      [271 273 368 149],0.0
+1537,   S7__Station37__Camera3__CAM41041__2017-12-26__23-23-45.JPG,   Unknown_7_107_Left,  [ 280  381 1709 1117],0.0
+1538,   S2__Station28__Camera1__CAM30815__2013-02-22__11-50-26.JPG,    Unknown_2_93_Left,      [ 68 232 656 339],0.0
+1539,   S3__Station23__Camera2__CAM41620__2017-06-09__21-46-27.JPG,     Female_3_18_Left,      [632 657 954 395],0.0
+1540,   S7__Station28__Camera1__CAM44218__2014-07-02__22-51-33.JPG,     Female_7_25_Left,      [393 222 266 104],0.0
+1541,   S6__Station22__Camera1__CAM52058__2016-06-13__03-53-24.JPG,    Unknown_6_26_Left,      [182 324 427 139],0.0
+1542,   S4__Station29__Camera2__CAM41869__2014-07-10__18-35-34.JPG,       Male_4_96_Left,      [258 346 326 138],0.0
+1543,   S3__Station18__Camera1__CAM40304__2015-06-06__21-46-39.JPG,       Male_3_57_Left,      [217 234 560 235],0.0
+1544,    S8__Station1__Camera2__CAM51733__2015-11-14__00-16-38.JPG,    Female_8_203_Left,      [ 12 237 356 183],0.0
+1545,    S6__Station8__Camera2__CAM51931__2017-10-23__17-49-55.JPG,   Unknown_6_207_Left,  [ 821  191 1011 1298],0.0
+1546,   S12__Station1__Camera2__CAM40872__2017-08-03__00-30-06.JPG,     Male_12_201_Left,  [ 208  423 1564  611],0.0
+1547,   S7__Station41__Camera2__CAM44269__2014-07-26__07-11-24.JPG,     Female_7_35_Left,      [ 66 269 315 185],0.0
+1548,   S4__Station24__Camera2__CAM41843__2014-07-31__05-02-27.JPG,   Unknown_4_341_Left,      [260 200 394 165],0.0
+1549,   S4__Station28__Camera2__CAM40774__2017-08-08__23-51-21.JPG,    Female_4_145_Left,      [709 500 951 360],0.0
+1550,    S2__Station3__Camera1__CAM40771__2016-04-07__20-24-19.JPG,    Female_2_123_Left,      [283 192 352 146],0.0
+1551,   S8__Station21__Camera1__CAM51848__2015-11-11__23-31-51.JPG,      Male_8_202_Left,      [301 267 425 176],0.0
+1552,   S3__Station10__Camera2__CAM40149__2017-06-17__19-08-11.JPG,     Female_2_25_Left,      [827 725 715 316],0.0
+1553,   S3__Station22__Camera1__CAM44307__2014-03-29__21-23-30.JPG,     Unknown_3_4_Left,      [ 70 233 297 115],0.0
+1554,   S5__Station36__Camera1__CAM44205__2015-10-09__05-27-41.JPG,       Male_5_52_Left,      [237 200 552 287],0.0
+1555,   S2__Station33__Camera1__CAM44264__2014-05-28__11-27-14.JPG,     Female_2_72_Left,      [128 242 250 138],0.0
